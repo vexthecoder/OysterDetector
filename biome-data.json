@@ -1,0 +1,82 @@
+[
+    {
+      "name": "WINDY",
+      "visuals": {
+        "primary_hex": "0xA1E6FF",
+        "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/c/c6/Windy_biome.png/revision/latest"
+      },
+      "cycle_duration": 120
+    },
+    {
+      "name": "RAINY",
+      "visuals": {
+        "primary_hex": "0x0371B1",
+        "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/d/da/Rainy_biome.png/revision/latest"
+      },
+      "cycle_duration": 120
+    },
+    {
+      "name": "SNOWY",
+      "visuals": {
+        "primary_hex": "0xDDF0F9",
+        "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/e/e6/Snowy_biome.png/revision/latest"
+      },
+      "cycle_duration": 120
+    },
+    {
+      "name": "SAND STORM",
+      "visuals": {
+        "primary_hex": "0x90755A",
+        "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/6/6e/Sandstorm_biome.png/revision/latest"
+      },
+      "cycle_duration": 600
+    },
+    {
+      "name": "HELL",
+      "visuals": {
+        "primary_hex": "0xFF4820",
+        "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/7/7e/Hell_biome.png/revision/latest"
+      },
+      "cycle_duration": 660
+    },
+    {
+      "name": "STARFALL",
+      "visuals": {
+        "primary_hex": "0x021BB8",
+        "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/d/d2/Starfall_biome.png/revision/latest"
+      },
+      "cycle_duration": 600
+    },
+    {
+      "name": "CORRUPTION",
+      "visuals": {
+        "primary_hex": "0x6A0DAD",
+        "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/4/41/Corruption_biome.png/revision/latest"
+      },
+      "cycle_duration": 600
+    },
+    {
+      "name": "NULL",
+      "visuals": {
+        "primary_hex": "0x838383",
+        "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/a/a9/Null_biome.png/revision/latest"
+      },
+      "cycle_duration": 90
+    },
+    {
+      "name": "GLITCHED",
+      "visuals": {
+        "primary_hex": "0xBFFF00",
+        "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/1/10/Glitched_biome.png/revision/latest"
+      },
+      "cycle_duration": 164
+    },
+    {
+      "name": "DREAMSPACE",
+      "visuals": {
+        "primary_hex": "0xEA9DDA",
+        "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/8/88/Dreamspace_biome.png/revision/latest"
+      },
+      "cycle_duration": 130
+    }
+  ]
