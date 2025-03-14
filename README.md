@@ -5,7 +5,8 @@ A Biome/Aura Detector for the Roblox game Sol's RNG.
 
 ## Settings
 
-- webhook_url  (**Required**)
+- webhooks  (**Required**)
+  - You can create a maximum of 5 webhook URLs to send messages to. Duplicate URLs will be ignored.
   - The URL used to communicate with your discord channel. Use [this tutorial](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks#:~:text=%C2%A0%20Facebook-,Making%20A%20Webhook,-With%20that%20in) if you don't know how to create one.
 - private_server_link
   - Your Sol's RNG private server link.
@@ -35,8 +36,12 @@ Example (this is not a real bug and is just for demonstration):
 ## TBA
 
 - GUI
-- Multi-Webhook Sending
 - Multi-Instance Detecting
 - Auto Potion Popping
 - Auto Equip
 - Auto Item Using
+
+## Credits
+
+- [@vex.rng](https://discord.com/users/1018875765565177976) - Creator
+- [@requiredstorage](https://discord.com/users/1014820802241245184) - Tester
