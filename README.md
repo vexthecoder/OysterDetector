@@ -13,7 +13,15 @@ A Biome/Aura Detector for the Roblox game Sol's RNG.
 - biome_alerts
   - You can set the value to either "true" or "false" depending on whether you want to recieve webhook messages when that biome is detected.
 - time_zone_offset
-  - The time zone offset for your location. For example, if you live in the Eastern Time Zone, you would set this value to -5.
+  - Oyster Detector should automatically detect your timezone, but if it doesn't, you can set the offset manually.
+  - Example: If the detector says 12:00 P.M., and the actual time is 1:00 P.M., the offset would be 1.
+- ping_on_min_rarity
+  - You can set the value to either "true" or "false" depending on whether you want to recieve a ping when you recieve an aura greater than or equal to the min_ping_rarity.
+- min_ping_rarity
+  - The minimum rarity you want to recieve a ping for.
+- user_id
+  - Your Discord user ID.
+  - Used to ping you when you recieve an aura greater than or equal to the min_ping_rarity.
 
 ## How to report bugs
 
