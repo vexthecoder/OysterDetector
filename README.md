@@ -61,9 +61,6 @@ Example (this is not a real bug and is just for demonstration):
 - Auto Equip
 - Auto Item Use
 
-## **Links**
-[GitHub Repo](https://github.com/vexthecoder/OysterDetector)
-
-[Latest Release](https://github.com/vexthecoder/OysterDetector/releases/latest)
-
--# Latest Version: **v1.0.5**
+## **Credits**
+- **[@vex.rng](https://discord.com/users/1018875765565177976)**: Developer
+- **[@RequiredStorage](https://discord.com/users/1014820802241245184)**: Tester
