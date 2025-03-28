@@ -8,11 +8,6 @@
 - **Crash/Reconnect Logging**: Sends alerts if Roblox closes unexpectedly or the game disconnects, with auto-rejoin status updates.
 - **Private Server Integration**: Embeds your server link in every biome alert for quick joins in biome sniper servers.
 
-## **How to Configure**
-1. Run the .exe file for the first time to create a settings.cfg template.
-2. Fill in the settings.cfg file with your desired settings.
-3. Run the .exe file again to start the detector.
-
 ## Configuration
 - **webhooks**  (**Minimum 1 Required**)
   - You can create a maximum of 5 webhook URLs to send messages to. Duplicate URLs will be ignored.
@@ -52,10 +47,9 @@ Example (this is not a real bug and is just for demonstration):
 
 ## **Notes**
 - **GLITCHED & DREAMSPACE are on by default and can not be turned off.**
-- **Multi-Instance Detection is not supported.** It will freak out and send all logs to the webhook at once, rate limiting it and spamming your channel.
+- **Multi-Instance Detection is not supported.** It will freak out and send all previous logs to the webhook at once, rate limiting it and spamming your channel.
 
 ## **TBA**
-- GUI
 - Multi-Instance Support
 - Auto Potion
 - Auto Equip
@@ -64,3 +58,5 @@ Example (this is not a real bug and is just for demonstration):
 ## **Credits**
 - **[@vex.rng](https://discord.com/users/1018875765565177976)**: Developer
 - **[@RequiredStorage](https://discord.com/users/1014820802241245184)**: Tester
+- **[Maxstellar's Biome Macro](https://github.com/maxstellar/maxstellar-Biome-Macro)**: Inspiration
+- **[Universal Macros](https://discord.gg/B3y2PS65y9)**: Discord Server
