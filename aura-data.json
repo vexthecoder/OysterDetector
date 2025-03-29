@@ -1230,47 +1230,7 @@
         }
     },
     {
-        "identifier": "im peach",
-        "properties": {
-            "base_chance": 0,
-            "biome_amplifier": [
-                "None",
-                1
-            ]
-        }
-    },
-    {
-        "identifier": "impeach",
-        "properties": {
-            "base_chance": 0,
-            "biome_amplifier": [
-                "None",
-                1
-            ]
-        }
-    },
-    {
-        "identifier": "Impeached_im peach",
-        "properties": {
-            "base_chance": 0,
-            "biome_amplifier": [
-                "None",
-                1
-            ]
-        }
-    },
-    {
-        "identifier": "Im Peach",
-        "properties": {
-            "base_chance": 0,
-            "biome_amplifier": [
-                "None",
-                1
-            ]
-        }
-    },
-    {
-        "identifier": "im peach",
+        "identifier": "Impeached_impeach",
         "properties": {
             "base_chance": 0,
             "biome_amplifier": [
