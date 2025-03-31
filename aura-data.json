@@ -1440,56 +1440,6 @@
         }
     },
     {
-        "identifier": "apostolos_veil",
-        "properties": {
-            "base_chance": 0,
-            "biome_amplifier": [
-                "None",
-                1
-            ]
-        }
-    },
-    {
-        "identifier": "Apostolos_Veil",
-        "properties": {
-            "base_chance": 0,
-            "biome_amplifier": [
-                "None",
-                1
-            ]
-        }
-    },
-    {
-        "identifier": "APOSTOLOSVEIL",
-        "properties": {
-            "base_chance": 0,
-            "biome_amplifier": [
-                "None",
-                1
-            ]
-        }
-    },
-    {
-        "identifier": "apostolosveil",
-        "properties": {
-            "base_chance": 0,
-            "biome_amplifier": [
-                "None",
-                1
-            ]
-        }
-    },
-    {
-        "identifier": "ApostolosVeil",
-        "properties": {
-            "base_chance": 0,
-            "biome_amplifier": [
-                "None",
-                1
-            ]
-        }
-    },
-    {
         "identifier": "Lightning",
         "properties": {
             "base_chance": 0,
