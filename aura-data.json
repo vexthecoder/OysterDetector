@@ -1112,60 +1112,60 @@
     {
         "identifier": "Wonderland",
         "properties": {
-            "base_chance": 12000000,
+            "base_chance": 0,
             "biome_amplifier": [
-                "SNOWY",
-                3
+                "None",
+                1
             ]
         }
     },
     {
         "identifier": "Santa Frost",
         "properties": {
-            "base_chance": 45000000,
+            "base_chance": 0,
             "biome_amplifier": [
-                "SNOWY",
-                3
+                "None",
+                1
             ]
         }
     },
     {
         "identifier": "WinterFantasy",
         "properties": {
-            "base_chance": 72000000,
+            "base_chance": 0,
             "biome_amplifier": [
-                "SNOWY",
-                3
+                "None",
+                1
             ]
         }
     },
     {
         "identifier": "Express",
         "properties": {
-            "base_chance": 90000000,
+            "base_chance": 0,
             "biome_amplifier": [
-                "SNOWY",
-                3
+                "None",
+                1
             ]
         }
     },
     {
         "identifier": "ABOMITABLE",
         "properties": {
-            "base_chance": 120000000,
+            "base_chance": 0,
             "biome_amplifier": [
-                "SNOWY",
-                3
+                "None",
+                1
             ]
         }
     },
     {
         "identifier": "Atlas_Yuletide",
         "properties": {
-            "base_chance": 510000000,
+            "base_chance": 0,
             "biome_amplifier": [
-                "SNOWY",
-                3
+                "None",
+                1
             ]
         }
     },
