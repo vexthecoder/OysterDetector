@@ -375,7 +375,7 @@
             "base_chance": 50000,
             "biome_amplifier": [
                 "STARFALL",
-                10
+                5
             ]
         }
     },
@@ -405,7 +405,7 @@
             "base_chance": 50000,
             "biome_amplifier": [
                 "STARFALL",
-                10
+                5
             ]
         }
     },
@@ -505,7 +505,7 @@
             "base_chance": 120000,
             "biome_amplifier": [
                 "STARFALL",
-                10
+                5
             ]
         }
     },
@@ -630,6 +630,16 @@
         }
     },
     {
+        "identifier": "Cosmos",
+        "properties": {
+            "base_chance": 1520000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Gravitational",
         "properties": {
             "base_chance": 2000000,
@@ -705,7 +715,7 @@
             "base_chance": 5000000,
             "biome_amplifier": [
                 "STARFALL",
-                10
+                5
             ]
         }
     },
@@ -770,6 +780,16 @@
         }
     },
     {
+        "identifier": "Velocity",
+        "properties": {
+            "base_chance": 7630000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Nihility",
         "properties": {
             "base_chance": 9000000,
@@ -780,12 +800,22 @@
         }
     },
     {
+        "identifier": "Helios",
+        "properties": {
+            "base_chance": 9000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Starscourge",
         "properties": {
             "base_chance": 10000000,
             "biome_amplifier": [
                 "STARFALL",
-                10
+                5
             ]
         }
     },
@@ -815,7 +845,7 @@
             "base_chance": 14000000,
             "biome_amplifier": [
                 "STARFALL",
-                10
+                5
             ]
         }
     },
@@ -935,7 +965,7 @@
             "base_chance": 100000000,
             "biome_amplifier": [
                 "STARFALL",
-                10
+                5
             ]
         }
     },
@@ -1035,7 +1065,7 @@
             "base_chance": 430000000,
             "biome_amplifier": [
                 "STARFALL",
-                10
+                5
             ]
         }
     },
@@ -1103,6 +1133,26 @@
         "identifier": "Luminosity",
         "properties": {
             "base_chance": 1200000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "pukeko",
+        "properties": {
+            "base_chance": 3198,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": ":Flushed:_Troll",
+        "properties": {
+            "base_chance": 1000000,
             "biome_amplifier": [
                 "None",
                 1
