@@ -1120,9 +1120,29 @@
         }
     },
     {
+        "identifier": "Ruins_Withered",
+        "properties": {
+            "base_chance": 800000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Aegis",
         "properties": {
             "base_chance": 825000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "PIXELATION",
+        "properties": {
+            "base_chance": 1073741824,
             "biome_amplifier": [
                 "None",
                 1
