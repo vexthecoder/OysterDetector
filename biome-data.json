@@ -1,5 +1,13 @@
 [
     {
+      "name": "NORMAL",
+      "visuals": {
+        "primary_hex": "0xFFFFFF",
+        "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/f/f9/Normal_biome.png/revision/latest"
+      },
+      "cycle_duration": 0
+    },
+    {
       "name": "WINDY",
       "visuals": {
         "primary_hex": "0xA1E6FF",
