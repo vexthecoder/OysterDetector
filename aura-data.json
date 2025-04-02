@@ -790,6 +790,16 @@
         }
     },
     {
+        "identifier": "Origin_Onion",
+        "properties": {
+            "base_chance": 8000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Nihility",
         "properties": {
             "base_chance": 9000000,
