@@ -1190,6 +1190,16 @@
         }
     },
     {
+        "identifier": "Glock_shieldofthesky",
+        "properties": {
+            "base_chance": 170000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Wonderland",
         "properties": {
             "base_chance": 0,
