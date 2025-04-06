@@ -1430,7 +1430,7 @@
         }
     },
     {
-        "identifier": "Pump",
+        "identifier": "PUMP",
         "properties": {
             "base_chance": 0,
             "biome_amplifier": [
