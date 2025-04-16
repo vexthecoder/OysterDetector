@@ -542,7 +542,7 @@
     {
         "identifier": "BOUNDED",
         "properties": {
-            "base_chance": 125000,
+            "base_chance": 200000,
             "biome_amplifier": [
                 "None",
                 1
