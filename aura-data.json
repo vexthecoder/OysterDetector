@@ -790,6 +790,16 @@
         }
     },
     {
+        "identifier": "Anubis",
+        "properties": {
+            "base_chance": 8500000,
+            "biome_amplifier": [
+                "SAND STORM",
+                4
+            ]
+        }
+    },
+    {
         "identifier": "Nihility",
         "properties": {
             "base_chance": 9000000,
@@ -856,6 +866,16 @@
             "biome_amplifier": [
                 "None",
                 1
+            ]
+        }
+    },
+    {
+        "identifier": "Blizzard",
+        "properties": {
+            "base_chance": 19720000,
+            "biome_amplifier": [
+                "SNOWY",
+                3
             ]
         }
     },
@@ -1036,6 +1056,16 @@
             "biome_amplifier": [
                 "HELL",
                 6
+            ]
+        }
+    },
+    {
+        "identifier": "Jazz_Orchestra",
+        "properties": {
+            "base_chance": 336870912,
+            "biome_amplifier": [
+                "None",
+                1
             ]
         }
     },
