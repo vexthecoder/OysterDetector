@@ -920,6 +920,16 @@
         }
     },
     {
+        "identifier": "Virtual_Fatal Error",
+        "properties": {
+            "base_chance": 40413000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Overseer",
         "properties": {
             "base_chance": 45000000,
