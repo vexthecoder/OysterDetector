@@ -770,6 +770,16 @@
         }
     },
     {
+        "identifier": "Anubis",
+        "properties": {
+            "base_chance": 7200000,
+            "biome_amplifier": [
+                "SAND STORM",
+                4
+            ]
+        }
+    },
+    {
         "identifier": "Hyper-Volt",
         "properties": {
             "base_chance": 7500000,
@@ -790,12 +800,12 @@
         }
     },
     {
-        "identifier": "Anubis",
+        "identifier": "HARNESSED",
         "properties": {
             "base_chance": 8500000,
             "biome_amplifier": [
-                "SAND STORM",
-                4
+                "None",
+                1
             ]
         }
     },
@@ -816,6 +826,16 @@
             "biome_amplifier": [
                 "None",
                 1
+            ]
+        }
+    },
+    {
+        "identifier": "Stargazer",
+        "properties": {
+            "base_chance": 9200000,
+            "biome_amplifier": [
+                "STARFALL",
+                5
             ]
         }
     },
@@ -870,16 +890,6 @@
         }
     },
     {
-        "identifier": "Blizzard",
-        "properties": {
-            "base_chance": 19720000,
-            "biome_amplifier": [
-                "SNOWY",
-                3
-            ]
-        }
-    },
-    {
         "identifier": "Chromatic",
         "properties": {
             "base_chance": 20000000,
@@ -896,6 +906,16 @@
             "biome_amplifier": [
                 "None",
                 1
+            ]
+        }
+    },
+    {
+        "identifier": "Blizzard",
+        "properties": {
+            "base_chance": 27315000,
+            "biome_amplifier": [
+                "SNOWY",
+                3
             ]
         }
     },
