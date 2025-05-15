@@ -1806,6 +1806,39 @@
         }
     },
     {
+        "identifier": "\u2605",
+        "properties": {
+            "base_chance": 100,
+            "biome_amplifier": [
+                "DREAMSPACE",
+                1
+            ],
+            "rank": "challenged"
+        }
+    },
+    {
+        "identifier": "\u2605\u2605",
+        "properties": {
+            "base_chance": 1000,
+            "biome_amplifier": [
+                "DREAMSPACE",
+                1
+            ],
+            "rank": "challenged"
+        }
+    },
+    {
+        "identifier": "\u2605\u2605\u2605",
+        "properties": {
+            "base_chance": 10000,
+            "biome_amplifier": [
+                "DREAMSPACE",
+                1
+            ],
+            "rank": "challenged"
+        }
+    },
+    {
         "identifier": "Memory",
         "properties": {
             "base_chance": 100,
