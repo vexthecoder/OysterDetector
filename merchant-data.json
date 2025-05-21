@@ -1,10 +1,12 @@
 [
     {
       "identifier": "[Merchant]: Mari has arrived on the island...",
-      "name": "Mari"
+      "name": "Mari",
+      "embed_color": "0xA56A33"
     },
     {
       "identifier": "[Merchant]: Jester has arrived on the island...",
-      "name": "Jester"
+      "name": "Jester",
+      "embed_color": "0x792098"
     }
 ]
