@@ -1,5 +1,5 @@
 # **Oyster Detector** ![Oyster Detector Logo](https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/oyster_32x28.png)
-### A lightweight biome/aura tracker for Sol's RNG.
+### A lightweight biome/aura/merchant tracker for Sol's RNG.
 
 ## **Features**
 - **Biome/Aura Detection**: Monitors biome changes and aura equips, filter webhook messages based on rarity or biome
