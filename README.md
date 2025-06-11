@@ -1,62 +1,153 @@
-# **Oyster Detector**
+# **Oyster Detector** ![Oyster Detector Logo](https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/oyster_32x28.png)
 ### A lightweight biome/aura tracker for Sol's RNG.
 
 ## **Features**
-- **Biome/Aura Detection**: Monitors biome changes and aura equips, filter webhook messages based on rarity or biome.
-- **Multiple Webhooks**: Supports up to 5 webhooks at a time.
-- **Rarity-Based Pings**: Ping yourself for auras above a customizable rarity threshold (e.g. pings you if you roll an aura above a certain rarity).
-- **Crash/Reconnect Logging**: Sends alerts if Roblox closes unexpectedly or the game disconnects, with auto-rejoin status updates.
-- **Private Server Integration**: Embeds your server link in every biome alert for quick joins in biome sniper servers.
+- **Biome/Aura Detection**: Monitors biome changes and aura equips, filter webhook messages based on rarity or biome
+- **Multiple Webhooks**: Supports multiple webhooks to different channels/servers
+- **Rarity-Based Pings**: Get notified when equipping rare auras above customizable thresholds
+- **Merchant Detection**: Alerts for Mari and Jester appearances (requires setup)
+- **Crash/Reconnect Logging**: Tracks Roblox crashes and game disconnections
+- **Private Server Integration**: Embeds your server link in alerts for quick joins
+- **Detailed Logging**: Comprehensive logs for troubleshooting
+- **Background Operation**: Can run minimized in system tray
 
-## Configuration
-- **webhooks**  (**Minimum 1 Required**)
-  - You can create a maximum of 5 webhook URLs to send messages to. Duplicate URLs will be ignored.
-  - The URL used to communicate with your discord channel. Use [this tutorial](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks#:~:text=%C2%A0%20Facebook-,Making%20A%20Webhook,-With%20that%20in) if you don't know how to create one.
-- **private_server_link**
-  - Your Sol's RNG private server link.
-- **biome_alerts**
-  - You can set the value to either "true" or "false" for each biome depending on whether you want to receive webhook messages when that biome is detected.
-  - ***GLITCHED & DREAMSPACE are on by default and can not be turned off.***
-- **time_zone_offset**
-  - Oyster Detector should automatically detect your timezone, but if it doesn't, you can set the offset manually.
-  - Example: If the detector says 12:00 P.M., and the actual time is 1:00 P.M., the offset would be 1.
-- **ping_on_min_rarity**
-  - You can set the value to either "true" or "false" depending on whether you want to receive a ping when you recieve an aura greater than or equal to the **min_ping_rarity**.
-- **min_ping_rarity**
-  - The minimum rarity you want to receive a ping for.
-- **user_id**
-  - Your Discord user ID.
-  - Used to ping you when you receive an aura greater than or equal to the **min_ping_rarity**.
+## **System Requirements**
+- Windows 10/11
+- Roblox installed
+- Discord webhook URL(s)
 
-## How to report bugs
-Please use the following format when reporting bugs to @vex.rng:
+## **Complete Setup Guide**
+
+### **1. Initial Configuration**
+1. Download and launch Oyster Detector
+2. Navigate to the Webhooks tab
+3. Click "Add Webhook" and enter:
+   - A descriptive name (for your reference)
+   - Your Discord webhook URL (see below for how to create one)
+
+### **Creating Discord Webhooks**
+1. Open Discord and go to your server settings
+2. Navigate to Integrations → Webhooks
+3. Click "New Webhook"
+4. Configure:
+   - Name (e.g., "Oyster Alerts")
+   - Channel for notifications
+   - Optional avatar
+5. Copy the webhook URL and paste into Oyster Detector
+
+### **2. Detector Configuration**
+1. **Private Server Link** (Recommended):
+   - Paste your Sol's RNG private server link
+   - Enable "Join PS on Start" to auto-join your server when you start Oyster Detector
+
+2. **Biome Alerts**:
+   - Check boxes for biomes you want notifications for
+   - Note: GLITCHED and DREAMSPACE always send alerts
+
+3. **Aura Ping Settings**:
+   - Enable pings if you want @mentions for rare auras
+   - Set your Discord User ID (enable Developer Mode in Discord to get this)
+   - Configure minimum rarity threshold (e.g., 100000 for 1 in 100k+ auras)
+
+4. **Aura Filter** (Advanced):
+   - Fine-tune notifications per aura
+   - Set individual auras to Ping, Ignore, or use Default settings
+
+### **3. Merchant Detection Setup**
+1. Enable Merchant Detection in the Detector tab
+2. When prompted, allow Oyster Detector to configure Roblox FastFlags (Requires Fishstrap/Bloxstrap)
+    - To manually configure FastFlags if Oyster Detector cannot, follow these guides:
+      - [Fishstrap FastFlags Guide](https://github.com/vexthecoder/OysterDetector/blob/main/fishstrap-fflags.md)
+      - [Bloxstrap FastFlags Guide](https://github.com/vexthecoder/OysterDetector/blob/main/bloxstrap-fflags.md)
+3. **Restart Roblox** for changes to take effect
+4. Configure merchant-specific settings:
+   - Enable/disable Mari/Jester detection
+   - Set ping preferences for each merchant
+
+### **4. Additional Settings**
+- **UTC Offset**: Adjust if timestamps are incorrect
+- **Run in Background**: Keep running when window is closed
+- **Start on Launch**: Auto-start detection when opening Oyster Detector
+- **Verbose Logging**: Enable for detailed debugging
+
+## **Usage Instructions**
+1. Ensure Roblox is running and you're in Sol's RNG
+2. Click "Start Detector" in Oyster Detector
+3. Status will change to "ACTIVE" (green) when running
+4. Notifications will appear in your configured Discord channels and in logs
+
+## **Troubleshooting**
+### Common Issues:
+- **No detections**:
+  - Verify Roblox is running and you're in Sol's RNG
+  - Check firewall/antivirus isn't blocking Oyster Detector
+  - For merchants: Ensure FastFlags were applied and Roblox was restarted
+  - If these steps don't resolve the issue, try restarting Oyster Detector
+
+- **Webhook issues**:
+  - Verify URLs start with `https://discord.com/api/webhooks/`
+  - Test webhook URLs directly using a tool like DiscoHook
+
+- **High CPU Usage**:
+  - Close unnecessary applications
+  - Restart Oyster Detector
+
+### **How to Report Bugs**
+Please include:
 ```
-- Description of the bug.
-- How to replicate the bug.
-- When you experienced this bug.
-*Attach the log file containing the bug.*
-*No personal information is recorded in the log file.*
+Description of the bug
+Steps to reproduce
+When the bug occurred
+Attach relevant log files (Settings → Open Logs Directory)
 ```
-Example (this is not a real bug and is just for demonstration):
+Example:
 ```
-- Doesn't detect the Spectre aura.
-- Equip the Spectre aura and it doesn't detect it.
-- March 12th, 2025 | 8:30 P.M.
-`file: 03-12-2025 20-30-00 oyster_detector.log`
+Aura detection fails for Spectre
+Equip Spectre aura - no detection
+2024-03-15 14:30 UTC
+`Log file: 06-10-2025 23-30-00 oyster_detector v1.1.2.log`
 ```
 
-## **Notes**
-- **GLITCHED & DREAMSPACE are on by default and can not be turned off.**
-- **Multi-Instance Detection is not supported.** It will freak out and send all previous logs to the webhook at once, rate limiting it and spamming your channel.
+## **Frequently Asked Questions**
+**Q: Why aren't merchant alerts working?**  
+A: Ensure you:
+1. Enabled merchant detection
+2. Allowed FastFlag configuration
+3. Restarted Roblox after enabling
 
-## **TBA**
+**Q: How do I get my Discord User ID?**  
+A: Enable Developer Mode in Discord settings, then right-click your profile → "Copy User ID"
+
+**Q: Can I use multiple instances?**  
+A: Not currently supported - may cause rate limiting and spam
+
+## **Future Features**
 - Multi-Instance Support
-- Auto Potion
-- Auto Equip
-- Auto Item Use
+- Auto Potion/Item Use
 
-## **Credits**
-- **[@vex.rng](https://discord.com/users/1018875765565177976)**: Developer
-- **[@RequiredStorage](https://discord.com/users/1014820802241245184)**: Tester
-- **[Maxstellar's Biome Macro](https://github.com/maxstellar/maxstellar-Biome-Macro)**: Inspiration
-- **[Universal Macros](https://discord.gg/B3y2PS65y9)**: Discord Server
+## **Credits & Acknowledgements**
+### Development
+- **vexthecoder** - Creator and lead developer  
+  [GitHub](https://github.com/vexthecoder) | [Discord](https://discord.com/users/1018875765565177976)
+
+### Special Thanks
+- **@RequiredStorage** - Lead tester
+  <br>[Discord](https://discord.com/users/1000000000000000000)
+- **Maxstellar** - Original biome macro inspiration  
+  [GitHub](https://github.com/maxstellar/maxstellar-Biome-Macro)
+- **Noteab** - Macro inspiration  
+  [GitHub](https://github.com/noteab/Noteab-Macro)
+
+### Communities
+- **Universal Macros**  
+  [Discord](https://discord.gg/B3y2PS65y9)
+- **Scope Development**  
+  [Discord](https://discord.gg/y8k49dH9z8)
+
+## **Legal Information**
+Oyster Detector is not affiliated with Roblox Corporation or Sol's RNG. Use at your own risk. By using this software, you agree that:
+- The developer is not responsible for any account actions
+- Reverse engineering is prohibited
+- No user data is collected or transmitted
+
+For full terms, see the Credits tab in the application.
