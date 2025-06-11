@@ -57,8 +57,8 @@
 1. Enable Merchant Detection in the Detector tab
 2. When prompted, allow Oyster Detector to configure Roblox FastFlags (Requires Fishstrap/Bloxstrap)
     - To manually configure FastFlags if Oyster Detector cannot, follow these guides:
-      - [Fishstrap FastFlags Guide](https://github.com/vexthecoder/OysterDetector/blob/main/fishstrap-fflags.md)
-      - [Bloxstrap FastFlags Guide](https://github.com/vexthecoder/OysterDetector/blob/main/bloxstrap-fflags.md)
+      - [Fishstrap FastFlags Guide](https://github.com/vexthecoder/OysterDetector/blob/main/fishstrap_fflags.md)
+      - [Bloxstrap FastFlags Guide](https://github.com/vexthecoder/OysterDetector/blob/main/bloxstrap_fflags.md)
 3. **Restart Roblox** for changes to take effect
 4. Configure merchant-specific settings:
    - Enable/disable Mari/Jester detection
