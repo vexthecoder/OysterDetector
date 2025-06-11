@@ -18,5 +18,5 @@ To enable Lua debug logging FFlags in BloxStrap, follow these steps:
 5. Click **OK** then **Save** to apply the changes
 6. Restart Roblox for the changes to take effect
 
-![BloxStrap Debug FFlags](https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/bloxstrap-fflags_1.png)
-![BloxStrap Debug FFlags](https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/bloxstrap-fflags-2.png)
+![BloxStrap Debug FFlags](https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/bloxstrap_fflags_1.png)
+![BloxStrap Debug FFlags](https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/bloxstrap_fflags_2.png)
