@@ -300,6 +300,16 @@
         }
     },
     {
+        "identifier": "Honey",
+        "properties": {
+            "base_chance": 8335,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Lost Soul",
         "properties": {
             "base_chance": 9200,
@@ -353,6 +363,16 @@
         "identifier": "Powered",
         "properties": {
             "base_chance": 16384,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Watt",
+        "properties": {
+            "base_chance": 32768,
             "biome_amplifier": [
                 "None",
                 1
