@@ -770,6 +770,16 @@
         }
     },
     {
+        "identifier": "Warlock",
+        "properties": {
+            "base_chance": 666000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Hades",
         "properties": {
             "base_chance": 6666666,
