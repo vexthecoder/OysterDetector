@@ -1,5 +1,15 @@
 [
     {
+        "identifier": "Nothing",
+        "properties": {
+            "base_chance": 1,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Common",
         "properties": {
             "base_chance": 2,
@@ -580,6 +590,16 @@
         }
     },
     {
+        "identifier": "Raven",
+        "properties": {
+            "base_chance": 500000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Twilight",
         "properties": {
             "base_chance": 600000,
@@ -753,6 +773,16 @@
         "identifier": "Solar_Solstice",
         "properties": {
             "base_chance": 5000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Anima",
+        "properties": {
+            "base_chance": 5730000,
             "biome_amplifier": [
                 "None",
                 1
@@ -934,8 +964,8 @@
         "properties": {
             "base_chance": 24000000,
             "biome_amplifier": [
-                "None",
-                1
+                "WINDY",
+                3
             ]
         }
     },
@@ -980,6 +1010,16 @@
         }
     },
     {
+        "identifier": "Juxtaposition",
+        "properties": {
+            "base_chance": 40440400,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Overseer",
         "properties": {
             "base_chance": 45000000,
@@ -1000,9 +1040,29 @@
         }
     },
     {
+        "identifier": "Runic",
+        "properties": {
+            "base_chance": 50000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Matrix",
         "properties": {
             "base_chance": 50000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "SENTINEL",
+        "properties": {
+            "base_chance": 60000000,
             "biome_amplifier": [
                 "None",
                 1
@@ -1026,6 +1086,16 @@
             "biome_amplifier": [
                 "RAINY",
                 4
+            ]
+        }
+    },
+    {
+        "identifier": "Carriage",
+        "properties": {
+            "base_chance": 60000000,
+            "biome_amplifier": [
+                "None",
+                1
             ]
         }
     },
@@ -1180,6 +1250,26 @@
         }
     },
     {
+        "identifier": "Unknown",
+        "properties": {
+            "base_chance": 444444444,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Kyawthuite_Remembrance",
+        "properties": {
+            "base_chance": 450000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Ruins",
         "properties": {
             "base_chance": 500000000,
@@ -1200,9 +1290,29 @@
         }
     },
     {
+        "identifier": "Elude",
+        "properties": {
+            "base_chance": 555555555,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Matrix_Reality",
         "properties": {
             "base_chance": 601020102,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Prologue",
+        "properties": {
+            "base_chance": 666616111,
             "biome_amplifier": [
                 "None",
                 1
@@ -1233,6 +1343,16 @@
         "identifier": "Aegis",
         "properties": {
             "base_chance": 825000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "dreamscape",
+        "properties": {
+            "base_chance": 850000000,
             "biome_amplifier": [
                 "None",
                 1
