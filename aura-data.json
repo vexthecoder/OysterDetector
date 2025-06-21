@@ -1060,7 +1060,7 @@
         }
     },
     {
-        "identifier": "SENTINEL",
+        "identifier": "Sentinel",
         "properties": {
             "base_chance": 60000000,
             "biome_amplifier": [
