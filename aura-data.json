@@ -1010,7 +1010,7 @@
         }
     },
     {
-        "identifier": "Juxtaposition",
+        "identifier": "JUXTAPOSITION",
         "properties": {
             "base_chance": 40440400,
             "biome_amplifier": [
