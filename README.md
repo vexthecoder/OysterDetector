@@ -135,7 +135,7 @@ A: Not currently supported - may cause rate limiting and spam
 
 ### Special Thanks
 - **@RequiredStorage** - Lead tester
-  <br>[Discord](https://discord.com/users/1000000000000000000)
+  <br>[Discord](https://discord.com/users/1014820802241245184)
 - **Maxstellar** - Original biome macro inspiration  
   [GitHub](https://github.com/maxstellar/maxstellar-Biome-Macro)
 - **Noteab** - Macro inspiration  
@@ -146,6 +146,8 @@ A: Not currently supported - may cause rate limiting and spam
   [Discord](https://discord.gg/B3y2PS65y9)
 - **Scope Development**  
   [Discord](https://discord.gg/y8k49dH9z8)
+- **Sol's Sniper**
+  [Discord](https://discord.gg/RPcPUp47YD)
 
 ## **Legal Information**
 Oyster Detector is not affiliated with Roblox Corporation or Sol's RNG. Use at your own risk. By using this software, you agree that:
