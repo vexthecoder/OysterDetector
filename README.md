@@ -10,6 +10,7 @@
 - **Private Server Integration**: Embeds your server link in alerts for quick joins
 - **Detailed Logging**: Comprehensive logs for troubleshooting
 - **Background Operation**: Can run minimized in system tray
+- **Auto-Updater**: Detects and downloads new versions automatically (with optional launch prompt)
 
 ## **System Requirements**
 - Windows 10/11
@@ -69,6 +70,8 @@
 - **Run in Background**: Keep running when window is closed
 - **Start on Launch**: Auto-start detection when opening Oyster Detector
 - **Verbose Logging**: Enable for detailed debugging
+- **Anti-AFK**: Prevents auto-kick by interacting with Roblox after 15 minutes of idle time with options: jump, click, or chat
+- **Toast Notifications**: Small popup alerts for in-game events (can be turned on/off in settings)
 
 ## **Usage Instructions**
 1. Ensure Roblox is running and you're in Sol's RNG
@@ -80,7 +83,7 @@
 ### Common Issues:
 - **No detections**:
   - Verify Roblox is running and you're in Sol's RNG
-  - Check firewall/antivirus isn't blocking Oyster Detector
+  - Check firewall/antivirus isn't blocking Oyster Detector (this is a common issue)
   - For merchants: Ensure FastFlags were applied and Roblox was restarted
   - If these steps don't resolve the issue, try restarting Oyster Detector
 
@@ -104,7 +107,7 @@ Example:
 ```
 Aura detection fails for Spectre
 Equip Spectre aura - no detection
-2024-03-15 14:30 UTC
+2024-06-10 23:30 UTC
 `Log file: 06-10-2025 23-30-00 oyster_detector v1.1.2.log`
 ```
 
