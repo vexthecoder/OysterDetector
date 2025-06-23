@@ -1092,7 +1092,7 @@
     {
         "identifier": "Carriage",
         "properties": {
-            "base_chance": 60000000,
+            "base_chance": 80000000,
             "biome_amplifier": [
                 "None",
                 1
