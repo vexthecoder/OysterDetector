@@ -1999,6 +1999,17 @@
         }
     },
     {
+        "identifier": "Eden",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rank": "challenged"
+        }
+    },
+    {
         "identifier": "Memory",
         "properties": {
             "base_chance": 100,
