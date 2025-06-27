@@ -1360,7 +1360,7 @@
         }
     },
     {
-        "identifier": "PIXELATION",
+        "identifier": "Pixelation",
         "properties": {
             "base_chance": 1073741824,
             "biome_amplifier": [
