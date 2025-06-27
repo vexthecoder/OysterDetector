@@ -1310,7 +1310,7 @@
         }
     },
     {
-        "identifier": "Prologue",
+        "identifier": "PROLOGUE",
         "properties": {
             "base_chance": 666616111,
             "biome_amplifier": [
