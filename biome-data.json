@@ -86,5 +86,13 @@
         "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/8/88/Dreamspace_biome.png/revision/latest"
       },
       "cycle_duration": 130
+    },
+    {
+      "name": "BLAZING SUN",
+      "visuals": {
+        "primary_hex": "0xFFFFFF",
+        "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/4/47/Placeholder.png"
+      },
+      "cycle_duration": 0
     }
   ]
