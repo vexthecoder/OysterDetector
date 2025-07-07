@@ -28,17 +28,17 @@
       }
     },
     {
-      "name": "HELL",
-      "visuals": {
-        "primary_hex": "0xFF4820",
-        "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/7/7e/Hell_biome.png/revision/latest"
-      }
-    },
-    {
       "name": "STARFALL",
       "visuals": {
         "primary_hex": "0x021BB8",
         "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/d/d2/Starfall_biome.png/revision/latest"
+      }
+    },
+    {
+      "name": "HELL",
+      "visuals": {
+        "primary_hex": "0xFF4820",
+        "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/7/7e/Hell_biome.png/revision/latest"
       }
     },
     {
@@ -56,13 +56,6 @@
       }
     },
     {
-      "name": "BLAZING SUN",
-      "visuals": {
-        "primary_hex": "0xEF590F",
-        "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/b/b2/Blazing_Sun_biome.png/revision/latest"
-      }
-    },
-    {
       "name": "GLITCHED",
       "visuals": {
         "primary_hex": "0xBFFF00",
@@ -74,6 +67,13 @@
       "visuals": {
         "primary_hex": "0xEA9DDA",
         "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/8/88/Dreamspace_biome.png/revision/latest"
+      }
+    },
+    {
+      "name": "BLAZING SUN",
+      "visuals": {
+        "primary_hex": "0xEF590F",
+        "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/b/b2/Blazing_Sun_biome.png/revision/latest"
       }
     }
   ]
