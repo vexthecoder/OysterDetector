@@ -720,6 +720,16 @@
         }
     },
     {
+        "identifier": "Cosmos_Alice",
+        "properties": {
+            "base_chance": 3500000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Aquatic_Flame",
         "properties": {
             "base_chance": 4000000,
@@ -1200,6 +1210,16 @@
         }
     },
     {
+        "identifier": "Manta",
+        "properties": {
+            "base_chance": 300000000,
+            "biome_amplifier": [
+                "BLAZING SUN",
+                2
+            ]
+        }
+    },
+    {
         "identifier": "Jazz_Orchestra",
         "properties": {
             "base_chance": 336870912,
@@ -1346,6 +1366,16 @@
             "biome_amplifier": [
                 "None",
                 1
+            ]
+        }
+    },
+    {
+        "identifier": "Aegis_Watergun",
+        "properties": {
+            "base_chance": 825000000,
+            "biome_amplifier": [
+                "BLAZING SUN",
+                2
             ]
         }
     },
@@ -1891,6 +1921,66 @@
     },
     {
         "identifier": "Blossom_Frozen",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "SandBasket",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Bubble",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Bioluminescent",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Lifeguard",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Ink_Paintballgun",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Parasol",
         "properties": {
             "base_chance": 0,
             "biome_amplifier": [
