@@ -35,17 +35,17 @@
       }
     },
     {
-      "name": "HELL",
-      "visuals": {
-        "primary_hex": "0xFF4820",
-        "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/7/7e/Hell_biome.png/revision/latest"
-      }
-    },
-    {
       "name": "CORRUPTION",
       "visuals": {
         "primary_hex": "0x6A0DAD",
         "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/4/41/Corruption_biome.png/revision/latest"
+      }
+    },
+    {
+      "name": "HELL",
+      "visuals": {
+        "primary_hex": "0xFF4820",
+        "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/7/7e/Hell_biome.png/revision/latest"
       }
     },
     {
