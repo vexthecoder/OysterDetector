@@ -1960,7 +1960,7 @@
         }
     },
     {
-        "identifier": "Lifeguard",
+        "identifier": "Life Guard",
         "properties": {
             "base_chance": 0,
             "biome_amplifier": [
