@@ -1,0 +1,2228 @@
+[
+    {
+        "identifier": "Nothing",
+        "properties": {
+            "base_chance": 1,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Common",
+        "properties": {
+            "base_chance": 2,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Uncommon",
+        "properties": {
+            "base_chance": 4,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Good",
+        "properties": {
+            "base_chance": 5,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Natural",
+        "properties": {
+            "base_chance": 8,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Rare",
+        "properties": {
+            "base_chance": 16,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Divinus",
+        "properties": {
+            "base_chance": 32,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Crystallized",
+        "properties": {
+            "base_chance": 64,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Rage",
+        "properties": {
+            "base_chance": 128,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Topaz",
+        "properties": {
+            "base_chance": 150,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Ruby",
+        "properties": {
+            "base_chance": 350,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Forbidden",
+        "properties": {
+            "base_chance": 404,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Emerald",
+        "properties": {
+            "base_chance": 500,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Gilded",
+        "properties": {
+            "base_chance": 512,
+            "biome_amplifier": [
+                "SAND STORM",
+                4
+            ]
+        }
+    },
+    {
+        "identifier": "Ink",
+        "properties": {
+            "base_chance": 700,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Jackpot",
+        "properties": {
+            "base_chance": 777,
+            "biome_amplifier": [
+                "SAND STORM",
+                4
+            ]
+        }
+    },
+    {
+        "identifier": "Sapphire",
+        "properties": {
+            "base_chance": 800,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Aquamarine",
+        "properties": {
+            "base_chance": 900,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Wind",
+        "properties": {
+            "base_chance": 900,
+            "biome_amplifier": [
+                "WINDY",
+                3
+            ]
+        }
+    },
+    {
+        "identifier": "Diaboli",
+        "properties": {
+            "base_chance": 1004,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Precious",
+        "properties": {
+            "base_chance": 1024,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Glock",
+        "properties": {
+            "base_chance": 1700,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Magnetic",
+        "properties": {
+            "base_chance": 2048,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Ash",
+        "properties": {
+            "base_chance": 2300,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Glacier",
+        "properties": {
+            "base_chance": 2304,
+            "biome_amplifier": [
+                "SNOWY",
+                3
+            ]
+        }
+    },
+    {
+        "identifier": "Player",
+        "properties": {
+            "base_chance": 3000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Siderium",
+        "properties": {
+            "base_chance": 4096,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Bleeding",
+        "properties": {
+            "base_chance": 4444,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": ":Flushed:",
+        "properties": {
+            "base_chance": 6900,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Hazard",
+        "properties": {
+            "base_chance": 7000,
+            "biome_amplifier": [
+                "CORRUPTION",
+                5
+            ]
+        }
+    },
+    {
+        "identifier": "Quartz",
+        "properties": {
+            "base_chance": 8192,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Honey",
+        "properties": {
+            "base_chance": 8335,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Lost Soul",
+        "properties": {
+            "base_chance": 9200,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Undead",
+        "properties": {
+            "base_chance": 12000,
+            "biome_amplifier": [
+                "HELL",
+                6
+            ]
+        }
+    },
+    {
+        "identifier": "Corrosive",
+        "properties": {
+            "base_chance": 12000,
+            "biome_amplifier": [
+                "CORRUPTION",
+                5
+            ]
+        }
+    },
+    {
+        "identifier": "Rage_Heated",
+        "properties": {
+            "base_chance": 12800,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Ink_LEAK",
+        "properties": {
+            "base_chance": 14000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Powered",
+        "properties": {
+            "base_chance": 16384,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Watt",
+        "properties": {
+            "base_chance": 32768,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Aquatic",
+        "properties": {
+            "base_chance": 40000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Starlight",
+        "properties": {
+            "base_chance": 50000,
+            "biome_amplifier": [
+                "STARFALL",
+                5
+            ]
+        }
+    },
+    {
+        "identifier": "Lunar",
+        "properties": {
+            "base_chance": 50000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Solar",
+        "properties": {
+            "base_chance": 50000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "StarRider",
+        "properties": {
+            "base_chance": 50000,
+            "biome_amplifier": [
+                "STARFALL",
+                5
+            ]
+        }
+    },
+    {
+        "identifier": ":Flushed:_Lobotomy",
+        "properties": {
+            "base_chance": 69000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Nautilus",
+        "properties": {
+            "base_chance": 70000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Hazard_Rays",
+        "properties": {
+            "base_chance": 70000,
+            "biome_amplifier": [
+                "CORRUPTION",
+                5
+            ]
+        }
+    },
+    {
+        "identifier": "Permafrost",
+        "properties": {
+            "base_chance": 73500,
+            "biome_amplifier": [
+                "SNOWY",
+                3
+            ]
+        }
+    },
+    {
+        "identifier": "Stormal",
+        "properties": {
+            "base_chance": 90000,
+            "biome_amplifier": [
+                "WINDY",
+                3
+            ]
+        }
+    },
+    {
+        "identifier": "Exotic",
+        "properties": {
+            "base_chance": 99999,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Diaboli_Void",
+        "properties": {
+            "base_chance": 100400,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Undead_Devil",
+        "properties": {
+            "base_chance": 120000,
+            "biome_amplifier": [
+                "HELL",
+                6
+            ]
+        }
+    },
+    {
+        "identifier": "Spectre",
+        "properties": {
+            "base_chance": 110000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Comet",
+        "properties": {
+            "base_chance": 120000,
+            "biome_amplifier": [
+                "STARFALL",
+                5
+            ]
+        }
+    },
+    {
+        "identifier": "Jade",
+        "properties": {
+            "base_chance": 125000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Jazz",
+        "properties": {
+            "base_chance": 160000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Aether",
+        "properties": {
+            "base_chance": 180000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "BOUNDED",
+        "properties": {
+            "base_chance": 200000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Celestial",
+        "properties": {
+            "base_chance": 350000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Raven",
+        "properties": {
+            "base_chance": 500000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Twilight",
+        "properties": {
+            "base_chance": 600000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Kyawthuite",
+        "properties": {
+            "base_chance": 850000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Arcane",
+        "properties": {
+            "base_chance": 1000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Magnetic_Reverse Polarity",
+        "properties": {
+            "base_chance": 1024000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Undefined",
+        "properties": {
+            "base_chance": 1111000,
+            "biome_amplifier": [
+                "NULL",
+                1000
+            ]
+        }
+    },
+    {
+        "identifier": "Rage_Brawler",
+        "properties": {
+            "base_chance": 1280000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Astral",
+        "properties": {
+            "base_chance": 1336000,
+            "biome_amplifier": [
+                "CORRUPTION",
+                5
+            ]
+        }
+    },
+    {
+        "identifier": "Cosmos",
+        "properties": {
+            "base_chance": 1520000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Gravitational",
+        "properties": {
+            "base_chance": 2000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "BOUNDED_UNBOUND",
+        "properties": {
+            "base_chance": 2000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Virtual",
+        "properties": {
+            "base_chance": 2500000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Savior",
+        "properties": {
+            "base_chance": 3200000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Cosmos_Alice",
+        "properties": {
+            "base_chance": 3500000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Aquatic_Flame",
+        "properties": {
+            "base_chance": 4000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Poseidon",
+        "properties": {
+            "base_chance": 4000000,
+            "biome_amplifier": [
+                "RAINY",
+                4
+            ]
+        }
+    },
+    {
+        "identifier": "Zeus",
+        "properties": {
+            "base_chance": 4500000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Galaxy",
+        "properties": {
+            "base_chance": 5000000,
+            "biome_amplifier": [
+                "STARFALL",
+                5
+            ]
+        }
+    },
+    {
+        "identifier": "Lunar_Full Moon",
+        "properties": {
+            "base_chance": 5000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Solar_Solstice",
+        "properties": {
+            "base_chance": 5000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Anima",
+        "properties": {
+            "base_chance": 5730000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Origin",
+        "properties": {
+            "base_chance": 6500000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Warlock",
+        "properties": {
+            "base_chance": 666000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Hades",
+        "properties": {
+            "base_chance": 6666666,
+            "biome_amplifier": [
+                "HELL",
+                6
+            ]
+        }
+    },
+    {
+        "identifier": "Celestial_Divine",
+        "properties": {
+            "base_chance": 7000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Anubis",
+        "properties": {
+            "base_chance": 7200000,
+            "biome_amplifier": [
+                "SAND STORM",
+                4
+            ]
+        }
+    },
+    {
+        "identifier": "Hyper-Volt",
+        "properties": {
+            "base_chance": 7500000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Velocity",
+        "properties": {
+            "base_chance": 7630000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "HARNESSED",
+        "properties": {
+            "base_chance": 8500000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Nihility",
+        "properties": {
+            "base_chance": 9000000,
+            "biome_amplifier": [
+                "NULL",
+                1000
+            ]
+        }
+    },
+    {
+        "identifier": "Helios",
+        "properties": {
+            "base_chance": 9000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Stargazer",
+        "properties": {
+            "base_chance": 9200000,
+            "biome_amplifier": [
+                "STARFALL",
+                5
+            ]
+        }
+    },
+    {
+        "identifier": "Starscourge",
+        "properties": {
+            "base_chance": 10000000,
+            "biome_amplifier": [
+                "STARFALL",
+                5
+            ]
+        }
+    },
+    {
+        "identifier": "Sailor",
+        "properties": {
+            "base_chance": 12000000,
+            "biome_amplifier": [
+                "RAINY",
+                4
+            ]
+        }
+    },
+    {
+        "identifier": "Stormal_Hurricane",
+        "properties": {
+            "base_chance": 13500000,
+            "biome_amplifier": [
+                "WINDY",
+                3
+            ]
+        }
+    },
+    {
+        "identifier": "Sirius",
+        "properties": {
+            "base_chance": 14000000,
+            "biome_amplifier": [
+                "STARFALL",
+                5
+            ]
+        }
+    },
+    {
+        "identifier": "Arcane_Legacy",
+        "properties": {
+            "base_chance": 15000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Chromatic",
+        "properties": {
+            "base_chance": 20000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Aviator",
+        "properties": {
+            "base_chance": 24000000,
+            "biome_amplifier": [
+                "WINDY",
+                3
+            ]
+        }
+    },
+    {
+        "identifier": "Blizzard",
+        "properties": {
+            "base_chance": 27315000,
+            "biome_amplifier": [
+                "SNOWY",
+                3
+            ]
+        }
+    },
+    {
+        "identifier": "Arcane_Dark",
+        "properties": {
+            "base_chance": 30000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Ethereal",
+        "properties": {
+            "base_chance": 35000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Virtual_Fatal Error",
+        "properties": {
+            "base_chance": 40413000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "JUXTAPOSITION",
+        "properties": {
+            "base_chance": 40440400,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Overseer",
+        "properties": {
+            "base_chance": 45000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Exotic_APEX",
+        "properties": {
+            "base_chance": 49999500,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Runic",
+        "properties": {
+            "base_chance": 50000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Matrix",
+        "properties": {
+            "base_chance": 50000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Sentinel",
+        "properties": {
+            "base_chance": 60000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Twilight_Iridescent Memory",
+        "properties": {
+            "base_chance": 60000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Sailor_Flying Dutchman",
+        "properties": {
+            "base_chance": 80000000,
+            "biome_amplifier": [
+                "RAINY",
+                4
+            ]
+        }
+    },
+    {
+        "identifier": "Carriage",
+        "properties": {
+            "base_chance": 80000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Chromatic_Genesis",
+        "properties": {
+            "base_chance": 99999999,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Starscourge_Radiant",
+        "properties": {
+            "base_chance": 100000000,
+            "biome_amplifier": [
+                "STARFALL",
+                5
+            ]
+        }
+    },
+    {
+        "identifier": "Overture",
+        "properties": {
+            "base_chance": 150000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Symphony",
+        "properties": {
+            "base_chance": 175000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Impeached",
+        "properties": {
+            "base_chance": 200000000,
+            "biome_amplifier": [
+                "CORRUPTION",
+                5
+            ]
+        }
+    },
+    {
+        "identifier": "Archangel",
+        "properties": {
+            "base_chance": 250000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Astral_Legendarium",
+        "properties": {
+            "base_chance": 267000000,
+            "biome_amplifier": [
+                "STARFALL",
+                5
+            ]
+        }
+    },
+    {
+        "identifier": "Exotic_Void",
+        "properties": {
+            "base_chance": 299999999,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Overture_History",
+        "properties": {
+            "base_chance": 300000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "BLOODLUST",
+        "properties": {
+            "base_chance": 300000000,
+            "biome_amplifier": [
+                "HELL",
+                6
+            ]
+        }
+    },
+    {
+        "identifier": "Manta",
+        "properties": {
+            "base_chance": 300000000,
+            "biome_amplifier": [
+                "BLAZING SUN",
+                2
+            ],
+            "event_override": "Summer 2025"
+        }
+    },
+    {
+        "identifier": "Jazz_Orchestra",
+        "properties": {
+            "base_chance": 336870912,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Atlas",
+        "properties": {
+            "base_chance": 360000000,
+            "biome_amplifier": [
+                "SAND STORM",
+                4
+            ]
+        }
+    },
+    {
+        "identifier": "AbyssalHunter",
+        "properties": {
+            "base_chance": 400000000,
+            "biome_amplifier": [
+                "RAINY",
+                4
+            ]
+        }
+    },
+    {
+        "identifier": "GARGANTUA",
+        "properties": {
+            "base_chance": 430000000,
+            "biome_amplifier": [
+                "STARFALL",
+                5
+            ]
+        }
+    },
+    {
+        "identifier": "APOSTOLOS",
+        "properties": {
+            "base_chance": 444000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Unknown",
+        "properties": {
+            "base_chance": 444444444,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Kyawthuite_Remembrance",
+        "properties": {
+            "base_chance": 450000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Ruins",
+        "properties": {
+            "base_chance": 500000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Matrix_Overdrive",
+        "properties": {
+            "base_chance": 503000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Elude",
+        "properties": {
+            "base_chance": 555555555,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Matrix_Reality",
+        "properties": {
+            "base_chance": 601020102,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "PROLOGUE",
+        "properties": {
+            "base_chance": 666616111,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Sovereign",
+        "properties": {
+            "base_chance": 750000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Ruins_Withered",
+        "properties": {
+            "base_chance": 800000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Aegis",
+        "properties": {
+            "base_chance": 825000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Aegis_Watergun",
+        "properties": {
+            "base_chance": 825000000,
+            "biome_amplifier": [
+                "BLAZING SUN",
+                2
+            ],
+            "event_override": "Summer 2025"
+        }
+    },
+    {
+        "identifier": "dreamscape",
+        "properties": {
+            "base_chance": 850000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Pixelation",
+        "properties": {
+            "base_chance": 1073741824,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Luminosity",
+        "properties": {
+            "base_chance": 1200000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "pukeko",
+        "properties": {
+            "base_chance": 3198,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "April Fools 2025"
+        }
+    },
+    {
+        "identifier": ":Flushed:_Troll",
+        "properties": {
+            "base_chance": 1000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "April Fools 2025"
+        }
+    },
+    {
+        "identifier": "Origin_Onion",
+        "properties": {
+            "base_chance": 8000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "April Fools 2025"
+        }
+    },
+    {
+        "identifier": "Glock_shieldofthesky",
+        "properties": {
+            "base_chance": 170000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "April Fools 2025"
+        }
+    },
+    {
+        "identifier": "Wonderland",
+        "properties": {
+            "base_chance": 12000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "SNOWY",
+                3
+            ],
+            "event_override": "Winter 2024"
+        }
+    },
+    {
+        "identifier": "Santa Frost",
+        "properties": {
+            "base_chance": 45000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "SNOWY",
+                3
+            ],
+            "event_override": "Winter 2024"
+        }
+    },
+    {
+        "identifier": "WinterFantasy",
+        "properties": {
+            "base_chance": 72000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "SNOWY",
+                3
+            ],
+            "event_override": "Winter 2024"
+        }
+    },
+    {
+        "identifier": "Express",
+        "properties": {
+            "base_chance": 90000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "SNOWY",
+                3
+            ],
+            "event_override": "Winter 2024"
+        }
+    },
+    {
+        "identifier": "ABOMITABLE",
+        "properties": {
+            "base_chance": 120000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "SNOWY",
+                3
+            ],
+            "event_override": "Winter 2024"
+        }
+    },
+    {
+        "identifier": "Atlas_Yuletide",
+        "properties": {
+            "base_chance": 510000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "SNOWY",
+                3
+            ],
+            "event_override": "Winter 2024"
+        }
+    },
+    {
+        "identifier": "Divinus_Love",
+        "properties": {
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Valentines Day 2024",
+            "rarity_override": "Quest Reward"
+        }
+    },
+    {
+        "identifier": ":Flushed:_Heart Eye",
+        "properties": {
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Valentines Day 2024",
+            "rarity_override": "Quest Reward"
+        }
+    },
+    {
+        "identifier": "Celestial_Cupid",
+        "properties": {
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Valentines Day 2024",
+            "rarity_override": "Quest Reward"
+        }
+    },
+    {
+        "identifier": "Blossom",
+        "properties": {
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Valentines Day 2024",
+            "rarity_override": "Quest Reward"
+        }
+    },
+    {
+        "identifier": "Undefined_Defined",
+        "properties": {
+            "base_chance": 2222000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "NULL",
+                1000
+            ],
+            "event_override": "April Fools 2024"
+        }
+    },
+    {
+        "identifier": "Kromat1k",
+        "properties": {
+            "base_chance": 40000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "April Fools 2024"
+        }
+    },
+    {
+        "identifier": "Impeached_impeach",
+        "properties": {
+            "base_chance": 400000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "April Fools 2024"
+        }
+    },
+    {
+        "identifier": "Watermelon",
+        "properties": {
+            "base_chance": 320000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Summer 2024"
+        }
+    },
+    {
+        "identifier": "StarRider_Starfish",
+        "properties": {
+            "base_chance": 250000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "STARFALL",
+                10
+            ],
+            "event_override": "Summer 2024"
+        }
+    },
+    {
+        "identifier": "shard surfer",
+        "properties": {
+            "base_chance": 225000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "SNOWY",
+                3
+            ],
+            "event_override": "Summer 2024"
+        }
+    },
+    {
+        "identifier": "Shard Surfer",
+        "properties": {
+            "base_chance": 225000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "SNOWY",
+                3
+            ],
+            "event_override": "Summer 2024"
+        }
+    },
+    {
+        "identifier": "shard_surfer",
+        "properties": {
+            "base_chance": 225000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "SNOWY",
+                3
+            ],
+            "event_override": "Summer 2024"
+        }
+    },
+    {
+        "identifier": "Shard_Surfer",
+        "properties": {
+            "base_chance": 225000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "SNOWY",
+                3
+            ],
+            "event_override": "Summer 2024"
+        }
+    },
+    {
+        "identifier": "shardsurfer",
+        "properties": {
+            "base_chance": 225000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "SNOWY",
+                3
+            ],
+            "event_override": "Summer 2024"
+        }
+    },
+    {
+        "identifier": "ShardSurfer",
+        "properties": {
+            "base_chance": 225000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "SNOWY",
+                3
+            ],
+            "event_override": "Summer 2024"
+        }
+    },
+    {
+        "identifier": "Surfer",
+        "properties": {
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Summer 2024",
+            "rarity_override": "Quest Reward"
+        }
+    },
+    {
+        "identifier": "Innovator",
+        "properties": {
+            "base_chance": 30000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Innovation Awards 2024"
+        }
+    },
+    {
+        "identifier": "PUMP",
+        "properties": {
+            "base_chance": 200000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Halloween 2024"
+        }
+    },
+    {
+        "identifier": "Lunar_Nightfall",
+        "properties": {
+            "base_chance": 3000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Halloween 2024"
+        }
+    },
+    {
+        "identifier": "Vital",
+        "properties": {
+            "base_chance": 6000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Halloween 2024"
+        }
+    },
+    {
+        "identifier": "Moonflower",
+        "properties": {
+            "base_chance": 10000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Halloween 2024"
+        }
+    },
+    {
+        "identifier": "Cryptfire",
+        "properties": {
+            "base_chance": 21000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Halloween 2024"
+        }
+    },
+    {
+        "identifier": "SOUL HUNTER",
+        "properties": {
+            "base_chance": 40000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Halloween 2024"
+        }
+    },
+    {
+        "identifier": "DULLAHAN",
+        "properties": {
+            "base_chance": 72000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Halloween 2024"
+        }
+    },
+    {
+        "identifier": "NIGHTMARE SKY",
+        "properties": {
+            "base_chance": 190000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Halloween 2024"
+        }
+    },
+    {
+        "identifier": "HARVESTER",
+        "properties": {
+            "base_chance": 666000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Halloween 2024"
+        }
+    },
+    {
+        "identifier": "APOSTOLOS_VEIL",
+        "properties": {
+            "base_chance": 800000000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Halloween 2024"
+        }
+    },
+    {
+        "identifier": "Snowy Egg",
+        "properties": {
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2025",
+            "rarity_override": "Event Reward"
+        }
+    },
+    {
+        "identifier": "Rainy Egg",
+        "properties": {
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2025",
+            "rarity_override": "Event Reward"
+        }
+    },
+    {
+        "identifier": "Windy Egg",
+        "properties": {
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2025",
+            "rarity_override": "Event Reward"
+        }
+    },
+    {
+        "identifier": "Starfall Egg",
+        "properties": {
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2025",
+            "rarity_override": "Event Reward"
+        }
+    },
+    {
+        "identifier": "Corruption Egg",
+        "properties": {
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2025",
+            "rarity_override": "Event Reward"
+        }
+    },
+    {
+        "identifier": "Sandstorm Egg",
+        "properties": {
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2025",
+            "rarity_override": "Event Reward"
+        }
+    },
+    {
+        "identifier": "Null Egg",
+        "properties": {
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2025",
+            "rarity_override": "Event Reward"
+        }
+    },
+    {
+        "identifier": "Glitched Egg",
+        "properties": {
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2025",
+            "rarity_override": "Event Reward"
+        }
+    },
+    {
+        "identifier": "Hellfire Egg",
+        "properties": {
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Easter 2025",
+            "rarity_override": "Event Reward"
+        }
+    },
+    {
+        "identifier": "Lightning",
+        "properties": {
+            "base_chance": 40000,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rarity_override": "Unobtainable since Era 1"
+        }
+    },
+    {
+        "identifier": "Sol",
+        "properties": {
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rarity_override": "Admin Exclusive\nHow did you even equip this?"
+        }
+    },
+    {
+        "identifier": "Content_Creator",
+        "properties": {
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rarity_override": "Content Creator Exclusive\nHi content creator!!"
+        }
+    },
+    {
+        "identifier": "Content_Creator_Platinum",
+        "properties": {
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rarity_override": "Content Creator Exclusive (Verified)\nHiiiii verified content creator!!"
+        }
+    },
+    {
+        "identifier": "Frigid",
+        "properties": {
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Winter 2024",
+            "rarity_override": "Event Reward"
+        }
+    },
+    {
+        "identifier": "Blossom_Frozen",
+        "properties": {
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Winter 2024",
+            "rarity_override": "Event Reward"
+        }
+    },
+    {
+        "identifier": "SandBasket",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Summer 2025",
+            "rarity_override": "Chance while Digging in the Sand"
+        }
+    },
+    {
+        "identifier": "Bubble",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Summer 2025",
+            "rarity_override": "Lime's Summer Shop"
+        }
+    },
+    {
+        "identifier": "Bioluminescent",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Summer 2025",
+            "rarity_override": "Lime's Summer Shop"
+        }
+    },
+    {
+        "identifier": "Life Guard",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Summer 2025",
+            "rarity_override": "Season Pass Reward"
+        }
+    },
+    {
+        "identifier": "Ink_Paintballgun",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Summer 2025",
+            "rarity_override": "Season Pass Reward"
+        }
+    },
+    {
+        "identifier": "Parasol",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Summer 2025",
+            "rarity_override": "Currently Unobtainable"
+        }
+    },
+    {
+        "identifier": "Fault",
+        "properties": {
+            "base_chance": 3000,
+            "biome_amplifier": [
+                "GLITCHED",
+                1
+            ],
+            "rank": "challenged"
+        }
+    },
+    {
+        "identifier": "Glitch",
+        "properties": {
+            "base_chance": 12210110,
+            "biome_amplifier": [
+                "GLITCHED",
+                1
+            ],
+            "rank": "challenged"
+        }
+    },
+    {
+        "identifier": "Oppression",
+        "properties": {
+            "base_chance": 220000000,
+            "biome_amplifier": [
+                "GLITCHED",
+                1
+            ],
+            "rank": "challenged"
+        }
+    },
+    {
+        "identifier": "★",
+        "properties": {
+            "base_chance": 100,
+            "biome_amplifier": [
+                "DREAMSPACE",
+                1
+            ],
+            "rank": "challenged"
+        }
+    },
+    {
+        "identifier": "★★",
+        "properties": {
+            "base_chance": 1000,
+            "biome_amplifier": [
+                "DREAMSPACE",
+                1
+            ],
+            "rank": "challenged"
+        }
+    },
+    {
+        "identifier": "★★★",
+        "properties": {
+            "base_chance": 10000,
+            "biome_amplifier": [
+                "DREAMSPACE",
+                1
+            ],
+            "rank": "challenged"
+        }
+    },
+    {
+        "identifier": "Eden",
+        "properties": {
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rank": "challenged"
+        }
+    },
+    {
+        "identifier": "Memory",
+        "properties": {
+            "base_chance": 100,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rank": "challenged",
+            "rarity_override": "1 in 100 (From Oblivion Potion)"
+        }
+    },
+    {
+        "identifier": "Oblivion",
+        "properties": {
+            "base_chance": 2000,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rank": "challenged",
+            "rarity_override": "1 in 2000 (From Oblivion Potion)"
+        }
+    }
+]
