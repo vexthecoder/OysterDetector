@@ -1,5 +1,13 @@
 [
   {
+    "name": "NORMAL",
+    "visuals": {
+      "primary_hex": "0xC8DED7",
+      "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/f/f9/Normal_biome.png/revision/latest"
+    },
+    "unobtainable": false
+  },
+  {
     "name": "WINDY",
     "visuals": {
       "primary_hex": "0x90F6FF",
@@ -32,10 +40,10 @@
     "unobtainable": false
   },
   {
-    "name": "CORRUPTION",
+    "name": "HELL",
     "visuals": {
-      "primary_hex": "0x9143FF",
-      "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/4/41/Corruption_biome.png/revision/latest"
+      "primary_hex": "0x7E1617",
+      "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/7/7e/Hell_biome.png/revision/latest"
     },
     "unobtainable": false
   },
@@ -48,10 +56,10 @@
     "unobtainable": false
   },
   {
-    "name": "HELL",
+    "name": "CORRUPTION",
     "visuals": {
-      "primary_hex": "0x7E1617",
-      "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/7/7e/Hell_biome.png/revision/latest"
+      "primary_hex": "0x9143FF",
+      "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/4/41/Corruption_biome.png/revision/latest"
     },
     "unobtainable": false
   },
@@ -61,6 +69,14 @@
       "primary_hex": "0x3B3B3B",
       "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/a/a9/Null_biome.png/revision/latest"
     }
+  },
+  {
+    "name": "BLAZING SUN",
+    "visuals": {
+      "primary_hex": "0xFFFA5C",
+      "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/b/b2/Blazing_Sun_biome.png/revision/latest"
+    },
+    "unobtainable": false
   },
   {
     "name": "GLITCHED",
@@ -75,22 +91,6 @@
     "visuals": {
       "primary_hex": "0xEA9DDA",
       "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/8/88/Dreamspace_biome.png/revision/latest"
-    },
-    "unobtainable": false
-  },
-  {
-    "name": "BLAZING SUN",
-    "visuals": {
-      "primary_hex": "0xFFFA5C",
-      "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/b/b2/Blazing_Sun_biome.png/revision/latest"
-    },
-    "unobtainable": false
-  },
-  {
-    "name": "NORMAL",
-    "visuals": {
-      "primary_hex": "0xC8DED7",
-      "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/f/f9/Normal_biome.png/revision/latest"
     },
     "unobtainable": false
   }
