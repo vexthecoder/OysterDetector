@@ -2141,7 +2141,8 @@
                 "None",
                 1
             ],
-            "rarity_override": "1 in 5,000 (With YG Blessing)"
+            "rarity_override": "1 in 5,000 (With YG Blessing)",
+            "rank": "challenged"
         }
     },
     {
@@ -2243,7 +2244,7 @@
                 1
             ],
             "rank": "challenged",
-            "rarity_override": "1 in 2000 (From Oblivion Potion)"
+            "rarity_override": "1 in 2,000 (From Oblivion Potion)"
         }
     }
 ]
