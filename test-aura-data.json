@@ -2134,7 +2134,7 @@
         }
     },
     {
-        "indentifier": "Megaphone",
+        "identifier": "Megaphone",
         "properties": {
             "base_chance": 0,
             "biome_amplifier": [
