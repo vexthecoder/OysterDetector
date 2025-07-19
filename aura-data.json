@@ -1990,6 +1990,17 @@
         }
     },
     {
+        "identifier": "Megaphone",
+        "properties": {
+            "base_chance": 5000,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rank": "challenged"
+        }
+    },
+    {
         "identifier": "Fault",
         "properties": {
             "base_chance": 3000,
