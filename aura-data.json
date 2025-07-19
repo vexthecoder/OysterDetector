@@ -1410,6 +1410,16 @@
         }
     },
     {
+        "identifier": "Equinox",
+        "properties": {
+            "base_chance": 2500000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "pukeko",
         "properties": {
             "base_chance": 0,
