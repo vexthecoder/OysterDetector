@@ -1412,6 +1412,16 @@
         }
     },
     {
+        "identifier": "Equinox",
+        "properties": {
+            "base_chance": 2500000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "pukeko",
         "properties": {
             "base_chance": 3198,
@@ -2120,7 +2130,18 @@
                 1
             ],
             "event_override": "Summer 2025",
-            "rarity_override": "Currently Unobtainable"
+            "rarity_override": "Lime's Summer Shop"
+        }
+    },
+    {
+        "indentifier": "Megaphone",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rarity_override": "1 in 5,000 (With YG Blessing)"
         }
     },
     {
