@@ -2134,6 +2134,28 @@
         }
     },
     {
+        "identifier": "Eclipse",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rarity_override": "Crafting"
+        }
+    },
+    {
+        "identifier": "Matrix_Steampunk",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rarity_override": "Crafting"
+        }
+    },
+    {
         "identifier": "Megaphone",
         "properties": {
             "base_chance": 0,

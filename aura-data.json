@@ -2011,6 +2011,26 @@
         }
     },
     {
+        "identifier": "Eclipse",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Matrix_Steampunk",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Fault",
         "properties": {
             "base_chance": 3000,
