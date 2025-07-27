@@ -2,6 +2,14 @@
 ### A lightweight biome/aura/merchant tracker for Sol's RNG.
 
 <!--TRAFFIC-STATS-START-->
+
+**GitHub Repo Stats (last 14 days)**  
+🧍 Unique Visitors: 64  
+👁️ Total Views: 164  
+📥 Unique Cloners: 11  
+🔁 Total Clones: 12  
+⏱️ Updated: 2025-07-27 21:54 UTC
+
 <!--TRAFFIC-STATS-END-->
 
 ## **Features**
