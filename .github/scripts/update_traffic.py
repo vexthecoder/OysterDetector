@@ -1,15 +1,29 @@
-import requests, datetime
+import requests
+import datetime
+import os
 
 REPO = "vexthecoder/OysterDetector"
-TOKEN = "${{ secrets.GH_TRAFFIC_TOKEN }}"
-HEADERS = {"Authorization": f"token {TOKEN}"}
+TOKEN = os.getenv("GH_TRAFFIC_TOKEN")
+HEADERS = {"Authorization": f"token {TOKEN}", "Accept": "application/vnd.github.v3+json"}
 
 def get_json(endpoint):
-    r = requests.get(f"https://api.github.com/repos/{REPO}/{endpoint}", headers=HEADERS)
-    return r.json()
+    url = f"https://api.github.com/repos/{REPO}/{endpoint}"
+    response = requests.get(url, headers=HEADERS)
+    try:
+        response.raise_for_status()
+    except requests.exceptions.HTTPError as e:
+        print(f"HTTP Error: {e}")
+        print(f"Response: {response.text}")
+        return {}
+    return response.json()
 
 views = get_json("traffic/views")
 clones = get_json("traffic/clones")
+
+view_count = views.get("count", 0)
+unique_visitors = views.get("uniques", 0)
+clone_count = clones.get("count", 0)
+unique_cloners = clones.get("uniques", 0)
 
 with open("README.md", "r", encoding="utf-8") as f:
     lines = f.readlines()
@@ -18,10 +32,10 @@ start_marker = "<!--TRAFFIC-STATS-START-->"
 end_marker = "<!--TRAFFIC-STATS-END-->"
 stats = f"""
 **GitHub Repo Stats (last 14 days)**  
-🧍 Unique Visitors: {views['uniques']}  
-👁️ Total Views: {views['count']}  
-📥 Unique Cloners: {clones['uniques']}  
-🔁 Total Clones: {clones['count']}  
+🧍 Unique Visitors: {unique_visitors}  
+👁️ Total Views: {view_count}  
+📥 Unique Cloners: {unique_cloners}  
+🔁 Total Clones: {clone_count}  
 ⏱️ Updated: {datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}
 """
 
