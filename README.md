@@ -1,4 +1,5 @@
 # **Oyster Detector** ![Oyster Detector Logo](https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/oyster_32x28.png)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=vexthecoder.OysterDetector&title=Repo%20Visits)
 ### A lightweight biome/aura/merchant tracker for Sol's RNG.
 
 ## **Features**
