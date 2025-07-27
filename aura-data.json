@@ -210,6 +210,16 @@
         }
     },
     {
+        "identifier": "Atomic",
+        "properties": {
+            "base_chance": 1180,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Glock",
         "properties": {
             "base_chance": 1700,
@@ -380,6 +390,16 @@
         }
     },
     {
+        "identifier": "Copper",
+        "properties": {
+            "base_chance": 29000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Watt",
         "properties": {
             "base_chance": 32768,
@@ -510,16 +530,6 @@
         }
     },
     {
-        "identifier": "Undead_Devil",
-        "properties": {
-            "base_chance": 120000,
-            "biome_amplifier": [
-                "HELL",
-                6
-            ]
-        }
-    },
-    {
         "identifier": "Spectre",
         "properties": {
             "base_chance": 110000,
@@ -530,12 +540,32 @@
         }
     },
     {
+        "identifier": "Undead_Devil",
+        "properties": {
+            "base_chance": 120000,
+            "biome_amplifier": [
+                "HELL",
+                6
+            ]
+        }
+    },
+    {
         "identifier": "Comet",
         "properties": {
             "base_chance": 120000,
             "biome_amplifier": [
                 "STARFALL",
                 5
+            ]
+        }
+    },
+    {
+        "identifier": "Divinus_Angel",
+        "properties": {
+            "base_chance": 120000,
+            "biome_amplifier": [
+                "None",
+                1
             ]
         }
     },
@@ -706,6 +736,16 @@
             "biome_amplifier": [
                 "None",
                 1
+            ]
+        }
+    },
+    {
+        "identifier": "Parasite",
+        "properties": {
+            "base_chance": 3000000,
+            "biome_amplifier": [
+                "CORRUPTION",
+                5
             ]
         }
     },
@@ -1140,6 +1180,16 @@
         }
     },
     {
+        "identifier": "Lullaby",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Symphony",
         "properties": {
             "base_chance": 175000000,
@@ -1216,6 +1266,16 @@
             "biome_amplifier": [
                 "BLAZING SUN",
                 2
+            ]
+        }
+    },
+    {
+        "identifier": "LOTUSFALL",
+        "properties": {
+            "base_chance": 320000000,
+            "biome_amplifier": [
+                "None",
+                1
             ]
         }
     },
@@ -2097,31 +2157,9 @@
         }
     },
     {
-        "identifier": "\u2605",
+        "identifier": "Dreammetric",
         "properties": {
-            "base_chance": 100,
-            "biome_amplifier": [
-                "DREAMSPACE",
-                1
-            ],
-            "rank": "challenged"
-        }
-    },
-    {
-        "identifier": "\u2605\u2605",
-        "properties": {
-            "base_chance": 1000,
-            "biome_amplifier": [
-                "DREAMSPACE",
-                1
-            ],
-            "rank": "challenged"
-        }
-    },
-    {
-        "identifier": "\u2605\u2605\u2605",
-        "properties": {
-            "base_chance": 10000,
+            "base_chance": 520000000,
             "biome_amplifier": [
                 "DREAMSPACE",
                 1
