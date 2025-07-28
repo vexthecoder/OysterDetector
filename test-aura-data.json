@@ -1000,6 +1000,16 @@
         }
     },
     {
+        "identifier": "Lullaby",
+        "properties": {
+            "base_chance": 17000000,
+            "biome_amplifier": [
+                "NIGHT",
+                10
+            ]
+        }
+    },
+    {
         "identifier": "Chromatic",
         "properties": {
             "base_chance": 20000000,
@@ -1176,16 +1186,6 @@
             "biome_amplifier": [
                 "None",
                 1
-            ]
-        }
-    },
-    {
-        "identifier": "Lullaby",
-        "properties": {
-            "base_chance": 170000000,
-            "biome_amplifier": [
-                "NIGHT",
-                10
             ]
         }
     },
