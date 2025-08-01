@@ -434,8 +434,8 @@
         "properties": {
             "base_chance": 50000,
             "biome_amplifier": [
-                "None",
-                1
+                "NIGHT",
+                10
             ]
         }
     },
@@ -444,8 +444,8 @@
         "properties": {
             "base_chance": 50000,
             "biome_amplifier": [
-                "None",
-                1
+                "DAY",
+                10
             ]
         }
     },
@@ -550,22 +550,22 @@
         }
     },
     {
-        "identifier": "Comet",
-        "properties": {
-            "base_chance": 120000,
-            "biome_amplifier": [
-                "STARFALL",
-                5
-            ]
-        }
-    },
-    {
         "identifier": "Divinus_Angel",
         "properties": {
             "base_chance": 120000,
             "biome_amplifier": [
                 "None",
                 1
+            ]
+        }
+    },
+    {
+        "identifier": "Comet",
+        "properties": {
+            "base_chance": 120000,
+            "biome_amplifier": [
+                "STARFALL",
+                5
             ]
         }
     },
@@ -814,8 +814,8 @@
         "properties": {
             "base_chance": 5000000,
             "biome_amplifier": [
-                "None",
-                1
+                "NIGHT",
+                10
             ]
         }
     },
@@ -824,8 +824,8 @@
         "properties": {
             "base_chance": 5000000,
             "biome_amplifier": [
-                "None",
-                1
+                "DAY",
+                10
             ]
         }
     },
@@ -996,6 +996,16 @@
             "biome_amplifier": [
                 "None",
                 1
+            ]
+        }
+    },
+    {
+        "identifier": "Lullaby",
+        "properties": {
+            "base_chance": 17000000,
+            "biome_amplifier": [
+                "NIGHT",
+                10
             ]
         }
     },
@@ -1180,16 +1190,6 @@
         }
     },
     {
-        "identifier": "Lullaby",
-        "properties": {
-            "base_chance": 0,
-            "biome_amplifier": [
-                "None",
-                1
-            ]
-        }
-    },
-    {
         "identifier": "Symphony",
         "properties": {
             "base_chance": 175000000,
@@ -1266,7 +1266,8 @@
             "biome_amplifier": [
                 "BLAZING SUN",
                 2
-            ]
+            ],
+            "event_override": "Summer 2025"
         }
     },
     {
@@ -1436,7 +1437,8 @@
             "biome_amplifier": [
                 "BLAZING SUN",
                 2
-            ]
+            ],
+            "event_override": "Summer 2025"
         }
     },
     {
@@ -1482,521 +1484,641 @@
     {
         "identifier": "pukeko",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 3198,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "April Fools 2025"
         }
     },
     {
         "identifier": ":Flushed:_Troll",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 1000000,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "April Fools 2025"
         }
     },
     {
         "identifier": "Origin_Onion",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 8000000,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "April Fools 2025"
         }
     },
     {
         "identifier": "Glock_shieldofthesky",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 170000000,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "April Fools 2025"
         }
     },
     {
         "identifier": "Wonderland",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 12000000,
+            "unobtainable": true,
             "biome_amplifier": [
-                "None",
-                1
-            ]
+                "SNOWY",
+                3
+            ],
+            "event_override": "Winter 2024"
         }
     },
     {
         "identifier": "Santa Frost",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 45000000,
+            "unobtainable": true,
             "biome_amplifier": [
-                "None",
-                1
-            ]
+                "SNOWY",
+                3
+            ],
+            "event_override": "Winter 2024"
         }
     },
     {
         "identifier": "WinterFantasy",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 72000000,
+            "unobtainable": true,
             "biome_amplifier": [
-                "None",
-                1
-            ]
+                "SNOWY",
+                3
+            ],
+            "event_override": "Winter 2024"
         }
     },
     {
         "identifier": "Express",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 90000000,
+            "unobtainable": true,
             "biome_amplifier": [
-                "None",
-                1
-            ]
+                "SNOWY",
+                3
+            ],
+            "event_override": "Winter 2024"
         }
     },
     {
         "identifier": "ABOMITABLE",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 120000000,
+            "unobtainable": true,
             "biome_amplifier": [
-                "None",
-                1
-            ]
+                "SNOWY",
+                3
+            ],
+            "event_override": "Winter 2024"
         }
     },
     {
         "identifier": "Atlas_Yuletide",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 510000000,
+            "unobtainable": true,
             "biome_amplifier": [
-                "None",
-                1
-            ]
+                "SNOWY",
+                3
+            ],
+            "event_override": "Winter 2024"
         }
     },
     {
         "identifier": "Divinus_Love",
         "properties": {
             "base_chance": 0,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Valentines Day 2024",
+            "rarity_override": "Quest Reward"
         }
     },
     {
         "identifier": ":Flushed:_Heart Eye",
         "properties": {
             "base_chance": 0,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Valentines Day 2024",
+            "rarity_override": "Quest Reward"
         }
     },
     {
         "identifier": "Celestial_Cupid",
         "properties": {
             "base_chance": 0,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Valentines Day 2024",
+            "rarity_override": "Quest Reward"
         }
     },
     {
         "identifier": "Blossom",
         "properties": {
             "base_chance": 0,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Valentines Day 2024",
+            "rarity_override": "Quest Reward"
         }
     },
     {
         "identifier": "Undefined_Defined",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 2222000,
+            "unobtainable": true,
             "biome_amplifier": [
-                "None",
-                1
-            ]
+                "NULL",
+                1000
+            ],
+            "event_override": "April Fools 2024"
         }
     },
     {
         "identifier": "Kromat1k",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 40000000,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "April Fools 2024"
         }
     },
     {
         "identifier": "Impeached_impeach",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 400000000,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "April Fools 2024"
         }
     },
     {
         "identifier": "Watermelon",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 320000,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Summer 2024"
         }
     },
     {
         "identifier": "StarRider_Starfish",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 250000,
+            "unobtainable": true,
             "biome_amplifier": [
-                "None",
-                1
-            ]
+                "STARFALL",
+                10
+            ],
+            "event_override": "Summer 2024"
         }
     },
     {
         "identifier": "shard surfer",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 225000000,
+            "unobtainable": true,
             "biome_amplifier": [
-                "None",
-                1
-            ]
+                "SNOWY",
+                3
+            ],
+            "event_override": "Summer 2024"
         }
     },
     {
         "identifier": "Shard Surfer",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 225000000,
+            "unobtainable": true,
             "biome_amplifier": [
-                "None",
-                1
-            ]
+                "SNOWY",
+                3
+            ],
+            "event_override": "Summer 2024"
         }
     },
     {
         "identifier": "shard_surfer",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 225000000,
+            "unobtainable": true,
             "biome_amplifier": [
-                "None",
-                1
-            ]
+                "SNOWY",
+                3
+            ],
+            "event_override": "Summer 2024"
         }
     },
     {
         "identifier": "Shard_Surfer",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 225000000,
+            "unobtainable": true,
             "biome_amplifier": [
-                "None",
-                1
-            ]
+                "SNOWY",
+                3
+            ],
+            "event_override": "Summer 2024"
         }
     },
     {
         "identifier": "shardsurfer",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 225000000,
+            "unobtainable": true,
             "biome_amplifier": [
-                "None",
-                1
-            ]
+                "SNOWY",
+                3
+            ],
+            "event_override": "Summer 2024"
         }
     },
     {
         "identifier": "ShardSurfer",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 225000000,
+            "unobtainable": true,
             "biome_amplifier": [
-                "None",
-                1
-            ]
+                "SNOWY",
+                3
+            ],
+            "event_override": "Summer 2024"
         }
     },
     {
         "identifier": "Surfer",
         "properties": {
             "base_chance": 0,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Summer 2024",
+            "rarity_override": "Quest Reward"
         }
     },
     {
         "identifier": "Innovator",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 30000000,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Innovation Awards 2024"
         }
     },
     {
         "identifier": "PUMP",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 200000,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Halloween 2024"
         }
     },
     {
         "identifier": "Lunar_Nightfall",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 3000000,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Halloween 2024"
         }
     },
     {
         "identifier": "Vital",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 6000000,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Halloween 2024"
         }
     },
     {
         "identifier": "Moonflower",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 10000000,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Halloween 2024"
         }
     },
     {
         "identifier": "Cryptfire",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 21000000,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Halloween 2024"
         }
     },
     {
         "identifier": "SOUL HUNTER",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 40000000,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Halloween 2024"
         }
     },
     {
         "identifier": "DULLAHAN",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 72000000,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Halloween 2024"
         }
     },
     {
         "identifier": "NIGHTMARE SKY",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 190000000,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Halloween 2024"
         }
     },
     {
         "identifier": "HARVESTER",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 666000000,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Halloween 2024"
         }
     },
     {
         "identifier": "APOSTOLOS_VEIL",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 800000000,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Halloween 2024"
         }
     },
     {
         "identifier": "Snowy Egg",
         "properties": {
             "base_chance": 0,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Easter 2025",
+            "rarity_override": "Event Reward"
         }
     },
     {
         "identifier": "Rainy Egg",
         "properties": {
             "base_chance": 0,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Easter 2025",
+            "rarity_override": "Event Reward"
         }
     },
     {
         "identifier": "Windy Egg",
         "properties": {
             "base_chance": 0,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Easter 2025",
+            "rarity_override": "Event Reward"
         }
     },
     {
         "identifier": "Starfall Egg",
         "properties": {
             "base_chance": 0,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Easter 2025",
+            "rarity_override": "Event Reward"
         }
     },
     {
         "identifier": "Corruption Egg",
         "properties": {
             "base_chance": 0,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Easter 2025",
+            "rarity_override": "Event Reward"
         }
     },
     {
         "identifier": "Sandstorm Egg",
         "properties": {
             "base_chance": 0,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Easter 2025",
+            "rarity_override": "Event Reward"
         }
     },
     {
         "identifier": "Null Egg",
         "properties": {
             "base_chance": 0,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Easter 2025",
+            "rarity_override": "Event Reward"
         }
     },
     {
         "identifier": "Glitched Egg",
         "properties": {
             "base_chance": 0,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Easter 2025",
+            "rarity_override": "Event Reward"
         }
     },
     {
         "identifier": "Hellfire Egg",
         "properties": {
             "base_chance": 0,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Easter 2025",
+            "rarity_override": "Event Reward"
         }
     },
     {
         "identifier": "Lightning",
         "properties": {
-            "base_chance": 0,
+            "base_chance": 40000,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "rarity_override": "Unobtainable since Era 1"
         }
     },
     {
         "identifier": "Sol",
         "properties": {
             "base_chance": 0,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "rarity_override": "Admin Exclusive\nHow did you even equip this?"
         }
     },
     {
         "identifier": "Content_Creator",
         "properties": {
             "base_chance": 0,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "rarity_override": "Content Creator Exclusive\nHi content creator!!"
         }
     },
     {
         "identifier": "Content_Creator_Platinum",
         "properties": {
             "base_chance": 0,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "rarity_override": "Content Creator Exclusive (Verified)\nHiiiii verified content creator!!"
         }
     },
     {
         "identifier": "Frigid",
         "properties": {
             "base_chance": 0,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Winter 2024",
+            "rarity_override": "Event Reward"
         }
     },
     {
         "identifier": "Blossom_Frozen",
         "properties": {
             "base_chance": 0,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Winter 2024",
+            "rarity_override": "Event Reward"
         }
     },
     {
@@ -2006,7 +2128,9 @@
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Summer 2025",
+            "rarity_override": "Chance while Digging in the Sand"
         }
     },
     {
@@ -2016,7 +2140,9 @@
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Summer 2025",
+            "rarity_override": "Lime's Summer Shop"
         }
     },
     {
@@ -2026,7 +2152,9 @@
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Summer 2025",
+            "rarity_override": "Lime's Summer Shop"
         }
     },
     {
@@ -2036,7 +2164,9 @@
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Summer 2025",
+            "rarity_override": "Season Pass Reward"
         }
     },
     {
@@ -2046,7 +2176,9 @@
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "event_override": "Summer 2025",
+            "rarity_override": "Season Pass Reward"
         }
     },
     {
@@ -2056,18 +2188,9 @@
             "biome_amplifier": [
                 "None",
                 1
-            ]
-        }
-    },
-    {
-        "identifier": "Megaphone",
-        "properties": {
-            "base_chance": 5000,
-            "biome_amplifier": [
-                "None",
-                1
             ],
-            "rank": "challenged"
+            "event_override": "Summer 2025",
+            "rarity_override": "Lime's Summer Shop"
         }
     },
     {
@@ -2077,7 +2200,8 @@
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "rarity_override": "Crafting"
         }
     },
     {
@@ -2087,7 +2211,20 @@
             "biome_amplifier": [
                 "None",
                 1
-            ]
+            ],
+            "rarity_override": "Crafting"
+        }
+    },
+    {
+        "identifier": "Megaphone",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rarity_override": "1 in 5,000 (With YG Blessing)",
+            "rank": "challenged"
         }
     },
     {
@@ -2159,7 +2296,7 @@
     {
         "identifier": "Dreammetric",
         "properties": {
-            "base_chance": 520000000,
+            "base_chance": 320000000,
             "biome_amplifier": [
                 "DREAMSPACE",
                 1
@@ -2175,7 +2312,8 @@
                 "None",
                 1
             ],
-            "rank": "challenged"
+            "rank": "challenged",
+            "rarity_override": "Forming a contract with **Eden**"
         }
     },
     {
@@ -2186,7 +2324,8 @@
                 "None",
                 1
             ],
-            "rank": "challenged"
+            "rank": "challenged",
+            "rarity_override": "1 in 100 (From Oblivion Potion)"
         }
     },
     {
@@ -2197,7 +2336,8 @@
                 "None",
                 1
             ],
-            "rank": "challenged"
+            "rank": "challenged",
+            "rarity_override": "1 in 2,000 (From Oblivion Potion)"
         }
     }
 ]
