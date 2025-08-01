@@ -2308,12 +2308,12 @@
         "identifier": "Eden",
         "properties": {
             "base_chance": 0,
-            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
             ],
-            "rank": "challenged"
+            "rank": "challenged",
+            "rarity_override": "Forming a contract with **Eden**"
         }
     },
     {
