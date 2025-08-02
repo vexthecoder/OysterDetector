@@ -500,6 +500,16 @@
         }
     },
     {
+        "identifier": "Flow",
+        "properties": {
+            "base_chance": 87000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Stormal",
         "properties": {
             "base_chance": 90000,
