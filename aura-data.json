@@ -552,7 +552,7 @@
     {
         "identifier": "Undead_Devil",
         "properties": {
-            "base_chance": 120000,
+            "base_chance": 666666,
             "biome_amplifier": [
                 "HELL",
                 6
@@ -2079,6 +2079,18 @@
                 1
             ],
             "rarity_override": "Admin Exclusive\nHow did you even equip this?"
+        }
+    },
+    {
+        "identifier": "Alchemist",
+        "properties": {
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rarity_override": "Tester Exclusive\nHi tester!"
         }
     },
     {
