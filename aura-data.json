@@ -504,8 +504,8 @@
         "properties": {
             "base_chance": 87000,
             "biome_amplifier": [
-                "None",
-                1
+                "WINDY",
+                3
             ]
         }
     },
@@ -1278,6 +1278,16 @@
                 2
             ],
             "event_override": "Summer 2025"
+        }
+    },
+    {
+        "identifier": "MAELSTROM",
+        "properties": {
+            "base_chance": 309999999,
+            "biome_amplifier": [
+                "WINDY",
+                3
+            ]
         }
     },
     {
@@ -2228,6 +2238,17 @@
     },
     {
         "identifier": "Matrix_Steampunk",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rarity_override": "Crafting"
+        }
+    },
+    {
+        "identifier": "Atlas_A.T.L.A.S.",
         "properties": {
             "base_chance": 0,
             "biome_amplifier": [
