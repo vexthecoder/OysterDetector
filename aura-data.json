@@ -920,6 +920,16 @@
         }
     },
     {
+        "identifier": "Nautilus_Lost",
+        "properties": {
+            "base_chance": 7700000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "HARNESSED",
         "properties": {
             "base_chance": 8500000,
@@ -1230,7 +1240,7 @@
         }
     },
     {
-        "identifier": "Astral_Legendarium",
+        "identifier": "Astral_Zodiac",
         "properties": {
             "base_chance": 267000000,
             "biome_amplifier": [
@@ -2249,6 +2259,17 @@
     },
     {
         "identifier": "Atlas_A.T.L.A.S.",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rarity_override": "Crafting"
+        }
+    },
+    {
+        "identifier": "Chromatic_Hyper",
         "properties": {
             "base_chance": 0,
             "biome_amplifier": [
