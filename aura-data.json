@@ -270,6 +270,16 @@
         }
     },
     {
+        "identifier": "Flora",
+        "properties": {
+            "base_chance": 3700,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Siderium",
         "properties": {
             "base_chance": 4096,
@@ -1173,6 +1183,16 @@
         "identifier": "Carriage",
         "properties": {
             "base_chance": 80000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "HARNESSED_Elements",
+        "properties": {
+            "base_chance": 85000000,
             "biome_amplifier": [
                 "None",
                 1
