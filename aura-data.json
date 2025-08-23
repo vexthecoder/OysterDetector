@@ -1307,7 +1307,8 @@
                 "BLAZING SUN",
                 2
             ],
-            "event_override": "Summer 2025"
+            "event_override": "Summer 2025",
+            "unobtainable": true
         }
     },
     {
@@ -1488,7 +1489,8 @@
                 "BLAZING SUN",
                 2
             ],
-            "event_override": "Summer 2025"
+            "event_override": "Summer 2025",
+            "unobtainable": true
         }
     },
     {
@@ -2192,7 +2194,8 @@
                 1
             ],
             "event_override": "Summer 2025",
-            "rarity_override": "Chance while Digging in the Sand"
+            "rarity_override": "Chance while Digging in the Sand",
+            "unobtainable": true
         }
     },
     {
@@ -2204,7 +2207,8 @@
                 1
             ],
             "event_override": "Summer 2025",
-            "rarity_override": "Lime's Summer Shop"
+            "rarity_override": "Lime's Summer Shop",
+            "unobtainable": true
         }
     },
     {
@@ -2216,7 +2220,8 @@
                 1
             ],
             "event_override": "Summer 2025",
-            "rarity_override": "Lime's Summer Shop"
+            "rarity_override": "Lime's Summer Shop",
+            "unobtainable": true
         }
     },
     {
@@ -2228,7 +2233,8 @@
                 1
             ],
             "event_override": "Summer 2025",
-            "rarity_override": "Season Pass Reward"
+            "rarity_override": "Season Pass Reward",
+            "unobtainable": true
         }
     },
     {
@@ -2240,7 +2246,8 @@
                 1
             ],
             "event_override": "Summer 2025",
-            "rarity_override": "Season Pass Reward"
+            "rarity_override": "Season Pass Reward",
+            "unobtainable": true
         }
     },
     {
@@ -2252,7 +2259,8 @@
                 1
             ],
             "event_override": "Summer 2025",
-            "rarity_override": "Lime's Summer Shop"
+            "rarity_override": "Lime's Summer Shop",
+            "unobtainable": true
         }
     },
     {
