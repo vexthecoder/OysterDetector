@@ -4,13 +4,14 @@
 <!--TRAFFIC-STATS-START-->
 <!--TRAFFIC-STATS-END-->
 
-[![Stars](https://img.shields.io/github/stars/vexthecoder/OysterDetector?style=for-the-badge&logo=github&color=181717&logoColor=white)](https://github.com/vexthecoder/OysterDetector/stargazers)
-[![Issues](https://img.shields.io/github/issues/vexthecoder/OysterDetector?style=for-the-badge&logo=github&color=181717&logoColor=white)](https://github.com/vexthecoder/OysterDetector/issues)
-[![License](https://img.shields.io/github/license/vexthecoder/OysterDetector?style=for-the-badge&logo=open-source-initiative&logoColor=white&color=2d2d2d)](https://github.com/vexthecoder/OysterDetector/blob/main/LICENSE)
-[![Release](https://img.shields.io/github/v/release/vexthecoder/OysterDetector?style=for-the-badge&logo=tag&logoColor=white&color=2d2d2d)](https://github.com/vexthecoder/OysterDetector/releases)
-[![Downloads](https://img.shields.io/github/downloads/vexthecoder/OysterDetector/total?style=for-the-badge&logo=github&logoColor=white&color=2d2d2d)](https://github.com/vexthecoder/OysterDetector/releases)
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Discord](https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1018875765565177976)
+[![Stars](https://img.shields.io/github/stars/vexthecoder/OysterDetector?style=for-the-badge&logo=github&label=Stars&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexthecoder/OysterDetector/stargazers)
+[![Forks](https://img.shields.io/github/forks/vexthecoder/OysterDetector?style=for-the-badge&logo=git&label=Forks&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexthecoder/OysterDetector/network/members)
+[![Issues](https://img.shields.io/github/issues/vexthecoder/OysterDetector?style=for-the-badge&logo=github&label=Issues&color=2d2d2d&labelColor=1a1a1a&logoColor=ffcc00)](https://github.com/vexthecoder/OysterDetector/issues)
+[![License](https://img.shields.io/github/license/vexthecoder/OysterDetector?style=for-the-badge&logo=open-source-initiative&label=License&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexthecoder/OysterDetector/blob/main/LICENSE)
+[![Release](https://img.shields.io/github/v/release/vexthecoder/OysterDetector?style=for-the-badge&logo=tag&label=Release&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexthecoder/OysterDetector/releases)
+[![Downloads](https://img.shields.io/github/downloads/vexthecoder/OysterDetector/total?style=for-the-badge&logo=download&label=Downloads&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexthecoder/OysterDetector/releases)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-2d2d2d?style=for-the-badge&logo=python&logoColor=ffcc00&labelColor=1a1a1a)](https://www.python.org/)
+[![Discord](https://img.shields.io/badge/Discord-Profile-2d2d2d?style=for-the-badge&logo=discord&logoColor=66ccff&labelColor=1a1a1a)](https://discord.com/users/1018875765565177976)
 
 ## **Features**
 - **Biome/Aura Detection**: Monitors biome changes and aura equips, filter webhook messages based on rarity or biome
