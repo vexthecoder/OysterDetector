@@ -2233,7 +2233,7 @@
                 1
             ],
             "event_override": "Summer 2025",
-            "rarity_override": "Season Pass Reward",
+            "rarity_override": "Season Pass Reward (Tier 50)",
             "unobtainable": true
         }
     },
@@ -2246,7 +2246,7 @@
                 1
             ],
             "event_override": "Summer 2025",
-            "rarity_override": "Season Pass Reward",
+            "rarity_override": "Season Pass Reward (Tier 100)",
             "unobtainable": true
         }
     },
@@ -2261,6 +2261,17 @@
             "event_override": "Summer 2025",
             "rarity_override": "Lime's Summer Shop",
             "unobtainable": true
+        }
+    },
+    {
+        "identifier": "Scorpion",
+        "properties": {
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rarity_override": "Season Pass Reward (Tier 100)"
         }
     },
     {
@@ -2430,6 +2441,18 @@
             ],
             "rank": "challenged",
             "rarity_override": "1 in 2,000 (From Oblivion Potion)"
+        }
+    },
+    {
+        "identifier": "Neferkhaf",
+        "properties": {
+            "base_chance": 1000,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rank": "challenged",
+            "rarity_override": "1 in 1,000 (From Potion of the Dune)"
         }
     }
 ]
