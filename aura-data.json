@@ -1260,6 +1260,16 @@
         }
     },
     {
+        "identifier": "Astral_Legendarium",
+        "properties": {
+            "base_chance": 267000000,
+            "biome_amplifier": [
+                "STARFALL",
+                5
+            ]
+        }
+    },
+    {
         "identifier": "Astral_Zodiac",
         "properties": {
             "base_chance": 267000000,
