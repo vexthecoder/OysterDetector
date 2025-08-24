@@ -9,7 +9,7 @@
 [![Forks](https://img.shields.io/github/forks/vexthecoder/OysterDetector?style=for-the-badge&logo=git&label=Forks&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexthecoder/OysterDetector/network/members)
 [![Issues](https://img.shields.io/github/issues/vexthecoder/OysterDetector?style=for-the-badge&logo=gitbook&label=Issues&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexthecoder/OysterDetector/issues)
 [![License](https://img.shields.io/github/license/vexthecoder/OysterDetector?style=for-the-badge&logo=nextdns&label=License&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexthecoder/OysterDetector/blob/main/LICENSE)
-[![Release](https://img.shields.io/github/v/release/vexthecoder/OysterDetector?style=for-the-badge&logo=shieldsdotio&label=Release&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexthecoder/OysterDetector/releases)
+[![Release](https://img.shields.io/github/v/release/vexthecoder/OysterDetector?style=for-the-badge&logo=shieldsdotio&label=Release&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexthecoder/OysterDetector/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/vexthecoder/OysterDetector/total?style=for-the-badge&logo=googleanalytics&label=Downloads&color=2d2d2d&labelColor=1a1a1a&logoColor=66ccff)](https://github.com/vexthecoder/OysterDetector/releases)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-2d2d2d?style=for-the-badge&logo=python&logoColor=66ccff&labelColor=1a1a1a)](https://www.python.org/)
 [![Discord](https://img.shields.io/badge/Discord-Profile-2d2d2d?style=for-the-badge&logo=discord&logoColor=66ccff&labelColor=1a1a1a)](https://discord.com/users/1018875765565177976)
