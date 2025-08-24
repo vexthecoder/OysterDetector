@@ -2,15 +2,13 @@
 ### A lightweight biome/aura/merchant tracker for Sol's RNG.
 
 <!--TRAFFIC-STATS-START-->
-
-**GitHub Repo Stats (last 14 days)**  
-🧍 Unique Visitors: 68  
-👁️ Total Views: 215  
-📥 Unique Cloners: 21  
-🔁 Total Clones: 39  
-⏱️ Updated: 2025-08-23 07:15 UTC
-
 <!--TRAFFIC-STATS-END-->
+
+[![GitHub stars](https://img.shields.io/github/stars/vexthecoder/OysterDetector?style=for-the-badge)](https://github.com/vexthecoder/OysterDetector/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/vexthecoder/OysterDetector?style=for-the-badge)](https://github.com/vexthecoder/OysterDetector/issues)
+[![GitHub license](https://img.shields.io/github/license/vexthecoder/OysterDetector?style=for-the-badge)](https://github.com/vexthecoder/OysterDetector/blob/main/LICENSE)
+[![Releases](https://img.shields.io/github/v/release/vexthecoder/OysterDetector?style=for-the-badge)](https://github.com/vexthecoder/OysterDetector/releases)
+[![Downloads](https://img.shields.io/github/downloads/vexthecoder/OysterDetector/total?style=for-the-badge)](https://github.com/vexthecoder/OysterDetector/releases)
 
 ## **Features**
 - **Biome/Aura Detection**: Monitors biome changes and aura equips, filter webhook messages based on rarity or biome
