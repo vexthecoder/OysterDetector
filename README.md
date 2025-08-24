@@ -4,11 +4,11 @@
 <!--TRAFFIC-STATS-START-->
 <!--TRAFFIC-STATS-END-->
 
-[![GitHub stars](https://img.shields.io/github/stars/vexthecoder/OysterDetector?style=for-the-badge)](https://github.com/vexthecoder/OysterDetector/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/vexthecoder/OysterDetector?style=for-the-badge)](https://github.com/vexthecoder/OysterDetector/issues)
-[![GitHub license](https://img.shields.io/github/license/vexthecoder/OysterDetector?style=for-the-badge)](https://github.com/vexthecoder/OysterDetector/blob/main/LICENSE)
-[![Releases](https://img.shields.io/github/v/release/vexthecoder/OysterDetector?style=for-the-badge)](https://github.com/vexthecoder/OysterDetector/releases)
-[![Downloads](https://img.shields.io/github/downloads/vexthecoder/OysterDetector/total?style=for-the-badge)](https://github.com/vexthecoder/OysterDetector/releases)
+[![GitHub stars](https://img.shields.io/github/stars/vexthecoder/OysterDetector)](https://github.com/vexthecoder/OysterDetector/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/vexthecoder/OysterDetector)](https://github.com/vexthecoder/OysterDetector/issues)
+[![GitHub license](https://img.shields.io/github/license/vexthecoder/OysterDetector)](https://github.com/vexthecoder/OysterDetector/blob/main/LICENSE)
+[![Releases](https://img.shields.io/github/v/release/vexthecoder/OysterDetector)](https://github.com/vexthecoder/OysterDetector/releases)
+[![Downloads](https://img.shields.io/github/downloads/vexthecoder/OysterDetector/total)](https://github.com/vexthecoder/OysterDetector/releases)
 
 ## **Features**
 - **Biome/Aura Detection**: Monitors biome changes and aura equips, filter webhook messages based on rarity or biome
