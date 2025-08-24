@@ -9,6 +9,8 @@
 [![License](https://img.shields.io/github/license/vexthecoder/OysterDetector?style=for-the-badge&logo=open-source-initiative&logoColor=white&color=2d2d2d)](https://github.com/vexthecoder/OysterDetector/blob/main/LICENSE)
 [![Release](https://img.shields.io/github/v/release/vexthecoder/OysterDetector?style=for-the-badge&logo=tag&logoColor=white&color=2d2d2d)](https://github.com/vexthecoder/OysterDetector/releases)
 [![Downloads](https://img.shields.io/github/downloads/vexthecoder/OysterDetector/total?style=for-the-badge&logo=github&logoColor=white&color=2d2d2d)](https://github.com/vexthecoder/OysterDetector/releases)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Discord](https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1018875765565177976)
 
 ## **Features**
 - **Biome/Aura Detection**: Monitors biome changes and aura equips, filter webhook messages based on rarity or biome
