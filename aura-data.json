@@ -1728,7 +1728,7 @@
         }
     },
     {
-        "identifier": "Kromat1k",
+        "identifier": "Chromatic_Kromat1k",
         "properties": {
             "base_chance": 40000000,
             "unobtainable": true,
