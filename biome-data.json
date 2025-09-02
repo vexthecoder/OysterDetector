@@ -84,7 +84,9 @@
       "primary_hex": "0xBFFF00",
       "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/1/10/Glitched_biome.png/revision/latest"
     },
-    "unobtainable": false
+    "unobtainable": false,
+    "always_send": true,
+    "ping_everyone": true
   },
   {
     "name": "DREAMSPACE",
@@ -92,6 +94,8 @@
       "primary_hex": "0xEA9DDA",
       "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/8/88/Dreamspace_biome.png/revision/latest"
     },
-    "unobtainable": false
+    "unobtainable": false,
+    "always_send": true,
+    "ping_everyone": true
   }
 ]
