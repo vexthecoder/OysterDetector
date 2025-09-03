@@ -5,7 +5,9 @@
       "primary_hex": "0xC8DED7",
       "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/f/f9/Normal_biome.png/revision/latest"
     },
-    "unobtainable": false
+    "unobtainable": false,
+    "always_send": false,
+    "ping_everyone": false
   },
   {
     "name": "WINDY",
@@ -13,7 +15,9 @@
       "primary_hex": "0x90F6FF",
       "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/c/c6/Windy_biome.png/revision/latest"
     },
-    "unobtainable": false
+    "unobtainable": false,
+    "always_send": false,
+    "ping_everyone": false
   },
   {
     "name": "RAINY",
@@ -21,7 +25,9 @@
       "primary_hex": "0x4284FF",
       "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/d/da/Rainy_biome.png/revision/latest"
     },
-    "unobtainable": false
+    "unobtainable": false,
+    "always_send": false,
+    "ping_everyone": false
   },
   {
     "name": "SNOWY",
@@ -29,7 +35,9 @@
       "primary_hex": "0xA6FFFF",
       "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/e/e6/Snowy_biome.png/revision/latest"
     },
-    "unobtainable": false
+    "unobtainable": false,
+    "always_send": false,
+    "ping_everyone": false
   },
   {
     "name": "SAND STORM",
@@ -37,7 +45,9 @@
       "primary_hex": "0xFFCB81",
       "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/6/6e/Sandstorm_biome.png/revision/latest"
     },
-    "unobtainable": false
+    "unobtainable": false,
+    "always_send": false,
+    "ping_everyone": false
   },
   {
     "name": "HELL",
@@ -45,7 +55,9 @@
       "primary_hex": "0x7E1617",
       "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/7/7e/Hell_biome.png/revision/latest"
     },
-    "unobtainable": false
+    "unobtainable": false,
+    "always_send": false,
+    "ping_everyone": false
   },
   {
     "name": "STARFALL",
@@ -53,7 +65,9 @@
       "primary_hex": "0x6085FF",
       "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/d/d2/Starfall_biome.png/revision/latest"
     },
-    "unobtainable": false
+    "unobtainable": false,
+    "always_send": false,
+    "ping_everyone": false
   },
   {
     "name": "CORRUPTION",
@@ -61,14 +75,19 @@
       "primary_hex": "0x9143FF",
       "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/4/41/Corruption_biome.png/revision/latest"
     },
-    "unobtainable": false
+    "unobtainable": false,
+    "always_send": false,
+    "ping_everyone": false
   },
   {
     "name": "NULL",
     "visuals": {
       "primary_hex": "0x3B3B3B",
       "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/a/a9/Null_biome.png/revision/latest"
-    }
+    },
+    "unobtainable": false,
+    "always_send": false,
+    "ping_everyone": false
   },
   {
     "name": "BLAZING SUN",
@@ -76,7 +95,9 @@
       "primary_hex": "0xFFFA5C",
       "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/b/b2/Blazing_Sun_biome.png/revision/latest"
     },
-    "unobtainable": false
+    "unobtainable": false,
+    "always_send": false,
+    "ping_everyone": false
   },
   {
     "name": "GLITCHED",
@@ -84,7 +105,10 @@
       "primary_hex": "0xBFFF00",
       "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/1/10/Glitched_biome.png/revision/latest"
     },
-    "unobtainable": false
+    "unobtainable": false,
+    "always_send": true,
+    "ping_everyone": true,
+    "snipe_protection": true
   },
   {
     "name": "DREAMSPACE",
@@ -92,6 +116,9 @@
       "primary_hex": "0xEA9DDA",
       "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/8/88/Dreamspace_biome.png/revision/latest"
     },
-    "unobtainable": false
+    "unobtainable": false,
+    "always_send": true,
+    "ping_everyone": true,
+    "snipe_protection": true
   }
 ]

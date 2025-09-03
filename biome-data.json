@@ -107,7 +107,8 @@
     },
     "unobtainable": false,
     "always_send": true,
-    "ping_everyone": true
+    "ping_everyone": true,
+    "snipe_protection": true
   },
   {
     "name": "DREAMSPACE",
@@ -117,6 +118,7 @@
     },
     "unobtainable": false,
     "always_send": true,
-    "ping_everyone": true
+    "ping_everyone": true,
+    "snipe_protection": true
   }
 ]
