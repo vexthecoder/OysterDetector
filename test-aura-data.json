@@ -640,6 +640,16 @@
         }
     },
     {
+        "identifier": "Terror",
+        "properties": {
+            "base_chance": 400000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Raven",
         "properties": {
             "base_chance": 500000,
@@ -1442,6 +1452,16 @@
         }
     },
     {
+        "identifier": "Sophyra",
+        "properties": {
+            "base_chance": 570000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Matrix_Reality",
         "properties": {
             "base_chance": 601020102,
@@ -1728,7 +1748,7 @@
         }
     },
     {
-        "identifier": "Kromat1k",
+        "identifier": "Chromatic_Kromat1k",
         "properties": {
             "base_chance": 40000000,
             "unobtainable": true,
@@ -2243,7 +2263,7 @@
                 1
             ],
             "event_override": "Summer 2025",
-            "rarity_override": "Season Pass Reward \n(Season 1, Tier 50)",
+            "rarity_override": "Season Pass Reward (Tier 50)",
             "unobtainable": true
         }
     },
@@ -2256,7 +2276,7 @@
                 1
             ],
             "event_override": "Summer 2025",
-            "rarity_override": "Season Pass Reward \n(Season 1, Tier 100)",
+            "rarity_override": "Season Pass Reward (Tier 100)",
             "unobtainable": true
         }
     },
@@ -2281,7 +2301,7 @@
                 "None",
                 1
             ],
-            "rarity_override": "Season Pass Reward \n(Season 2, Tier 100)"
+            "rarity_override": "Season Pass Reward (Tier 100)"
         }
     },
     {

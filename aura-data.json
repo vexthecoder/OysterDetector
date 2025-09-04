@@ -640,6 +640,16 @@
         }
     },
     {
+        "identifier": "Terror",
+        "properties": {
+            "base_chance": 400000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Raven",
         "properties": {
             "base_chance": 500000,
@@ -1435,6 +1445,16 @@
         "identifier": "Elude",
         "properties": {
             "base_chance": 555555555,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Sophyra",
+        "properties": {
+            "base_chance": 570000000,
             "biome_amplifier": [
                 "None",
                 1
