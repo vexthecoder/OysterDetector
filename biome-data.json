@@ -123,7 +123,7 @@
   },
   {
     "name": "UNKNOWN",
-    "name_override": "Dev Biome (XYZ, Zero, Stigma, etc.)",
+    "name_override": "UNKNOWN (Dev Exclusive)",
     "visuals": {
       "primary_hex": "0x000000",
       "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/e/ec/Unknown_biome.png/revision/20250705193516"
