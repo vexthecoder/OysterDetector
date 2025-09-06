@@ -120,5 +120,15 @@
     "always_send": true,
     "ping_everyone": true,
     "snipe_protection": true
+  },
+  {
+    "name": "UNKNOWN",
+    "name_override": "Dev Biome (XYZ, Zero, Stigma, etc.)",
+    "visuals": {
+      "primary_hex": "0x000000",
+      "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/e/ec/Unknown_biome.png/revision/20250705193516"
+    },
+    "unobtainable": false,
+    "always_send": true
   }
 ]

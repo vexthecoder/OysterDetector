@@ -2360,6 +2360,18 @@
             "rank": "challenged"
         }
     },
+        {
+        "identifier": "Prowler",
+        "properties": {
+            "base_chance": 540000,
+            "biome_amplifier": [
+                "UNKNOWN",
+                1
+            ],
+            "rarity_override": "1 in 540,000 (In XYZ Biome)",
+            "rank": "challenged"
+        }
+    },
     {
         "identifier": "Fault",
         "properties": {
