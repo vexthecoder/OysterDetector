@@ -3,6 +3,6 @@
     "id": "1",
     "date": "2025-09-06",
     "title": "test post",
-    "content": "this is a test post to see if the new system works"
+    "content": "this is a test post to see if the new system works\n# h1\n## h2\n### h3\n**bold text**\n*italic text*\n```\ncode block\n```"
   }
 ]
