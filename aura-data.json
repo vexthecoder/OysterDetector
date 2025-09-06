@@ -2441,7 +2441,7 @@
     {
         "identifier": "Dreammetric",
         "properties": {
-            "base_chance": 320000000,
+            "base_chance": 520000000,
             "biome_amplifier": [
                 "DREAMSPACE",
                 1
