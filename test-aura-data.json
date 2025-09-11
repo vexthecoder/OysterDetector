@@ -2,6 +2,7 @@
     {
         "identifier": "Nothing",
         "properties": {
+            "name": "Nothing",
             "base_chance": 1,
             "biome_amplifier": [
                 "None",
@@ -12,6 +13,7 @@
     {
         "identifier": "Common",
         "properties": {
+            "name": "Common",
             "base_chance": 2,
             "biome_amplifier": [
                 "None",
@@ -22,6 +24,7 @@
     {
         "identifier": "Uncommon",
         "properties": {
+            "name": "Uncommon",
             "base_chance": 4,
             "biome_amplifier": [
                 "None",
@@ -32,6 +35,7 @@
     {
         "identifier": "Good",
         "properties": {
+            "name": "Good",
             "base_chance": 5,
             "biome_amplifier": [
                 "None",
@@ -42,6 +46,7 @@
     {
         "identifier": "Natural",
         "properties": {
+            "name": "Natural",
             "base_chance": 8,
             "biome_amplifier": [
                 "None",
@@ -52,6 +57,7 @@
     {
         "identifier": "Rare",
         "properties": {
+            "name": "Rare",
             "base_chance": 16,
             "biome_amplifier": [
                 "None",
@@ -62,6 +68,7 @@
     {
         "identifier": "Divinus",
         "properties": {
+            "name": "Divinus",
             "base_chance": 32,
             "biome_amplifier": [
                 "None",
@@ -72,6 +79,7 @@
     {
         "identifier": "Crystallized",
         "properties": {
+            "name": "Crystallized",
             "base_chance": 64,
             "biome_amplifier": [
                 "None",
@@ -82,6 +90,7 @@
     {
         "identifier": "Rage",
         "properties": {
+            "name": "Rage",
             "base_chance": 128,
             "biome_amplifier": [
                 "None",
@@ -92,6 +101,7 @@
     {
         "identifier": "Topaz",
         "properties": {
+            "name": "Topaz",
             "base_chance": 150,
             "biome_amplifier": [
                 "None",
@@ -102,6 +112,7 @@
     {
         "identifier": "Ruby",
         "properties": {
+            "name": "Ruby",
             "base_chance": 350,
             "biome_amplifier": [
                 "None",
@@ -112,6 +123,7 @@
     {
         "identifier": "Forbidden",
         "properties": {
+            "name": "Forbidden",
             "base_chance": 404,
             "biome_amplifier": [
                 "None",
@@ -122,6 +134,7 @@
     {
         "identifier": "Emerald",
         "properties": {
+            "name": "Emerald",
             "base_chance": 500,
             "biome_amplifier": [
                 "None",
@@ -132,6 +145,7 @@
     {
         "identifier": "Gilded",
         "properties": {
+            "name": "Gilded",
             "base_chance": 512,
             "biome_amplifier": [
                 "SAND STORM",
@@ -142,6 +156,7 @@
     {
         "identifier": "Ink",
         "properties": {
+            "name": "Ink",
             "base_chance": 700,
             "biome_amplifier": [
                 "None",
@@ -152,6 +167,7 @@
     {
         "identifier": "Jackpot",
         "properties": {
+            "name": "Jackpot",
             "base_chance": 777,
             "biome_amplifier": [
                 "SAND STORM",
@@ -162,6 +178,7 @@
     {
         "identifier": "Sapphire",
         "properties": {
+            "name": "Sapphire",
             "base_chance": 800,
             "biome_amplifier": [
                 "None",
@@ -172,6 +189,7 @@
     {
         "identifier": "Aquamarine",
         "properties": {
+            "name": "Aquamarine",
             "base_chance": 900,
             "biome_amplifier": [
                 "None",
@@ -182,6 +200,7 @@
     {
         "identifier": "Wind",
         "properties": {
+            "name": "Wind",
             "base_chance": 900,
             "biome_amplifier": [
                 "WINDY",
@@ -192,6 +211,7 @@
     {
         "identifier": "Diaboli",
         "properties": {
+            "name": "Diaboli",
             "base_chance": 1004,
             "biome_amplifier": [
                 "None",
@@ -202,6 +222,7 @@
     {
         "identifier": "Precious",
         "properties": {
+            "name": "Precious",
             "base_chance": 1024,
             "biome_amplifier": [
                 "None",
@@ -212,6 +233,7 @@
     {
         "identifier": "Atomic",
         "properties": {
+            "name": "Atomic",
             "base_chance": 1180,
             "biome_amplifier": [
                 "None",
@@ -222,6 +244,7 @@
     {
         "identifier": "Glock",
         "properties": {
+            "name": "Glock",
             "base_chance": 1700,
             "biome_amplifier": [
                 "None",
@@ -232,6 +255,7 @@
     {
         "identifier": "Magnetic",
         "properties": {
+            "name": "Magnetic",
             "base_chance": 2048,
             "biome_amplifier": [
                 "None",
@@ -242,6 +266,7 @@
     {
         "identifier": "Ash",
         "properties": {
+            "name": "Ash",
             "base_chance": 2300,
             "biome_amplifier": [
                 "None",
@@ -252,6 +277,7 @@
     {
         "identifier": "Glacier",
         "properties": {
+            "name": "Glacier",
             "base_chance": 2304,
             "biome_amplifier": [
                 "SNOWY",
@@ -262,6 +288,7 @@
     {
         "identifier": "Player",
         "properties": {
+            "name": "Player",
             "base_chance": 3000,
             "biome_amplifier": [
                 "None",
@@ -272,6 +299,7 @@
     {
         "identifier": "Flora",
         "properties": {
+            "name": "Flora",
             "base_chance": 3700,
             "biome_amplifier": [
                 "None",
@@ -282,6 +310,7 @@
     {
         "identifier": "Sidereum",
         "properties": {
+            "name": "Sidereum",
             "base_chance": 4096,
             "biome_amplifier": [
                 "None",
@@ -292,6 +321,7 @@
     {
         "identifier": "Bleeding",
         "properties": {
+            "name": "Bleeding",
             "base_chance": 4444,
             "biome_amplifier": [
                 "None",
@@ -302,6 +332,7 @@
     {
         "identifier": ":Flushed:",
         "properties": {
+            "name": ":Flushed:",
             "base_chance": 6900,
             "biome_amplifier": [
                 "None",
@@ -312,6 +343,7 @@
     {
         "identifier": "Hazard",
         "properties": {
+            "name": "Hazard",
             "base_chance": 7000,
             "biome_amplifier": [
                 "CORRUPTION",
@@ -322,6 +354,7 @@
     {
         "identifier": "Quartz",
         "properties": {
+            "name": "Quartz",
             "base_chance": 8192,
             "biome_amplifier": [
                 "None",
@@ -332,6 +365,7 @@
     {
         "identifier": "Honey",
         "properties": {
+            "name": "Honey",
             "base_chance": 8335,
             "biome_amplifier": [
                 "None",
@@ -342,6 +376,7 @@
     {
         "identifier": "Lost Soul",
         "properties": {
+            "name": "Lost Soul",
             "base_chance": 9200,
             "biome_amplifier": [
                 "None",
@@ -352,6 +387,7 @@
     {
         "identifier": "Undead",
         "properties": {
+            "name": "Undead",
             "base_chance": 12000,
             "biome_amplifier": [
                 "HELL",
@@ -362,6 +398,7 @@
     {
         "identifier": "Corrosive",
         "properties": {
+            "name": "Corrosive",
             "base_chance": 12000,
             "biome_amplifier": [
                 "CORRUPTION",
@@ -372,6 +409,7 @@
     {
         "identifier": "Rage_Heated",
         "properties": {
+            "name": "Rage : Heated",
             "base_chance": 12800,
             "biome_amplifier": [
                 "None",
@@ -382,6 +420,7 @@
     {
         "identifier": "Ink_LEAK",
         "properties": {
+            "name": "Ink : LEAK",
             "base_chance": 14000,
             "biome_amplifier": [
                 "None",
@@ -392,6 +431,7 @@
     {
         "identifier": "Powered",
         "properties": {
+            "name": "Powered",
             "base_chance": 16384,
             "biome_amplifier": [
                 "None",
@@ -402,6 +442,7 @@
     {
         "identifier": "Copper",
         "properties": {
+            "name": "Copper",
             "base_chance": 29000,
             "biome_amplifier": [
                 "None",
@@ -412,6 +453,7 @@
     {
         "identifier": "Watt",
         "properties": {
+            "name": "Watt",
             "base_chance": 32768,
             "biome_amplifier": [
                 "None",
@@ -422,6 +464,7 @@
     {
         "identifier": "Aquatic",
         "properties": {
+            "name": "Aquatic",
             "base_chance": 40000,
             "biome_amplifier": [
                 "None",
@@ -432,6 +475,7 @@
     {
         "identifier": "Starlight",
         "properties": {
+            "name": "Starlight",
             "base_chance": 50000,
             "biome_amplifier": [
                 "STARFALL",
@@ -442,6 +486,7 @@
     {
         "identifier": "Lunar",
         "properties": {
+            "name": "Lunar",
             "base_chance": 50000,
             "biome_amplifier": [
                 "NIGHT",
@@ -452,6 +497,7 @@
     {
         "identifier": "Solar",
         "properties": {
+            "name": "Solar",
             "base_chance": 50000,
             "biome_amplifier": [
                 "DAY",
@@ -462,6 +508,7 @@
     {
         "identifier": "StarRider",
         "properties": {
+            "name": "StarRider",
             "base_chance": 50000,
             "biome_amplifier": [
                 "STARFALL",
@@ -472,6 +519,7 @@
     {
         "identifier": ":Flushed:_Lobotomy",
         "properties": {
+            "name": ":Flushed: : Lobotomy",
             "base_chance": 69000,
             "biome_amplifier": [
                 "None",
@@ -482,6 +530,7 @@
     {
         "identifier": "Nautilus",
         "properties": {
+            "name": "Nautilus",
             "base_chance": 70000,
             "biome_amplifier": [
                 "None",
@@ -492,6 +541,7 @@
     {
         "identifier": "Hazard_Rays",
         "properties": {
+            "name": "Hazard : Rays",
             "base_chance": 70000,
             "biome_amplifier": [
                 "CORRUPTION",
@@ -502,6 +552,7 @@
     {
         "identifier": "Permafrost",
         "properties": {
+            "name": "Permafrost",
             "base_chance": 73500,
             "biome_amplifier": [
                 "SNOWY",
@@ -512,6 +563,7 @@
     {
         "identifier": "Flow",
         "properties": {
+            "name": "Flow",
             "base_chance": 87000,
             "biome_amplifier": [
                 "WINDY",
@@ -522,6 +574,7 @@
     {
         "identifier": "Stormal",
         "properties": {
+            "name": "Stormal",
             "base_chance": 90000,
             "biome_amplifier": [
                 "WINDY",
@@ -532,6 +585,7 @@
     {
         "identifier": "Exotic",
         "properties": {
+            "name": "Exotic",
             "base_chance": 99999,
             "biome_amplifier": [
                 "None",
@@ -542,6 +596,7 @@
     {
         "identifier": "Diaboli_Void",
         "properties": {
+            "name": "Diaboli : Void",
             "base_chance": 100400,
             "biome_amplifier": [
                 "None",
@@ -552,6 +607,7 @@
     {
         "identifier": "Spectre",
         "properties": {
+            "name": "Spectre",
             "base_chance": 110000,
             "biome_amplifier": [
                 "None",
@@ -562,6 +618,7 @@
     {
         "identifier": "Undead_Devil",
         "properties": {
+            "name": "Undead : Devil",
             "base_chance": 666666,
             "biome_amplifier": [
                 "HELL",
@@ -572,6 +629,7 @@
     {
         "identifier": "Divinus_Angel",
         "properties": {
+            "name": "Divinus : Angel",
             "base_chance": 120000,
             "biome_amplifier": [
                 "None",
@@ -582,6 +640,7 @@
     {
         "identifier": "Comet",
         "properties": {
+            "name": "Comet",
             "base_chance": 120000,
             "biome_amplifier": [
                 "STARFALL",
@@ -592,6 +651,7 @@
     {
         "identifier": "Jade",
         "properties": {
+            "name": "Jade",
             "base_chance": 125000,
             "biome_amplifier": [
                 "None",
@@ -602,6 +662,7 @@
     {
         "identifier": "Jazz",
         "properties": {
+            "name": "Jazz",
             "base_chance": 160000,
             "biome_amplifier": [
                 "None",
@@ -612,6 +673,7 @@
     {
         "identifier": "Aether",
         "properties": {
+            "name": "Aether",
             "base_chance": 180000,
             "biome_amplifier": [
                 "None",
@@ -622,6 +684,7 @@
     {
         "identifier": "BOUNDED",
         "properties": {
+            "name": "Bounded",
             "base_chance": 200000,
             "biome_amplifier": [
                 "None",
@@ -632,6 +695,7 @@
     {
         "identifier": "Celestial",
         "properties": {
+            "name": "Celestial",
             "base_chance": 350000,
             "biome_amplifier": [
                 "None",
@@ -642,6 +706,7 @@
     {
         "identifier": "Terror",
         "properties": {
+            "name": "Terror",
             "base_chance": 400000,
             "biome_amplifier": [
                 "None",
@@ -652,6 +717,7 @@
     {
         "identifier": "Raven",
         "properties": {
+            "name": "Raven",
             "base_chance": 500000,
             "biome_amplifier": [
                 "None",
@@ -662,6 +728,7 @@
     {
         "identifier": "Twilight",
         "properties": {
+            "name": "Twilight",
             "base_chance": 600000,
             "biome_amplifier": [
                 "None",
@@ -672,6 +739,7 @@
     {
         "identifier": "Kyawthuite",
         "properties": {
+            "name": "Kyawthuite",
             "base_chance": 850000,
             "biome_amplifier": [
                 "None",
@@ -682,6 +750,7 @@
     {
         "identifier": "Arcane",
         "properties": {
+            "name": "Arcane",
             "base_chance": 1000000,
             "biome_amplifier": [
                 "None",
@@ -692,6 +761,7 @@
     {
         "identifier": "Magnetic_Reverse Polarity",
         "properties": {
+            "name": "Magnetic : Reverse Polarity",
             "base_chance": 1024000,
             "biome_amplifier": [
                 "None",
@@ -702,6 +772,7 @@
     {
         "identifier": "Undefined",
         "properties": {
+            "name": "Undefined",
             "base_chance": 1111000,
             "biome_amplifier": [
                 "NULL",
@@ -712,6 +783,7 @@
     {
         "identifier": "Rage_Brawler",
         "properties": {
+            "name": "Rage : Brawler",
             "base_chance": 1280000,
             "biome_amplifier": [
                 "None",
@@ -722,6 +794,7 @@
     {
         "identifier": "Astral",
         "properties": {
+            "name": "Astral",
             "base_chance": 1336000,
             "biome_amplifier": [
                 "CORRUPTION",
@@ -732,6 +805,7 @@
     {
         "identifier": "Cosmos",
         "properties": {
+            "name": "Cosmos",
             "base_chance": 1520000,
             "biome_amplifier": [
                 "None",
@@ -742,6 +816,7 @@
     {
         "identifier": "Gravitational",
         "properties": {
+            "name": "Gravitational",
             "base_chance": 2000000,
             "biome_amplifier": [
                 "None",
@@ -752,6 +827,7 @@
     {
         "identifier": "BOUNDED_UNBOUND",
         "properties": {
+            "name": "Bounded : Unbound",
             "base_chance": 2000000,
             "biome_amplifier": [
                 "None",
@@ -762,6 +838,7 @@
     {
         "identifier": "Virtual",
         "properties": {
+            "name": "Virtual",
             "base_chance": 2500000,
             "biome_amplifier": [
                 "None",
@@ -772,6 +849,7 @@
     {
         "identifier": "Parasite",
         "properties": {
+            "name": "Parasite",
             "base_chance": 3000000,
             "biome_amplifier": [
                 "CORRUPTION",
@@ -782,6 +860,7 @@
     {
         "identifier": "Savior",
         "properties": {
+            "name": "Savior",
             "base_chance": 3200000,
             "biome_amplifier": [
                 "None",
@@ -792,6 +871,7 @@
     {
         "identifier": "Cosmos_Alice",
         "properties": {
+            "name": "Cosmos : Alice",
             "base_chance": 3500000,
             "biome_amplifier": [
                 "None",
@@ -802,6 +882,7 @@
     {
         "identifier": "Aquatic_Flame",
         "properties": {
+            "name": "Aquatic : Flame",
             "base_chance": 4000000,
             "biome_amplifier": [
                 "None",
@@ -812,6 +893,7 @@
     {
         "identifier": "Poseidon",
         "properties": {
+            "name": "Poseidon",
             "base_chance": 4000000,
             "biome_amplifier": [
                 "RAINY",
@@ -822,6 +904,7 @@
     {
         "identifier": "Zeus",
         "properties": {
+            "name": "Zeus",
             "base_chance": 4500000,
             "biome_amplifier": [
                 "None",
@@ -832,6 +915,7 @@
     {
         "identifier": "Galaxy",
         "properties": {
+            "name": "Galaxy",
             "base_chance": 5000000,
             "biome_amplifier": [
                 "STARFALL",
@@ -842,6 +926,7 @@
     {
         "identifier": "Lunar_Full Moon",
         "properties": {
+            "name": "Lunar : Full Moon",
             "base_chance": 5000000,
             "biome_amplifier": [
                 "NIGHT",
@@ -852,6 +937,7 @@
     {
         "identifier": "Solar_Solstice",
         "properties": {
+            "name": "Solar : Solstice",
             "base_chance": 5000000,
             "biome_amplifier": [
                 "DAY",
@@ -862,6 +948,7 @@
     {
         "identifier": "Anima",
         "properties": {
+            "name": "Anima",
             "base_chance": 5730000,
             "biome_amplifier": [
                 "None",
@@ -872,6 +959,7 @@
     {
         "identifier": "Origin",
         "properties": {
+            "name": "Origin",
             "base_chance": 6500000,
             "biome_amplifier": [
                 "None",
@@ -882,6 +970,7 @@
     {
         "identifier": "Warlock",
         "properties": {
+            "name": "Warlock",
             "base_chance": 666000,
             "biome_amplifier": [
                 "None",
@@ -892,6 +981,7 @@
     {
         "identifier": "Hades",
         "properties": {
+            "name": "Hades",
             "base_chance": 6666666,
             "biome_amplifier": [
                 "HELL",
@@ -902,6 +992,7 @@
     {
         "identifier": "Celestial_Divine",
         "properties": {
+            "name": "Celestial : Divine",
             "base_chance": 7000000,
             "biome_amplifier": [
                 "None",
@@ -912,6 +1003,7 @@
     {
         "identifier": "Anubis",
         "properties": {
+            "name": "Anubis",
             "base_chance": 7200000,
             "biome_amplifier": [
                 "SAND STORM",
@@ -922,6 +1014,7 @@
     {
         "identifier": "Hyper-Volt",
         "properties": {
+            "name": "Hyper-Volt",
             "base_chance": 7500000,
             "biome_amplifier": [
                 "None",
@@ -932,6 +1025,7 @@
     {
         "identifier": "Velocity",
         "properties": {
+            "name": "Velocity",
             "base_chance": 7630000,
             "biome_amplifier": [
                 "None",
@@ -942,6 +1036,7 @@
     {
         "identifier": "Nautilus_Lost",
         "properties": {
+            "name": "Nautilus : Lost",
             "base_chance": 7700000,
             "biome_amplifier": [
                 "None",
@@ -952,6 +1047,7 @@
     {
         "identifier": "HARNESSED",
         "properties": {
+            "name": "Harnessed",
             "base_chance": 8500000,
             "biome_amplifier": [
                 "None",
@@ -962,6 +1058,7 @@
     {
         "identifier": "Nihility",
         "properties": {
+            "name": "Nihility",
             "base_chance": 9000000,
             "biome_amplifier": [
                 "NULL",
@@ -972,6 +1069,7 @@
     {
         "identifier": "Helios",
         "properties": {
+            "name": "Helios",
             "base_chance": 9000000,
             "biome_amplifier": [
                 "None",
@@ -982,6 +1080,7 @@
     {
         "identifier": "Stargazer",
         "properties": {
+            "name": "Stargazer",
             "base_chance": 9200000,
             "biome_amplifier": [
                 "STARFALL",
@@ -992,6 +1091,7 @@
     {
         "identifier": "Starscourge",
         "properties": {
+            "name": "Starscourge",
             "base_chance": 10000000,
             "biome_amplifier": [
                 "STARFALL",
@@ -1002,6 +1102,7 @@
     {
         "identifier": "Sailor",
         "properties": {
+            "name": "Sailor",
             "base_chance": 12000000,
             "biome_amplifier": [
                 "RAINY",
@@ -1012,6 +1113,7 @@
     {
         "identifier": "Stormal_Hurricane",
         "properties": {
+            "name": "Stormal : Hurricane",
             "base_chance": 13500000,
             "biome_amplifier": [
                 "WINDY",
@@ -1022,6 +1124,7 @@
     {
         "identifier": "Sirius",
         "properties": {
+            "name": "Sirius",
             "base_chance": 14000000,
             "biome_amplifier": [
                 "STARFALL",
@@ -1032,6 +1135,7 @@
     {
         "identifier": "Arcane_Legacy",
         "properties": {
+            "name": "Arcane : Legacy",
             "base_chance": 15000000,
             "biome_amplifier": [
                 "None",
@@ -1042,6 +1146,7 @@
     {
         "identifier": "Lullaby",
         "properties": {
+            "name": "Lullaby",
             "base_chance": 17000000,
             "biome_amplifier": [
                 "NIGHT",
@@ -1052,6 +1157,7 @@
     {
         "identifier": "Chromatic",
         "properties": {
+            "name": "Chromatic",
             "base_chance": 20000000,
             "biome_amplifier": [
                 "None",
@@ -1062,6 +1168,7 @@
     {
         "identifier": "Aviator",
         "properties": {
+            "name": "Aviator",
             "base_chance": 24000000,
             "biome_amplifier": [
                 "WINDY",
@@ -1072,6 +1179,7 @@
     {
         "identifier": "Blizzard",
         "properties": {
+            "name": "Blizzard",
             "base_chance": 27315000,
             "biome_amplifier": [
                 "SNOWY",
@@ -1082,6 +1190,7 @@
     {
         "identifier": "Arcane_Dark",
         "properties": {
+            "name": "Arcane : Dark",
             "base_chance": 30000000,
             "biome_amplifier": [
                 "None",
@@ -1092,6 +1201,7 @@
     {
         "identifier": "Ethereal",
         "properties": {
+            "name": "Ethereal",
             "base_chance": 35000000,
             "biome_amplifier": [
                 "None",
@@ -1102,6 +1212,7 @@
     {
         "identifier": "Virtual_Fatal Error",
         "properties": {
+            "name": "Virutal : Fatal Error",
             "base_chance": 40413000,
             "biome_amplifier": [
                 "None",
@@ -1112,6 +1223,7 @@
     {
         "identifier": "JUXTAPOSITION",
         "properties": {
+            "name": "Juxtaposition",
             "base_chance": 40440400,
             "biome_amplifier": [
                 "None",
@@ -1122,6 +1234,7 @@
     {
         "identifier": "Overseer",
         "properties": {
+            "name": "Overseer",
             "base_chance": 45000000,
             "biome_amplifier": [
                 "None",
@@ -1132,6 +1245,7 @@
     {
         "identifier": "Exotic_APEX",
         "properties": {
+            "name": "Exotic : Apex",
             "base_chance": 49999500,
             "biome_amplifier": [
                 "None",
@@ -1142,6 +1256,7 @@
     {
         "identifier": "Runic",
         "properties": {
+            "name": "Runic",
             "base_chance": 50000000,
             "biome_amplifier": [
                 "None",
@@ -1152,6 +1267,7 @@
     {
         "identifier": "Matrix",
         "properties": {
+            "name": "Matrix",
             "base_chance": 50000000,
             "biome_amplifier": [
                 "None",
@@ -1162,6 +1278,7 @@
     {
         "identifier": "Sentinel",
         "properties": {
+            "name": "Sentinel",
             "base_chance": 60000000,
             "biome_amplifier": [
                 "None",
@@ -1172,6 +1289,7 @@
     {
         "identifier": "Twilight_Iridescent Memory",
         "properties": {
+            "name": "Twilight : Iridescent Memory",
             "base_chance": 60000000,
             "biome_amplifier": [
                 "None",
@@ -1182,6 +1300,7 @@
     {
         "identifier": "Sailor_Flying Dutchman",
         "properties": {
+            "name": "Sailor : Flying Dutchman",
             "base_chance": 80000000,
             "biome_amplifier": [
                 "RAINY",
@@ -1192,6 +1311,7 @@
     {
         "identifier": "Carriage",
         "properties": {
+            "name": "Carriage",
             "base_chance": 80000000,
             "biome_amplifier": [
                 "None",
@@ -1202,6 +1322,7 @@
     {
         "identifier": "HARNESSED_Elements",
         "properties": {
+            "name": "Harnessed : Elements",
             "base_chance": 85000000,
             "biome_amplifier": [
                 "None",
@@ -1212,6 +1333,7 @@
     {
         "identifier": "Chromatic_Genesis",
         "properties": {
+            "name": "Chromatic : Genesis",
             "base_chance": 99999999,
             "biome_amplifier": [
                 "None",
@@ -1222,6 +1344,7 @@
     {
         "identifier": "Starscourge_Radiant",
         "properties": {
+            "name": "Starscourge : Radiant",
             "base_chance": 100000000,
             "biome_amplifier": [
                 "STARFALL",
@@ -1232,6 +1355,7 @@
     {
         "identifier": "Overture",
         "properties": {
+            "name": "Overture",
             "base_chance": 150000000,
             "biome_amplifier": [
                 "None",
@@ -1242,6 +1366,7 @@
     {
         "identifier": "Symphony",
         "properties": {
+            "name": "Symphony",
             "base_chance": 175000000,
             "biome_amplifier": [
                 "None",
@@ -1252,6 +1377,7 @@
     {
         "identifier": "Impeached",
         "properties": {
+            "name": "Impeached",
             "base_chance": 200000000,
             "biome_amplifier": [
                 "CORRUPTION",
@@ -1262,6 +1388,7 @@
     {
         "identifier": "Archangel",
         "properties": {
+            "name": "Archangel",
             "base_chance": 250000000,
             "biome_amplifier": [
                 "None",
@@ -1272,6 +1399,7 @@
     {
         "identifier": "Astral_Legendarium",
         "properties": {
+            "name": "Astral : Legendarium",
             "base_chance": 267000000,
             "biome_amplifier": [
                 "STARFALL",
@@ -1282,6 +1410,7 @@
     {
         "identifier": "Astral_Zodiac",
         "properties": {
+            "name": "Astral : Zodiac",
             "base_chance": 267000000,
             "biome_amplifier": [
                 "STARFALL",
@@ -1292,6 +1421,7 @@
     {
         "identifier": "Exotic_Void",
         "properties": {
+            "name": "Exotic : Void",
             "base_chance": 299999999,
             "biome_amplifier": [
                 "None",
@@ -1302,6 +1432,7 @@
     {
         "identifier": "Overture_History",
         "properties": {
+            "name": "Overture : History",
             "base_chance": 300000000,
             "biome_amplifier": [
                 "None",
@@ -1312,6 +1443,7 @@
     {
         "identifier": "BLOODLUST",
         "properties": {
+            "name": "Bloodlust",
             "base_chance": 300000000,
             "biome_amplifier": [
                 "HELL",
@@ -1322,6 +1454,7 @@
     {
         "identifier": "Manta",
         "properties": {
+            "name": "Manta",
             "base_chance": 300000000,
             "biome_amplifier": [
                 "BLAZING SUN",
@@ -1334,6 +1467,7 @@
     {
         "identifier": "Maelstrom",
         "properties": {
+            "name": "Maelstrom",
             "base_chance": 309999999,
             "biome_amplifier": [
                 "WINDY",
@@ -1344,6 +1478,7 @@
     {
         "identifier": "LOTUSFALL",
         "properties": {
+            "name": "Lotusfall",
             "base_chance": 320000000,
             "biome_amplifier": [
                 "None",
@@ -1354,6 +1489,7 @@
     {
         "identifier": "Jazz_Orchestra",
         "properties": {
+            "name": "Jazz : Orchestra",
             "base_chance": 336870912,
             "biome_amplifier": [
                 "None",
@@ -1364,6 +1500,7 @@
     {
         "identifier": "Atlas",
         "properties": {
+            "name": "Atlas",
             "base_chance": 360000000,
             "biome_amplifier": [
                 "SAND STORM",
@@ -1374,6 +1511,7 @@
     {
         "identifier": "AbyssalHunter",
         "properties": {
+            "name": "Abyssal Hunter",
             "base_chance": 400000000,
             "biome_amplifier": [
                 "RAINY",
@@ -1384,6 +1522,7 @@
     {
         "identifier": "GARGANTUA",
         "properties": {
+            "name": "Gargantua",
             "base_chance": 430000000,
             "biome_amplifier": [
                 "STARFALL",
@@ -1394,6 +1533,7 @@
     {
         "identifier": "APOSTOLOS",
         "properties": {
+            "name": "Apostolos",
             "base_chance": 444000000,
             "biome_amplifier": [
                 "None",
@@ -1404,6 +1544,7 @@
     {
         "identifier": "Unknown",
         "properties": {
+            "name": "Unknown",
             "base_chance": 444444444,
             "biome_amplifier": [
                 "None",
@@ -1414,6 +1555,7 @@
     {
         "identifier": "Kyawthuite_Remembrance",
         "properties": {
+            "name": "Kyawthuite : Remembrance",
             "base_chance": 450000000,
             "biome_amplifier": [
                 "None",
@@ -1424,6 +1566,7 @@
     {
         "identifier": "Ruins",
         "properties": {
+            "name": "Ruins",
             "base_chance": 500000000,
             "biome_amplifier": [
                 "None",
@@ -1434,6 +1577,7 @@
     {
         "identifier": "Matrix_Overdrive",
         "properties": {
+            "name": "Matrix : Overdrive",
             "base_chance": 503000000,
             "biome_amplifier": [
                 "None",
@@ -1444,6 +1588,7 @@
     {
         "identifier": "Elude",
         "properties": {
+            "name": "Elude",
             "base_chance": 555555555,
             "biome_amplifier": [
                 "None",
@@ -1454,6 +1599,7 @@
     {
         "identifier": "Sophyra",
         "properties": {
+            "name": "Sophyra",
             "base_chance": 570000000,
             "biome_amplifier": [
                 "None",
@@ -1464,6 +1610,7 @@
     {
         "identifier": "Matrix_Reality",
         "properties": {
+            "name": "Matrix : Reality",
             "base_chance": 601020102,
             "biome_amplifier": [
                 "None",
@@ -1474,6 +1621,7 @@
     {
         "identifier": "PROLOGUE",
         "properties": {
+            "name": "Prologue",
             "base_chance": 666616111,
             "biome_amplifier": [
                 "None",
@@ -1484,6 +1632,7 @@
     {
         "identifier": "Sovereign",
         "properties": {
+            "name": "Sovereign",
             "base_chance": 750000000,
             "biome_amplifier": [
                 "None",
@@ -1494,6 +1643,7 @@
     {
         "identifier": "Ruins_Withered",
         "properties": {
+            "name": "Ruins : Withered",
             "base_chance": 800000000,
             "biome_amplifier": [
                 "None",
@@ -1504,6 +1654,7 @@
     {
         "identifier": "Aegis",
         "properties": {
+            "name": "Aegis",
             "base_chance": 825000000,
             "biome_amplifier": [
                 "None",
@@ -1514,6 +1665,7 @@
     {
         "identifier": "Aegis_Watergun",
         "properties": {
+            "name": "Aegis : Watergun",
             "base_chance": 825000000,
             "biome_amplifier": [
                 "BLAZING SUN",
@@ -1526,6 +1678,7 @@
     {
         "identifier": "dreamscape",
         "properties": {
+            "name": "Dreamscape",
             "base_chance": 850000000,
             "biome_amplifier": [
                 "None",
@@ -1536,6 +1689,7 @@
     {
         "identifier": "Pixelation",
         "properties": {
+            "name": "Pixelation",
             "base_chance": 1073741824,
             "biome_amplifier": [
                 "None",
@@ -1546,6 +1700,7 @@
     {
         "identifier": "Luminosity",
         "properties": {
+            "name": "Luminosity",
             "base_chance": 1200000000,
             "biome_amplifier": [
                 "None",
@@ -1556,6 +1711,7 @@
     {
         "identifier": "Equinox",
         "properties": {
+            "name": "Equinox",
             "base_chance": 2500000000,
             "biome_amplifier": [
                 "None",
@@ -1566,6 +1722,7 @@
     {
         "identifier": "pukeko",
         "properties": {
+            "name": "Pukeko",
             "base_chance": 3198,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1578,6 +1735,7 @@
     {
         "identifier": ":Flushed:_Troll",
         "properties": {
+            "name": ":Flushed: : Troll",
             "base_chance": 1000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1590,6 +1748,7 @@
     {
         "identifier": "Origin_Onion",
         "properties": {
+            "name": "Origin : Onion",
             "base_chance": 8000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1602,6 +1761,7 @@
     {
         "identifier": "Glock_shieldofthesky",
         "properties": {
+            "name": "Glock : shieldofthesky",
             "base_chance": 170000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1614,6 +1774,7 @@
     {
         "identifier": "Wonderland",
         "properties": {
+            "name": "Wonderland",
             "base_chance": 12000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1626,6 +1787,7 @@
     {
         "identifier": "Santa Frost",
         "properties": {
+            "name": "Santa Frost",
             "base_chance": 45000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1638,6 +1800,7 @@
     {
         "identifier": "WinterFantasy",
         "properties": {
+            "name": "WinterFantasy",
             "base_chance": 72000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1650,6 +1813,7 @@
     {
         "identifier": "Express",
         "properties": {
+            "name": "Express",
             "base_chance": 90000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1662,6 +1826,7 @@
     {
         "identifier": "ABOMITABLE",
         "properties": {
+            "name": "Abomitable",
             "base_chance": 120000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1674,6 +1839,7 @@
     {
         "identifier": "Atlas_Yuletide",
         "properties": {
+            "name": "Atlas : Yuletide",
             "base_chance": 510000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1686,6 +1852,7 @@
     {
         "identifier": "Divinus_Love",
         "properties": {
+            "name": "Divinus : Love",
             "base_chance": 0,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1699,6 +1866,7 @@
     {
         "identifier": ":Flushed:_Heart Eye",
         "properties": {
+            "name": ":Flushed: : Heart Eye",
             "base_chance": 0,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1712,6 +1880,7 @@
     {
         "identifier": "Celestial_Cupid",
         "properties": {
+            "name": "Celestial : Cupid",
             "base_chance": 0,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1725,6 +1894,7 @@
     {
         "identifier": "Blossom",
         "properties": {
+            "name": "Blossom",
             "base_chance": 0,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1738,6 +1908,7 @@
     {
         "identifier": "Undefined_Defined",
         "properties": {
+            "name": "Undefined : Defined",
             "base_chance": 2222000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1750,6 +1921,7 @@
     {
         "identifier": "Chromatic_Kromat1k",
         "properties": {
+            "name": "Chromatic : Kromat1k",
             "base_chance": 40000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1762,6 +1934,7 @@
     {
         "identifier": "Impeached_impeach",
         "properties": {
+            "name": "Impeached : impeach",
             "base_chance": 400000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1774,6 +1947,7 @@
     {
         "identifier": "Watermelon",
         "properties": {
+            "name": "Watermelon",
             "base_chance": 320000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1786,6 +1960,7 @@
     {
         "identifier": "StarRider_Starfish",
         "properties": {
+            "name": "StarRider : Starfish",
             "base_chance": 250000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1798,6 +1973,7 @@
     {
         "identifier": "shard surfer",
         "properties": {
+            "name": "Shard Surfer",
             "base_chance": 225000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1810,6 +1986,7 @@
     {
         "identifier": "Shard Surfer",
         "properties": {
+            "name": "Shard Surfer",
             "base_chance": 225000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1822,6 +1999,7 @@
     {
         "identifier": "shard_surfer",
         "properties": {
+            "name": "Shard Surfer",
             "base_chance": 225000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1834,6 +2012,7 @@
     {
         "identifier": "Shard_Surfer",
         "properties": {
+            "name": "Shard Surfer",
             "base_chance": 225000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1846,6 +2025,7 @@
     {
         "identifier": "shardsurfer",
         "properties": {
+            "name": "Shard Surfer",
             "base_chance": 225000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1858,6 +2038,7 @@
     {
         "identifier": "ShardSurfer",
         "properties": {
+            "name": "Shard Surfer",
             "base_chance": 225000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1870,6 +2051,7 @@
     {
         "identifier": "Surfer",
         "properties": {
+            "name": "Surfer",
             "base_chance": 0,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1883,6 +2065,7 @@
     {
         "identifier": "Innovator",
         "properties": {
+            "name": "Innovator",
             "base_chance": 30000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1895,6 +2078,7 @@
     {
         "identifier": "PUMP",
         "properties": {
+            "name": "Pump",
             "base_chance": 200000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1907,6 +2091,7 @@
     {
         "identifier": "Lunar_Nightfall",
         "properties": {
+            "name": "Lunar : Nightfall",
             "base_chance": 3000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1919,6 +2104,7 @@
     {
         "identifier": "Vital",
         "properties": {
+            "name": "Vital",
             "base_chance": 6000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1931,6 +2117,7 @@
     {
         "identifier": "Moonflower",
         "properties": {
+            "name": "Moonflower",
             "base_chance": 10000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1943,6 +2130,7 @@
     {
         "identifier": "Cryptfire",
         "properties": {
+            "name": "Cryptfire",
             "base_chance": 21000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1955,6 +2143,7 @@
     {
         "identifier": "SOUL HUNTER",
         "properties": {
+            "name": "Soul Hunter",
             "base_chance": 40000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1967,6 +2156,7 @@
     {
         "identifier": "DULLAHAN",
         "properties": {
+            "name": "Dullahan",
             "base_chance": 72000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1979,6 +2169,7 @@
     {
         "identifier": "NIGHTMARE SKY",
         "properties": {
+            "name": "Nightmare Sky",
             "base_chance": 190000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -1991,6 +2182,7 @@
     {
         "identifier": "HARVESTER",
         "properties": {
+            "name": "Harvester",
             "base_chance": 666000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2003,6 +2195,7 @@
     {
         "identifier": "APOSTOLOS_VEIL",
         "properties": {
+            "name": "Apostolos : Veil",
             "base_chance": 800000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2015,6 +2208,7 @@
     {
         "identifier": "Snowy Egg",
         "properties": {
+            "name": "Snowy Egg",
             "base_chance": 0,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2028,6 +2222,7 @@
     {
         "identifier": "Rainy Egg",
         "properties": {
+            "name": "Rainy Egg",
             "base_chance": 0,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2041,6 +2236,7 @@
     {
         "identifier": "Windy Egg",
         "properties": {
+            "name": "Windy Egg",
             "base_chance": 0,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2054,6 +2250,7 @@
     {
         "identifier": "Starfall Egg",
         "properties": {
+            "name": "Starfall Egg",
             "base_chance": 0,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2067,6 +2264,7 @@
     {
         "identifier": "Corruption Egg",
         "properties": {
+            "name": "Corruption Egg",
             "base_chance": 0,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2080,6 +2278,7 @@
     {
         "identifier": "Sandstorm Egg",
         "properties": {
+            "name": "Sandstorm Egg",
             "base_chance": 0,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2093,6 +2292,7 @@
     {
         "identifier": "Null Egg",
         "properties": {
+            "name": "Null Egg",
             "base_chance": 0,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2106,6 +2306,7 @@
     {
         "identifier": "Glitched Egg",
         "properties": {
+            "name": "Glitched Egg",
             "base_chance": 0,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2119,6 +2320,7 @@
     {
         "identifier": "Hellfire Egg",
         "properties": {
+            "name": "Hellfire Egg",
             "base_chance": 0,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2132,6 +2334,7 @@
     {
         "identifier": "Lightning",
         "properties": {
+            "name": "Lightning",
             "base_chance": 40000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2144,6 +2347,7 @@
     {
         "identifier": "Sol",
         "properties": {
+            "name": "Sol",
             "base_chance": 0,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2156,6 +2360,7 @@
     {
         "identifier": "Alchemist",
         "properties": {
+            "name": "Alchemist",
             "base_chance": 0,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2168,6 +2373,7 @@
     {
         "identifier": "Content_Creator",
         "properties": {
+            "name": "Content Creator",
             "base_chance": 0,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2180,6 +2386,7 @@
     {
         "identifier": "Content_Creator_Platinum",
         "properties": {
+            "name": "Content Creator : Platinum",
             "base_chance": 0,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2192,6 +2399,7 @@
     {
         "identifier": "Frigid",
         "properties": {
+            "name": "Frigid",
             "base_chance": 0,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2205,6 +2413,7 @@
     {
         "identifier": "Blossom_Frozen",
         "properties": {
+            "name": "Blossom : Frozen",
             "base_chance": 0,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2218,6 +2427,7 @@
     {
         "identifier": "SandBasket",
         "properties": {
+            "name": "SandBasket",
             "base_chance": 0,
             "biome_amplifier": [
                 "None",
@@ -2231,6 +2441,7 @@
     {
         "identifier": "Bubble",
         "properties": {
+            "name": "Bubble",
             "base_chance": 0,
             "biome_amplifier": [
                 "None",
@@ -2244,6 +2455,7 @@
     {
         "identifier": "Bioluminescent",
         "properties": {
+            "name": "Bioluminescent",
             "base_chance": 0,
             "biome_amplifier": [
                 "None",
@@ -2257,6 +2469,7 @@
     {
         "identifier": "Life Guard",
         "properties": {
+            "name": "Life Guard",
             "base_chance": 0,
             "biome_amplifier": [
                 "None",
@@ -2270,6 +2483,7 @@
     {
         "identifier": "Ink_Paintballgun",
         "properties": {
+            "name": "Ink : Paintballgun",
             "base_chance": 0,
             "biome_amplifier": [
                 "None",
@@ -2283,6 +2497,7 @@
     {
         "identifier": "Parasol",
         "properties": {
+            "name": "Parasol",
             "base_chance": 0,
             "biome_amplifier": [
                 "None",
@@ -2296,6 +2511,7 @@
     {
         "identifier": "Scorpion",
         "properties": {
+            "name": "Scorpion",
             "base_chance": 0,
             "biome_amplifier": [
                 "None",
@@ -2307,6 +2523,7 @@
     {
         "identifier": "Eclipse",
         "properties": {
+            "name": "Eclipse",
             "base_chance": 0,
             "biome_amplifier": [
                 "None",
@@ -2318,6 +2535,7 @@
     {
         "identifier": "Matrix_Steampunk",
         "properties": {
+            "name": "Matrix : Steampunk",
             "base_chance": 0,
             "biome_amplifier": [
                 "None",
@@ -2329,6 +2547,7 @@
     {
         "identifier": "Atlas_A.T.L.A.S.",
         "properties": {
+            "name": "A.T.L.A.S.",
             "base_chance": 0,
             "biome_amplifier": [
                 "None",
@@ -2340,6 +2559,7 @@
     {
         "identifier": "Chromatic_Hyper",
         "properties": {
+            "name": "Chromatic : Hyper",
             "base_chance": 0,
             "biome_amplifier": [
                 "None",
@@ -2351,6 +2571,7 @@
     {
         "identifier": "Megaphone",
         "properties": {
+            "name": "Megaphone",
             "base_chance": 0,
             "biome_amplifier": [
                 "None",
@@ -2363,6 +2584,7 @@
         {
         "identifier": "Prowler",
         "properties": {
+            "name": "Prowler",
             "base_chance": 540000,
             "biome_amplifier": [
                 "UNKNOWN",
@@ -2375,6 +2597,7 @@
     {
         "identifier": "Fault",
         "properties": {
+            "name": "Fault",
             "base_chance": 3000,
             "biome_amplifier": [
                 "GLITCHED",
@@ -2386,6 +2609,7 @@
     {
         "identifier": "Glitch",
         "properties": {
+            "name": "Glitch",
             "base_chance": 12210110,
             "biome_amplifier": [
                 "GLITCHED",
@@ -2397,6 +2621,7 @@
     {
         "identifier": "Oppression",
         "properties": {
+            "name": "Oppression",
             "base_chance": 220000000,
             "biome_amplifier": [
                 "GLITCHED",
@@ -2408,6 +2633,7 @@
     {
         "identifier": "★",
         "properties": {
+            "name": "★",
             "base_chance": 100,
             "biome_amplifier": [
                 "DREAMSPACE",
@@ -2419,6 +2645,7 @@
     {
         "identifier": "★★",
         "properties": {
+            "name": "★★",
             "base_chance": 1000,
             "biome_amplifier": [
                 "DREAMSPACE",
@@ -2430,6 +2657,7 @@
     {
         "identifier": "★★★",
         "properties": {
+            "name": "★★★",
             "base_chance": 10000,
             "biome_amplifier": [
                 "DREAMSPACE",
@@ -2441,6 +2669,7 @@
     {
         "identifier": "Dreammetric",
         "properties": {
+            "name": "Dreammetric",
             "base_chance": 520000000,
             "biome_amplifier": [
                 "DREAMSPACE",
@@ -2452,6 +2681,7 @@
     {
         "identifier": "Eden",
         "properties": {
+            "name": "Eden",
             "base_chance": 0,
             "biome_amplifier": [
                 "None",
@@ -2464,6 +2694,7 @@
     {
         "identifier": "Memory",
         "properties": {
+            "name": "Memory",
             "base_chance": 100,
             "biome_amplifier": [
                 "None",
@@ -2476,6 +2707,7 @@
     {
         "identifier": "Oblivion",
         "properties": {
+            "name": "Oblivion",
             "base_chance": 2000,
             "biome_amplifier": [
                 "None",
@@ -2488,6 +2720,7 @@
     {
         "identifier": "Neferkhaf",
         "properties": {
+            "name": "Neferkhaf",
             "base_chance": 1000,
             "biome_amplifier": [
                 "None",
