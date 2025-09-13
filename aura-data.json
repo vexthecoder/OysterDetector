@@ -1386,6 +1386,17 @@
         }
     },
     {
+        "identifier": "Hyper-Volt_Ever-Storm",
+        "properties": {
+            "name": "Hyper-Volt : Ever-Storm",
+            "base_chance": 225000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Archangel",
         "properties": {
             "name": "Archangel",
