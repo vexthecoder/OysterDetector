@@ -1331,6 +1331,28 @@
         }
     },
     {
+        "identifier": "Virtual_Worldwide",
+        "properties": {
+            "name": "Virtual : WorldWide",
+            "base_chance": 87500000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Virtual_WorldWide",
+        "properties": {
+            "name": "Virtual : WorldWide",
+            "base_chance": 87500000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Chromatic_Genesis",
         "properties": {
             "name": "Chromatic : Genesis",
