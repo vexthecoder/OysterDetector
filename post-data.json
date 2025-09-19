@@ -11,9 +11,9 @@
     }
   },
   {
-    "id": "003",
-    "date": "Sep 19, 2025",
-    "title": "New Post",
+    "id": "002",
+    "date": "Sep 08, 2025",
+    "title": "test for new posts alert system",
     "content": "a",
     "author": {
       "name": "vex",
@@ -22,9 +22,9 @@
     }
   },
   {
-    "id": "002",
-    "date": "Sep 08, 2025",
-    "title": "test for new posts alert system",
+    "id": "003",
+    "date": "Sep 19, 2025",
+    "title": "New Post",
     "content": "a",
     "author": {
       "name": "vex",
