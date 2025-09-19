@@ -9,27 +9,5 @@
       "avatarUrl": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/vex.png",
       "redirectUrl": "https://github.com/vexthecoder"
     }
-  },
-  {
-    "id": "002",
-    "date": "Sep 08, 2025",
-    "title": "test for new posts alert system",
-    "content": "a",
-    "author": {
-      "name": "vex",
-      "avatarUrl": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/vex.png",
-      "redirectUrl": "https://github.com/vexthecoder"
-    }
-  },
-  {
-    "id": "003",
-    "date": "Sep 19, 2025",
-    "title": "New Post",
-    "content": "a",
-    "author": {
-      "name": "vex",
-      "avatarUrl": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/vex.png",
-      "redirectUrl": "https://github.com/vexthecoder"
-    }
   }
 ]
