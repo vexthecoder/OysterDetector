@@ -1397,6 +1397,17 @@
         }
     },
     {
+        "identifier": "Twilight_Withering Grace",
+        "properties": {
+            "name": "Twilight : Withering Grace",
+            "base_chance": 180000000,
+            "biome_amplifier": [
+                "NIGHT",
+                10
+            ]
+        }
+    },
+    {
         "identifier": "Impeached",
         "properties": {
             "name": "Impeached",
