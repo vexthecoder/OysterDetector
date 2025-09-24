@@ -726,17 +726,6 @@
         }
     },
     {
-        "identifier": "Twilight",
-        "properties": {
-            "name": "Twilight",
-            "base_chance": 600000,
-            "biome_amplifier": [
-                "None",
-                1
-            ]
-        }
-    },
-    {
         "identifier": "Kyawthuite",
         "properties": {
             "name": "Kyawthuite",
@@ -953,6 +942,17 @@
             "biome_amplifier": [
                 "None",
                 1
+            ]
+        }
+    },
+    {
+        "identifier": "Twilight",
+        "properties": {
+            "name": "Twilight",
+            "base_chance": 6000000,
+            "biome_amplifier": [
+                "NIGHT",
+                10
             ]
         }
     },
