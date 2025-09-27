@@ -385,6 +385,17 @@
         }
     },
     {
+        "identifier": "Atomic_Riboneucleic",
+        "properties": {
+            "name": "Atomic : Riboneucleic",
+            "base_chance": 9876,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Undead",
         "properties": {
             "name": "Undead",
@@ -1549,6 +1560,28 @@
             "biome_amplifier": [
                 "SAND STORM",
                 4
+            ]
+        }
+    },
+    {
+        "identifier": "Chillsear",
+        "properties": {
+            "name": "Chillsear",
+            "base_chance": 375000000,
+            "biome_amplifier": [
+                "SNOWY",
+                3
+            ]
+        }
+    },
+    {
+        "identifier": "CHILLSEAR",
+        "properties": {
+            "name": "Chillsear",
+            "base_chance": 375000000,
+            "biome_amplifier": [
+                "SNOWY",
+                3
             ]
         }
     },
