@@ -308,6 +308,17 @@
         }
     },
     {
+        "identifier": "Cola",
+        "properties": {
+            "name": "Cola",
+            "base_chance": 3999,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Sidereum",
         "properties": {
             "name": "Sidereum",
@@ -862,6 +873,17 @@
         "properties": {
             "name": "Savior",
             "base_chance": 3200000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Shiftlock",
+        "properties": {
+            "name": "Shiftlock",
+            "base_chance": 3325000,
             "biome_amplifier": [
                 "None",
                 1
