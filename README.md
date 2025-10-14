@@ -87,11 +87,11 @@
 
 ### **4. Additional Settings**
 - **UTC Offset**: Adjust if timestamps are incorrect
-- **Run in Background**: Keep running when window is closed
-- **Start on Launch**: Auto-start detection when opening Oyster Detector
+- **Minimize to Tray if Closed While Running**: Keep running in the taskbar when window is closed
+- **Start on Launch**: Auto-start detection when opening Oyster Detector (pairs with above setting)
 - **Verbose Logging**: Enable for detailed debugging
-- **Anti-AFK**: Prevents auto-kick by interacting with Roblox after 15 minutes of idle time with options: jump, click, or chat
-- **Toast Notifications**: Small popup alerts for in-game events (can be turned on/off in settings)
+- **Anti-AFK**: Prevents auto-kick by interacting with Roblox every 5 minutes of idle time with options: jump, click, or chat (chat sends `.` in the Roblox chat)
+- **Toast Notifications**: Small notifications for in-game events (can be turned on/off in settings)
 
 ## **Usage Instructions**
 1. Ensure Roblox is running and you're in Sol's RNG
