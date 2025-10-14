@@ -109,11 +109,13 @@
 
 - **Webhook issues**:
   - Verify URLs start with `https://discord.com/api/webhooks/`
-  - Test webhook URLs directly using a tool like DiscoHook
+  - Test webhook URLs directly using a tool like DiscoHook (Or the built-in 'Test' button)
 
 - **High CPU Usage**:
   - Close unnecessary applications
   - Restart Oyster Detector
+
+  <small>This usually happens after a long period of runtime (50+ hours~)</small>
 
 ### **How to Report Bugs**
 Please include:
@@ -121,7 +123,7 @@ Please include:
 Description of the bug
 Steps to reproduce
 When the bug occurred
-Attach relevant log files (Settings → Open Logs Directory)
+Attach relevant log files (Setting Tab → Open Logs Directory)
 ```
 Example:
 ```
@@ -144,9 +146,8 @@ A: Enable Developer Mode in Discord settings, then right-click your profile → 
 **Q: Can I use multiple instances?**  
 A: Not currently supported - may cause rate limiting and spam
 
-## **Future Features**
-- Multi-Instance Support
-- Auto Potion/Item Use
+## **Planned Additions**
+- TBA.
 
 ## **Credits & Acknowledgements**
 ### Development
@@ -162,11 +163,11 @@ A: Not currently supported - may cause rate limiting and spam
   [GitHub](https://github.com/noteab/Noteab-Macro)
 
 ### Communities
-- **Universal Macros**  
+- **Universal Macros**<br>
   [Discord](https://discord.gg/B3y2PS65y9)
-- **Scope Development**  
+- **Scope Development**<br>
   [Discord](https://discord.gg/y8k49dH9z8)
-- **Sol's Sniper**
+- **Sol's Sniper**<br>
   [Discord](https://discord.gg/RPcPUp47YD)
 
 ## **Legal Information**
