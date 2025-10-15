@@ -95,9 +95,10 @@
       "primary_hex": "0xFFFA5C",
       "preview_image": "https://static.wikia.nocookie.net/sol-rng/images/b/b2/Blazing_Sun_biome.png/revision/latest"
     },
-    "unobtainable": false,
+    "unobtainable": true,
     "always_send": false,
-    "ping_everyone": false
+    "ping_everyone": false,
+    "current_event": false
   },
   {
     "name": "GLITCHED",
