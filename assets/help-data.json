@@ -1,0 +1,228 @@
+{
+    "Detector": {
+        "Initial Setup": [
+            ["title", "Initial Configuration Guide"],
+            ["subtitle", "1. Roblox Account & Sol's RNG"],
+            ["list", ["Ensure you are logged into your Roblox account", "Oyster Detector is designed for the Roblox game 'Sol's RNG'", "Make sure you are in the game for detection to work"]],
+            ["subtitle", "2. Webhook Setup"],
+            ["step", ["Navigate to the 'Webhooks' tab in Oyster Detector", "In Discord: Open Server Settings (click the server name dropdown)", "In Server Settings, go to 'Integrations' then 'Webhooks'", "Click 'New Webhook'. Give it a name and choose a channel", "Click 'Copy Webhook URL'", "Back in Oyster Detector: Click 'Add Webhook' button", "Enter a descriptive name for this webhook", "Paste the copied Discord webhook URL", "Click 'Save'. You can add multiple webhooks", "Toggle enabled/disabled status as needed"]],
+            ["note", "If no webhooks are configured, the detector will still function locally but no Discord notifications will be sent"],
+            ["subtitle", "3. Detector Tab Configuration"],
+            ["step", ["Return to the 'Detector' tab", "Private Server Link: Paste your Sol's RNG private server link if available", "This link will be included in biome and merchant notifications"]],
+            ["subtitle", "4. Biome Alerts Customization"],
+            ["step", ["In the 'Biome Detection' section, check boxes for desired biomes", "GLITCHED and DREAMSPACE biomes will always send notifications", "These special biomes will include an '@everyone' ping"]],
+            ["subtitle", "5. Aura Ping Settings"],
+            ["step", ["Enable Pings: Check the 'Enable Pings' box", "Provide your Discord User ID (required for pings)"]],
+            ["code", "How to get your Discord User ID:\n1. Enable Developer Mode in Discord\n2. Right-click your profile\n3. Select 'Copy User ID'"],
+            ["warning", "User ID field MUST contain your numerical Discord ID only (e.g., 123456789012345678)"],
+            ["step", ["Min Rarity: Set minimum rarity for aura pings (e.g., 100000 for 1 in 100k+)", "Aura Filter: Click to configure individual aura notification preferences", "Day/Night: Configure different rarity thresholds for day/night auras"]],
+            ["subtitle", "6. Automatic Reconnection"],
+            ["step", ["Enable 'Auto reconnect' checkbox", "Set minutes to wait before reconnecting if still disconnected", "Requires valid private server link"]],
+            ["note", "Will only trigger Auto Reconnect if the timer has elapsed and you are still disconnected"],
+            ["note", "Auto Reconnect will attempt to click the Start button on the main menu automatically"],
+            ["subtitle", "7. NPC Detection"],
+            ["step", ["Eden Detection: Check box for Eden spawn alerts (experimental)", "Merchant Detection: Configure separate toggles for Mari and Jester alerts", "First-time merchant detection requires FastFlag setup"]],
+            ["warning", "After enabling merchant detection, you MUST restart Roblox completely"],
+            ["note", "Player join/leave events will be logged automatically if FastFlags are enabled"],
+            ["subtitle", "8. Starting the Detector"],
+            ["step", ["Ensure Sol's RNG is running (this does not apply if you have 'Join Private Server on Start' enabled)", "Click 'Start Detector' button", "Status will change from 'INACTIVE' (red) to 'ACTIVE' (green)"]],
+            ["note", "If 'Start on launch' is enabled in Settings, detector starts automatically"],
+            ["divider", ""]
+        ],
+        "Usage": [
+            ["title", "Using the Detector"],
+            ["subtitle", "Starting Detection"],
+            ["step", ["Ensure Roblox is running with Sol's RNG loaded", "Click 'Start Detector' or use hotkey (default F1, customizable in the Settings tab)", "Monitor status indicator color (green = active)"]],
+            ["subtitle", "Private Server Link Usage"],
+            ["step", ["If provided, private server link is included in most notifications", "Click 'Join PS Link' to launch Roblox directly to your private server", "Access quick join from taskbar icon menu when available"]],
+            ["subtitle", "Monitoring Activity"],
+            ["bullet1", "Biome changes appear in 'Logs' tab immediately"],
+            ["bullet1", "Webhook notifications sent for selected biomes"],
+            ["bullet1", "Aura equips detected from rich presence (including day/night variants)"],
+            ["bullet1", "Merchants detected if enabled (separate Mari/Jester detection)"],
+            ["bullet1", "Player join/leave events logged if FastFlags enabled"],
+            ["subtitle", "Automatic Reconnection"],
+            ["bullet1", "Rejoins private server after specified timeout while disconnected"],
+            ["bullet1", "No additional setup required beyond configuration"],
+            ["bullet1", "Now waits for Roblox to fully close before reconnecting"],
+            ["subtitle", "Anti-AFK System"],
+            ["step", ["Prevents inactivity kicks with periodic actions", "Choose mode: Jump (spacebar), Click (mouse), or Chat ('.')", "Only activates when Roblox is focused after 15 minutes"]],
+            ["subtitle", "Keybinds"],
+            ["bullet1", "Default F1 to start/stop detector"],
+            ["bullet1", "Customize in Settings > Keybinds"],
+            ["note", "Assigning keybinds no longer triggers detector toggling"],
+            ["subtitle", "Toast Notifications"],
+            ["bullet1", "Enable desktop notifications for events"],
+            ["bullet1", "Toggle in Settings under 'Toast Notification on Event'"],
+            ["divider", ""]
+        ],
+        "Troubleshooting": [
+            ["title", "Troubleshooting Detector Issues"],
+            ["subtitle", "Common Problems & Solutions"],
+            ["default", "Detector Not Starting or 'INACTIVE':"],
+            ["list", ["Ensure Roblox is open and in Sol's RNG", "Check for conflicting applications", "Review 'Logs' tab for error messages", "Verify FastFlags are properly set if using merchant/player detection"]],
+            ["default", "No Detections (Biomes, Auras, Merchants):"],
+            ["list", ["Verify Detector status is 'ACTIVE'", "Check internet connection for webhooks", "For merchants: confirm FastFlags were applied", "Restart Roblox if merchant detection fails", "Check day/night settings for aura detection"]],
+            ["default", "Incorrect or Missing Webhook Notifications:"],
+            ["list", ["Verify webhook URLs in 'Webhooks' tab", "Check if webhooks are enabled/disabled", "Test webhook URL directly with another tool", "Check Biome Alert checkboxes and Aura Filter"]],
+            ["default", "High CPU/Memory Usage:"],
+            ["list", ["Close unnecessary background applications", "Restart Oyster Detector", "Ensure latest version is installed"]],
+            ["default", "Application Crashes or Freezes:"],
+            ["list", ["Check Oyster Detector log files", "Report issue with logs and reproduction steps"]],
+            ["default", "Auto-Reconnect Not Working:"],
+            ["list", ["Verify private server link is valid", "Ensure auto-reconnect is enabled", "Check timeout duration setting", "Now waits for full Roblox closure before reconnecting"]],
+            ["default", "Anti-AFK Not Triggering:"],
+            ["list", ["Ensure Roblox window is focused", "Verify selected mode works in-game"]],
+            ["default", "Unknown Aura Detected:"],
+            ["list", ["New aura not recognized/unknown", "DM @vex.rng with a screenshot of the webhook message and the rarity of the aura"]],
+            ["default", "Eden Detection Issues:"],
+            ["list", ["Experimental feature - may not always trigger", "Only supports user pings due to client-side spawning", "Check logs for potential detection attempts"]],
+            ["divider", ""]
+        ]
+    },
+    "Webhooks": {
+        "Configuration": [
+            ["title", "Webhook Management"],
+            ["subtitle", "Adding Webhooks"],
+            ["step", ["Click 'Add Webhook' button", "Enter descriptive name for your reference", "Paste full Discord webhook URL", "Click 'Save'. Multiple webhooks can be added", "Toggle enabled/disabled status as needed"]],
+            ["code", "Webhook URL format:\nhttps://discord.com/api/webhooks/1234567890/abcdefghijklmnopqrstuvwxyz"],
+            ["subtitle", "Editing Webhooks"],
+            ["step", ["Select webhook from list", "Click 'Edit Selected' button", "Modify name or URL as needed", "Toggle enabled/disabled status", "Click 'Save' to update"]],
+            ["subtitle", "Deleting Webhooks"],
+            ["step", ["Select webhook to remove", "Click 'Delete Selected' button", "Confirm deletion in dialog"]],
+            ["subtitle", "Testing Webhooks"],
+            ["step", ["Select desired webhook", "Click 'Test Selected' button", "Check Discord channel for test message"]],
+            ["note", "Invalid webhooks will now show status indicators"],
+            ["divider", ""]
+        ],
+        "Troubleshooting": [
+            ["title", "Webhook Issues"],
+            ["subtitle", "Common Problems & Solutions"],
+            ["default", "Webhook Not Sending Messages:"],
+            ["list", ["Verify URL is exact copy from Discord", "Check if webhook is enabled", "Check Discord status for outages", "Ensure internet connection is stable"]],
+            ["default", "Webhook Rate Limited:"],
+            ["list", ["Too many messages sent quickly", "Application will auto-retry after delay", "Reduce notification frequency if persistent"]],
+            ["default", "Invalid Webhook URL Format:"],
+            ["list", ["URL must start with 'https://discord.com/api/webhooks/'", "No extra spaces or characters allowed"]],
+            ["divider", ""]
+        ]
+    },
+    "Logs": {
+        "Viewing Logs": [
+            ["title", "Log Viewer Explained"],
+            ["step", ["The 'Logs' tab displays real-time messages", "Timestamp shows when entry was created", "Level indicates severity/type of message"]],
+            ["subtitle", "Log Levels"],
+            ["bullet1", "INFO: General operational information"],
+            ["bullet1", "WARNING: Potential issues or non-critical errors"],
+            ["bullet1", "ERROR: Critical failures affecting functionality"],
+            ["bullet1", "DEBUG: Detailed info (visible with 'Verbose logging')"],
+            ["note", "These in-app logs are a subset of detailed log files"],
+            ["divider", ""]
+        ],
+        "Log Files": [
+            ["title", "Accessing Detailed Log Files"],
+            ["step", ["Go to 'Settings' tab", "Click 'Open Logs Directory' button", "Log files are timestamped by session"]],
+            ["code", "Example log filename:\nMM-DD-YYYY hh-mm-ss oyster_detector.log"],
+            ["note", "Log files are invaluable for debugging issues"],
+            ["warning", "Keep recent logs if experiencing problems"],
+            ["divider", ""]
+        ],
+        "Understanding Log Messages": [
+            ["title", "Interpreting Common Log Entries"],
+            ["subtitle", "Example Log Messages:"],
+            ["default", "Biome Detection:"],
+            ["code", "Biome detected: [BIOME_NAME]"],
+            ["default", "Aura Detection:"],
+            ["code", "Aura equipped: [AURA_NAME] (1 in [RARITY]) [DAY/NIGHT]"],
+            ["default", "Merchant Detection:"],
+            ["code", "Merchant detected: [MERCHANT_NAME]"],
+            ["default", "Player Activity:"],
+            ["code", "Player joined: [USERNAME]\nPlayer left: [USERNAME]"],
+            ["default", "Webhook Status:"],
+            ["code", "Successfully sent to webhook [WEBHOOK_NAME]\nWebhook [WEBHOOK_NAME] failed: [ERROR_DETAILS]"],
+            ["default", "Configuration:"],
+            ["code", "Loading config values...\nConfig saved successfully."],
+            ["default", "Roblox Process:"],
+            ["code", "Starting Roblox process monitor\nDetected Roblox closure"],
+            ["divider", ""]
+        ]
+    },
+    "Stats": {
+        "Statistics Overview": [
+            ["title", "Statistics Tab Guide"],
+            ["step", ["The 'Stats' tab provides detection summaries", "Biome Counts: Detections per biome", "NPC Counts: Merchant/Eden appearances", "Player Activity: Join/leave events (if FastFlags enabled)", "Total Biomes Detected: All biome changes", "Total Sessions: Application runs", "Total Disconnections: Roblox drops"]],
+            ["note", "Additional statistics may be added in future updates"],
+            ["note", "Stats will update/increase regardless if you have that biome/npc detection disabled"],
+            ["divider", ""]
+        ]
+    },
+    "Settings": {
+        "Application": [
+            ["title", "Application Settings Customization"],
+            ["subtitle", "General Configuration"],
+            ["step", ["UTC Offset: Set your local timezone difference", "Auto-check updates: Version monitoring on startup", "Verbose logging: Detailed debug information", "Run in background: Minimize to system tray", "Join Private Server on Start: Auto-join configured private server link", "Start on launch: Begin detection automatically", "Webhook Watermark: Choose display style", "Check for missing assets: Verify required files are present"]],
+            ["subtitle", "Data Management"],
+            ["step", ["Open Logs Directory: Access detailed session logs", "Open Settings Directory: View configuration files", "Import Settings: Load saved configuration", "Export Settings: Backup current settings"]],
+            ["subtitle", "Startup Webhook Customization"],
+            ["step", ["Choose what information is included in startup message", "Options include Ping settings, Private Server link, etc."]],
+            ["subtitle", "FastFlag Management"],
+            ["step", ["Automatic FFlag checking on launch if required features enabled", "Manual check available in Settings tab"]],
+            ["divider", ""]
+        ],
+        "Advanced": [
+            ["title", "Advanced Features & Developer Tools"],
+            ["subtitle", "Developer Mode"],
+            ["step", ["Press Ctrl+Alt+D to toggle Developer Mode", "'Dev Tools' tab appears when enabled", "Contains testing and debugging features"]],
+            ["warning", "Developer Mode features are for testing and may be unstable"],
+            ["note", "Dev Tools now only available in beta versions"],
+            ["divider", ""]
+        ],
+        "Troubleshooting Settings": [
+            ["title", "Troubleshooting Settings Issues"],
+            ["default", "Settings Not Saving:"],
+            ["list", ["Ensure write permissions to settings directory", "Check antivirus software interference"]],
+            ["default", "Application Not Starting on Launch:"],
+            ["list", ["Different from Windows startup", "For Windows startup, add to system startup programs"]],
+            ["default", "Incorrect Timestamps:"],
+            ["list", ["Verify 'UTC Offset' setting", "Account for Daylight Saving Time if applicable"]],
+            ["default", "Import/Export Settings Failing:"],
+            ["list", ["Ensure file is valid '.cfg' format", "Check for file corruption", "Verify version compatibility"]],
+            ["default", "Missing Assets:"],
+            ["list", ["Use 'Check for Missing Assets' button in Settings", "Reinstall application if issues persist"]],
+            ["divider", ""]
+        ]
+    },
+    "Credits": {
+        "Acknowledgements": [
+            ["title", "Acknowledgements & Gratitude"],
+            ["bullet1", "Made by vexthecoder - Creator and developer"],
+            ["subtitle", "Special Thanks To:"],
+            ["bullet1", "The Sol's RNG community for feedback"],
+            ["bullet1", "Testers and bug reporters"],
+            ["bullet1", "Inspired by Noteab Macro and Maxstellar's Biome Macro"],
+            ["bullet1", "Scope Development and Universal Macros communities"],
+            ["bullet1", "@RequiredStorage for testing and support"],
+            ["link", ["GitHub Repository", "https://github.com/vexthecoder/OysterDetector"]],
+            ["divider", ""]
+        ],
+        "Closed Source": [
+            ["title", "Closed Source Notice"],
+            ["bullet1", "Currently closed source"],
+            ["bullet1", "Source code will be available when development ends/when I feel like it"],
+            ["divider", ""]
+        ],
+        "Legal": [
+            ["title", "Legal Information & Disclaimer"],
+            ["warning", "Oyster Detector is provided 'as is' without warranty"],
+            ["subtitle", "Key Points:"],
+            ["bullet1", "For personal, legitimate use with Sol's RNG only"],
+            ["bullet1", "No decompiling permitted"],
+            ["bullet1", "Not responsible for Roblox account actions"],
+            ["bullet1", "Not affiliated with Roblox Corporation"],
+            ["bullet1", "By using, you agree to these terms"],
+            ["subtitle", "Expanded Legal Details"],
+            ["step", ["Copyright: © vexthecoder - Unauthorized redistribution prohibited", "Reverse Engineering: Decompiling not permitted", "Third-Party Services: Not responsible for their changes", "User Data: All data stored locally only", "Updates: No guarantee of continued support", "Liability: Not liable for damages or losses", "Acceptance: Using software constitutes agreement"]],
+            ["divider", ""]
+        ]
+    }
+}

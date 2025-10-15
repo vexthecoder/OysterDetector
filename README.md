@@ -6,6 +6,10 @@
 > Beginning November 1st, 2025, any version under 1.1.6 will not be supported.
 > Please update to the latest version of the macro to continue receiving support in the coming future.
 
+> [!IMPORTANT]
+> Oyster Detector does not require any external apps or programs to run.
+> You only need the .exe file from the [latest release](https://github.com/vexthecoder/OysterDetector/releases/latest).
+
 <br>
 
 <!--TRAFFIC-STATS-START-->
