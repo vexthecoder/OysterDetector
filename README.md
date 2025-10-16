@@ -185,4 +185,4 @@ Oyster Detector is not affiliated with Roblox Corporation or Sol's RNG. Use at y
 - Reverse engineering is prohibited
 - No user data is collected or transmitted
 
-For full terms, see the Credits tab in the application.
+For full terms, click `Need Help? Click Me!` while on the Credits tab and scroll to the bottom.
