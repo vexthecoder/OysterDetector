@@ -11,8 +11,9 @@
 > You only need the .exe file from the [latest release](https://github.com/vexthecoder/OysterDetector/releases/latest).
 
 > [!NOTE]
-> Please use the Bootstrapper for the best experience. It will ensure you always have the latest version and asset dependencies.
-> You can download it from the [latest release](https://github.com/vexthecoder/OysterDetector/releases/latest) or [here](https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/bootstrapper.exe).
+> It is recommended that you always update to the latest version of Oyster Detector.
+> New versions include important bug fixes, optimizations, and new features.
+> You can always download it from the [latest release](https://github.com/vexthecoder/OysterDetector/releases/latest).
 
 <br>
 
