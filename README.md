@@ -3,16 +3,16 @@
 <br>
 
 > [!WARNING]  
-> Beginning November 1st, 2025, any version under 1.1.6 will not be supported.
+> Beginning November 1st, 2025, any version under 1.1.6 will not be supported.<br>
 > Please update to the latest version of the macro to continue receiving support in the coming future.
 
 > [!IMPORTANT]
-> Oyster Detector does not require any external apps or programs to run.
+> Oyster Detector does not require any external apps or programs to run.<br>
 > You only need the .exe file from the [latest release](https://github.com/vexthecoder/OysterDetector/releases/latest).
 
 > [!NOTE]
-> It is recommended that you always update to the latest version of Oyster Detector.
-> New versions include important bug fixes, optimizations, and new features.
+> It is recommended that you always update to the latest version of Oyster Detector.<br>
+> New versions include important bug fixes, optimizations, and new features.<br>
 > You can always download it from the [latest release](https://github.com/vexthecoder/OysterDetector/releases/latest).
 
 <br>
