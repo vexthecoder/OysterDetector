@@ -43,7 +43,7 @@
     "name": "SAND STORM",
     "visuals": {
       "primary_hex": "0xFFCB81",
-      "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/sand storm.png"
+      "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/sand%20storm.png"
     },
     "unobtainable": false,
     "always_send": false,
@@ -93,7 +93,7 @@
     "name": "BLAZING SUN",
     "visuals": {
       "primary_hex": "0xFFFA5C",
-      "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/blazing sun.png"
+      "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/blazing%20sun.png"
     },
     "unobtainable": true,
     "always_send": false,
@@ -115,7 +115,7 @@
     "name": "PUMPKIN MOON",
     "visuals": {
       "primary_hex": "0xad4815",
-      "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/pumpkin moon.png"
+      "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/pumpkin%20moon.png"
     },
     "unobtainable": true,
     "always_send": false,
