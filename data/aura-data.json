@@ -2575,7 +2575,7 @@
                 1
             ],
             "event_override": "Summer 2025",
-            "rarity_override": "Season Pass Reward (Tier 50)",
+            "rarity_override": "Season 1 Pass Reward (Tier 50)",
             "unobtainable": true
         }
     },
@@ -2589,7 +2589,7 @@
                 1
             ],
             "event_override": "Summer 2025",
-            "rarity_override": "Season Pass Reward (Tier 100)",
+            "rarity_override": "Season 1 Pass Reward (Tier 100)",
             "unobtainable": true
         }
     },
@@ -2616,7 +2616,7 @@
                 "None",
                 1
             ],
-            "rarity_override": "Season Pass Reward (Tier 100)"
+            "rarity_override": "Season 2 Pass Reward (Tier 100)"
         }
     },
     {
