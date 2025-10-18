@@ -123,6 +123,17 @@
     "current_event": true
   },
   {
+    "name": "BLOOD RAIN",
+    "visuals": {
+      "primary_hex": "0x590f0f",
+      "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/blood%20rain.png"
+    },
+    "unobtainable": false,
+    "always_send": false,
+    "ping_everyone": false,
+    "current_event": true
+  },
+  {
     "name": "GLITCHED",
     "visuals": {
       "primary_hex": "0xBFFF00",
