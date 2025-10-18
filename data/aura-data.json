@@ -2616,7 +2616,153 @@
                 "None",
                 1
             ],
-            "rarity_override": "Season 2 Pass Reward (Tier 100)"
+            "rarity_override": "Season 2 Pass Reward (Tier 100)",
+            "unobtainable": true
+        }
+    },
+    {
+        "identifier": "Sinister",
+        "properties": {
+            "name": "Sinister",
+            "base_chance": 15000000,
+            "biome_amplifier": [
+                "PUMPKIN MOON",
+                1
+            ],
+            "event_override": "Halloween 2025"
+        }
+    },
+    {
+        "identifier": "Oni",
+        "properties": {
+            "name": "Oni",
+            "base_chance": 6666666,
+            "biome_amplifier": [
+                "BLOOD RAIN",
+                1
+            ],
+            "event_override": "Halloween 2025"
+        }
+    },
+    {
+        "identifier": "MALEDICTION",
+        "properties": {
+            "name": "Malediction",
+            "base_chance": 730000000,
+            "biome_amplifier": [
+                "BLOOD RAIN",
+                1
+            ],
+            "event_override": "Halloween 2025"
+        }
+    },
+    {
+        "identifier": "Phantasma",
+        "properties": {
+            "name": "Phantasma",
+            "base_chance": 462000000,
+            "biome_amplifier": [
+                "PUMPKIN MOON",
+                1
+            ],
+            "event_override": "Halloween 2025"
+        }
+    },
+    {
+        "identifier": "Lamenthyr",
+        "properties": {
+            "name": "Lamenthyr",
+            "base_chance": 1000000000,
+            "biome_amplifier": [
+                "BLOOD RAIN",
+                1
+            ],
+            "event_override": "Halloween 2025"
+        }
+    },
+    {
+        "identifier": "Arachnophobia",
+        "properties": {
+            "name": "Arachnophobia",
+            "base_chance": 940000000,
+            "biome_amplifier": [
+                "PUMPKIN MOON",
+                1
+            ],
+            "event_override": "Halloween 2025"
+        }
+    },
+    {
+        "identifier": "Erebus",
+        "properties": {
+            "name": "Erebus",
+            "base_chance": 1200000000,
+            "biome_amplifier": [
+                "BLOOD RAIN",
+                1
+            ],
+            "event_override": "Halloween 2025"
+        }
+    },
+    {
+        "identifier": "Banshee",
+        "properties": {
+            "name": "Banshee",
+            "base_chance": 730000000,
+            "biome_amplifier": [
+                "GRAVEYARD",
+                1
+            ],
+            "event_override": "Halloween 2025"
+        }
+    },
+    {
+        "identifier": "Headless_Horseman",
+        "properties": {
+            "name": "Headless Horseman",
+            "base_chance": 32000000,
+            "biome_amplifier": [
+                "PUMPKIN MOON",
+                1
+            ],
+            "event_override": "Halloween 2025"
+        }
+    },
+    {
+        "identifier": "Ravage",
+        "properties": {
+            "name": "Ravage",
+            "base_chance": 930000000,
+            "biome_amplifier": [
+                "GRAVEYARD",
+                1
+            ],
+            "event_override": "Halloween 2025"
+        }
+    },
+    {
+        "identifier": "Thaneborne",
+        "properties": {
+            "name": "Thaneborne",
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Halloween 2025",
+            "rarity_override": "25k Bounty Medals at Jack's Shop"
+        }
+    },
+    {
+        "identifier": "Morning_Star",
+        "properties": {
+            "name": "Morning Star",
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rarity_override": "Contributor Exclusive"
         }
     },
     {
