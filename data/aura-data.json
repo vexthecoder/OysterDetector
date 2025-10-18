@@ -2741,6 +2741,18 @@
         }
     },
     {
+        "identifier": "ACCURSED",
+        "properties": {
+            "name": "Accursed",
+            "base_chance": 82000000,
+            "biome_amplifier": [
+                "BLOOD RAIN",
+                1
+            ],
+            "event_override": "Halloween 2025"
+        }
+    },
+    {
         "identifier": "Thaneborne",
         "properties": {
             "name": "Thaneborne",
