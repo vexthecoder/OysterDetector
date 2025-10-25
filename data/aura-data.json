@@ -2753,6 +2753,18 @@
         }
     },
     {
+        "identifier": "PUMP_Trickster",
+        "properties": {
+            "name": "PUMP : Trickster",
+            "base_chance": 600000,
+            "biome_amplifier": [
+                "PUMPKIN MOON",
+                1
+            ],
+            "event_override": "Halloween 2025"
+        }
+    },
+    {
         "identifier": "Thaneborne",
         "properties": {
             "name": "Thaneborne",
