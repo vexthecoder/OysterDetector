@@ -1,13 +1,9 @@
-# ![Oyster Detector Logo](https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/oyster_32x28.png)  **Oyster Detector** 
+# ![Oyster Detector Logo](https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/oyster_32x28.png)  **Oyster Detector** 
 ### A semi-lightweight and highly customizable biome/aura/merchant tracker for Sol's RNG.
 <br>
 
-> [!WARNING]  
-> Beginning November 1st, 2025, any version under 1.1.6 will not work.<br>
-> Please update to the latest version of the macro to continue receiving support in the coming future.
-
-> [!WARNING]
-> Any version under 1.1.6 will not receive data updates as of October 14th, 2025.<br>
+> [!IMPORTANT]  
+> Any version under 1.1.6 now no longer works, if your macro has suddenly stopped working, this is why.<br>
 > Please update to the latest version of the macro to continue receiving support in the coming future.
 
 > [!IMPORTANT]
