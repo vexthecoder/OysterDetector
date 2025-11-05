@@ -2,7 +2,7 @@
 ### A semi-lightweight and highly customizable biome/aura/merchant tracker for Sol's RNG.
 <br>
 
-> [!IMPORTANT]  
+> [!WARNING]  
 > Any version under 1.1.6 now no longer works, if your macro has suddenly stopped working, this is why.<br>
 > Please update to the latest version of the macro to continue receiving support in the coming future.
 
