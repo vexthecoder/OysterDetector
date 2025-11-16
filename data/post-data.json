@@ -1,13 +1,13 @@
 [
-  {
-    "id": "001",
-    "date": "Sep 6, 2025",
-    "title": "An Intro to Posts",
-    "content": "The new posts tab you're seeing is specifically for me directly communicating with the user.\nMost things I will post are just updates to the biome data or aura data, but sometimes I'll post important information, so keep an eye out on this tab!\nYou'll also receive a notification whenever a new post is sent out. But don't worry, these notifications are NOT intrusive and wont be that annoying.\n\nAnyways, this post is quite old since this is when I first made the system. Have fun and thanks for using Oyster Detector!",
-    "author": {
-      "name": "vex",
-      "avatarUrl": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/vex.png",
-      "redirectUrl": "https://github.com/vexthecoder"
+    {
+        "id": "001",
+        "date": "Sep 6, 2025",
+        "title": "An Intro to Posts",
+        "content": "The new posts tab you're seeing is specifically for me directly communicating with the user.\nMost things I will post are just updates to the biome data or aura data, but sometimes I'll post important information, so keep an eye out on this tab!\nYou'll also receive a notification whenever a new post is sent out. But don't worry, these notifications are NOT intrusive and wont be that annoying.\n\nAnyways, this post is quite old since this is when I first made the system. Have fun and thanks for using Oyster Detector!",
+        "author": {
+            "name": "vex",
+            "avatarUrl": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/vex.png",
+            "redirectUrl": "https://github.com/vexthecoder"
+        }
     }
-  }
 ]
