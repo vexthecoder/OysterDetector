@@ -2304,7 +2304,7 @@
     {
         "identifier": "shard surfer",
         "properties": {
-            "name": "Shard Surfer",
+            "name": "Shard Surfer (1)",
             "base_chance": 225000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2318,7 +2318,7 @@
     {
         "identifier": "Shard Surfer",
         "properties": {
-            "name": "Shard Surfer",
+            "name": "Shard Surfer (2)",
             "base_chance": 225000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2332,7 +2332,7 @@
     {
         "identifier": "shard_surfer",
         "properties": {
-            "name": "Shard Surfer",
+            "name": "Shard Surfer (3)",
             "base_chance": 225000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2346,7 +2346,7 @@
     {
         "identifier": "Shard_Surfer",
         "properties": {
-            "name": "Shard Surfer",
+            "name": "Shard Surfer (4)",
             "base_chance": 225000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2360,7 +2360,7 @@
     {
         "identifier": "shardsurfer",
         "properties": {
-            "name": "Shard Surfer",
+            "name": "Shard Surfer (5)",
             "base_chance": 225000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2374,7 +2374,7 @@
     {
         "identifier": "ShardSurfer",
         "properties": {
-            "name": "Shard Surfer",
+            "name": "Shard Surfer (6)",
             "base_chance": 225000000,
             "unobtainable": true,
             "biome_amplifier": [
