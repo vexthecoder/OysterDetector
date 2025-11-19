@@ -9,5 +9,16 @@
             "avatarUrl": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/vex.png",
             "redirectUrl": "https://github.com/vexthecoder"
         }
+    },
+    {
+        "id": "002",
+        "date": "Nov 18, 2025",
+        "title": "FastFlags are completely patched.",
+        "content": "Roblox has just recently completely patched out any and all FastFlag bypasses (which only included IxpSettings, but who cares), which means that Jester, Mari, and Eden detection now will completely not work at all.\nOnce/If the Sol's RNG developers add logging for these NPCs, Oyster Detector will receive a quick patch/update to use this new system.\nBut for now, you can no longer detect Merchants/NPCs.",
+        "author": {
+            "name": "vex",
+            "avatarUrl": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/vex.png",
+            "redirectUrl": "https://github.com/vexthecoder"
+        }
     }
 ]
