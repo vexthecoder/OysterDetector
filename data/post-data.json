@@ -20,5 +20,16 @@
             "avatarUrl": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/vex.png",
             "redirectUrl": "https://github.com/vexthecoder"
         }
+    },
+    {
+        "id": "003",
+        "date": "Nov 20, 2025",
+        "title": "Feature Suggestions",
+        "content": "With development slowing down and most features already in the app, I am starting to wonder what more I could add to the app.\n\nIf you have an idea for a feature to add to Oyster, then I'd gladly hear you out, as long as it follows the following guidelines:\n- Does not interact with elements on screen, Oyster is designed to run solely in the background without interupting your gameplay.\n- Does not already exist in the app, please look through all the features of the app already and see if your great idea exists already or not.\n- Is not a troll suggestion, please don't try to troll and suggest stupid things, you'll just be ignored and you'll have wasted your time.\n\nPlease go into depth on how your feature would work, as the more information the better.\nAlso note that giving a feature suggestion will not get you in the Credits tab, but it might land you a spot in the Help Window for the Credits tab.\n\nIf you have some ideas, feel free to hit me up on Discord (@vex.rng). I am in a lot of biome hunting servers and am in maincord, so you can find me in the member list there, DMs are always open!",
+        "author": {
+            "name": "vex",
+            "avatarUrl": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/vex.png",
+            "redirectUrl": "https://github.com/vexthecoder"
+        }
     }
 ]
