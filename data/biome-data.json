@@ -7,7 +7,8 @@
         },
         "unobtainable": false,
         "always_send": false,
-        "ping_everyone": false
+        "ping_everyone": false,
+        "rpc_compatible": true
     },
     {
         "name": "WINDY",
@@ -17,7 +18,8 @@
         },
         "unobtainable": false,
         "always_send": false,
-        "ping_everyone": false
+        "ping_everyone": false,
+        "rpc_compatible": true
     },
     {
         "name": "RAINY",
@@ -27,7 +29,8 @@
         },
         "unobtainable": false,
         "always_send": false,
-        "ping_everyone": false
+        "ping_everyone": false,
+        "rpc_compatible": true
     },
     {
         "name": "SNOWY",
@@ -37,7 +40,8 @@
         },
         "unobtainable": false,
         "always_send": false,
-        "ping_everyone": false
+        "ping_everyone": false,
+        "rpc_compatible": true
     },
     {
         "name": "SAND STORM",
@@ -47,7 +51,8 @@
         },
         "unobtainable": false,
         "always_send": false,
-        "ping_everyone": false
+        "ping_everyone": false,
+        "rpc_compatible": true
     },
     {
         "name": "HELL",
@@ -57,7 +62,8 @@
         },
         "unobtainable": false,
         "always_send": false,
-        "ping_everyone": false
+        "ping_everyone": false,
+        "rpc_compatible": true
     },
     {
         "name": "STARFALL",
@@ -67,7 +73,8 @@
         },
         "unobtainable": false,
         "always_send": false,
-        "ping_everyone": false
+        "ping_everyone": false,
+        "rpc_compatible": true
     },
     {
         "name": "CORRUPTION",
@@ -77,7 +84,8 @@
         },
         "unobtainable": false,
         "always_send": false,
-        "ping_everyone": false
+        "ping_everyone": false,
+        "rpc_compatible": true
     },
     {
         "name": "NULL",
@@ -87,7 +95,8 @@
         },
         "unobtainable": false,
         "always_send": false,
-        "ping_everyone": false
+        "ping_everyone": false,
+        "rpc_compatible": true
     },
     {
         "name": "BLAZING SUN",
@@ -98,7 +107,8 @@
         "unobtainable": true,
         "always_send": false,
         "ping_everyone": false,
-        "current_event": false
+        "current_event": false,
+        "rpc_compatible": false
     },
     {
         "name": "GRAVEYARD",
@@ -109,7 +119,8 @@
         "unobtainable": false,
         "always_send": false,
         "ping_everyone": false,
-        "current_event": true
+        "current_event": true,
+        "rpc_compatible": true
     },
     {
         "name": "PUMPKIN MOON",
@@ -120,7 +131,8 @@
         "unobtainable": false,
         "always_send": false,
         "ping_everyone": false,
-        "current_event": true
+        "current_event": true,
+        "rpc_compatible": true
     },
     {
         "name": "BLOOD RAIN",
@@ -131,7 +143,8 @@
         "unobtainable": false,
         "always_send": false,
         "ping_everyone": false,
-        "current_event": true
+        "current_event": true,
+        "rpc_compatible": true
     },
     {
         "name": "GLITCHED",
@@ -142,7 +155,8 @@
         "unobtainable": false,
         "always_send": true,
         "ping_everyone": true,
-        "snipe_protection": true
+        "snipe_protection": true,
+        "rpc_compatible": true
     },
     {
         "name": "DREAMSPACE",
@@ -153,7 +167,8 @@
         "unobtainable": false,
         "always_send": true,
         "ping_everyone": true,
-        "snipe_protection": true
+        "snipe_protection": true,
+        "rpc_compatible": true
     },
     {
         "name": "UNKNOWN",
@@ -163,6 +178,7 @@
             "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/unknown_biome.png"
         },
         "unobtainable": false,
-        "always_send": true
+        "always_send": true,
+        "rpc_compatible": false
     }
 ]
