@@ -171,6 +171,18 @@
         "rpc_compatible": true
     },
     {
+        "name": "CYBERSPACE",
+        "visuals": {
+            "primary_hex": "0x1C3266",
+            "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/cyberspace.png"
+        },
+        "unobtainable": false,
+        "always_send": true,
+        "ping_everyone": true,
+        "snipe_protection": true,
+        "rpc_compatible": true
+    },
+    {
         "name": "UNKNOWN",
         "name_override": "UNKNOWN (Dev Exclusive)",
         "visuals": {
