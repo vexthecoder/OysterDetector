@@ -1620,6 +1620,17 @@
         }
     },
     {
+        "identifier": "Flora_Evergreen",
+        "properties": {
+            "name": "Flora : Evergreen",
+            "base_chance": 370073730,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Chillsear",
         "properties": {
             "name": "Chillsear",
