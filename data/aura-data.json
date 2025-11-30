@@ -3284,13 +3284,12 @@
         "identifier": "Illusionary",
         "properties": {
             "name": "Illusionary",
-            "base_chance": 0,
+            "base_chance": 10000000,
             "biome_amplifier": [
-                "GLITCHED",
+                "CYBERSPACE",
                 1
             ],
-            "rank": "unobtainable",
-            "unobtainable": true
+            "rank": "challenged_plus"
         }
     },
     {
