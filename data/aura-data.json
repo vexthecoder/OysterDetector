@@ -1620,17 +1620,6 @@
         }
     },
     {
-        "identifier": "Chillsear",
-        "properties": {
-            "name": "Chillsear",
-            "base_chance": 375000000,
-            "biome_amplifier": [
-                "SNOWY",
-                3
-            ]
-        }
-    },
-    {
         "identifier": "CHILLSEAR",
         "properties": {
             "name": "Chillsear",
@@ -2135,79 +2124,9 @@
         }
     },
     {
-        "identifier": "shard surfer",
-        "properties": {
-            "name": "Shard Surfer (1)",
-            "base_chance": 225000000,
-            "unobtainable": true,
-            "biome_amplifier": [
-                "SNOWY",
-                3
-            ],
-            "event_override": "Summer 2024",
-            "rank": "unobtainable"
-        }
-    },
-    {
         "identifier": "Shard Surfer",
         "properties": {
-            "name": "Shard Surfer (2)",
-            "base_chance": 225000000,
-            "unobtainable": true,
-            "biome_amplifier": [
-                "SNOWY",
-                3
-            ],
-            "event_override": "Summer 2024",
-            "rank": "unobtainable"
-        }
-    },
-    {
-        "identifier": "shard_surfer",
-        "properties": {
-            "name": "Shard Surfer (3)",
-            "base_chance": 225000000,
-            "unobtainable": true,
-            "biome_amplifier": [
-                "SNOWY",
-                3
-            ],
-            "event_override": "Summer 2024",
-            "rank": "unobtainable"
-        }
-    },
-    {
-        "identifier": "Shard_Surfer",
-        "properties": {
-            "name": "Shard Surfer (4)",
-            "base_chance": 225000000,
-            "unobtainable": true,
-            "biome_amplifier": [
-                "SNOWY",
-                3
-            ],
-            "event_override": "Summer 2024",
-            "rank": "unobtainable"
-        }
-    },
-    {
-        "identifier": "shardsurfer",
-        "properties": {
-            "name": "Shard Surfer (5)",
-            "base_chance": 225000000,
-            "unobtainable": true,
-            "biome_amplifier": [
-                "SNOWY",
-                3
-            ],
-            "event_override": "Summer 2024",
-            "rank": "unobtainable"
-        }
-    },
-    {
-        "identifier": "ShardSurfer",
-        "properties": {
-            "name": "Shard Surfer (6)",
+            "name": "Shard Surfer",
             "base_chance": 225000000,
             "unobtainable": true,
             "biome_amplifier": [
@@ -2923,19 +2842,6 @@
             "base_chance": 695000000,
             "biome_amplifier": [
                 "BLOOD RAIN",
-                1
-            ],
-            "event_override": "Halloween 2025",
-            "unobtainable": true
-        }
-    },
-    {
-        "identifier": "Banshee",
-        "properties": {
-            "name": "Banshee",
-            "base_chance": 730000000,
-            "biome_amplifier": [
-                "GRAVEYARD",
                 1
             ],
             "event_override": "Halloween 2025",
