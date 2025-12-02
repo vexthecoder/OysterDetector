@@ -126,8 +126,8 @@
             "name": "Forbidden",
             "base_chance": 404,
             "biome_amplifier": [
-                "None",
-                1
+                "CYBERSPACE",
+                2
             ]
         }
     },
@@ -291,8 +291,8 @@
             "name": "Player",
             "base_chance": 3000,
             "biome_amplifier": [
-                "None",
-                1
+                "CYBERSPACE",
+                2
             ]
         }
     },
@@ -808,7 +808,7 @@
             "name": "Astral",
             "base_chance": 1336000,
             "biome_amplifier": [
-                "CORRUPTION",
+                "STARFALL",
                 5
             ]
         }
@@ -852,8 +852,8 @@
             "name": "Virtual",
             "base_chance": 2500000,
             "biome_amplifier": [
-                "None",
-                1
+                "CYBERSPACE",
+                2
             ]
         }
     },
@@ -885,8 +885,8 @@
             "name": "Shiftlock",
             "base_chance": 3325000,
             "biome_amplifier": [
-                "None",
-                1
+                "NULL",
+                1000
             ]
         }
     },
@@ -1303,8 +1303,8 @@
             "name": "Matrix",
             "base_chance": 50000000,
             "biome_amplifier": [
-                "None",
-                1
+                "CYBERSPACE",
+                2
             ]
         }
     },
@@ -1325,8 +1325,8 @@
             "name": "Twilight : Iridescent Memory",
             "base_chance": 60000000,
             "biome_amplifier": [
-                "None",
-                1
+                "NIGHT",
+                10
             ]
         }
     },
@@ -1336,8 +1336,8 @@
             "name": "Antivirus",
             "base_chance": 62500000,
             "biome_amplifier": [
-                "None",
-                1
+                "CYBERSPACE",
+                2
             ]
         }
     },
@@ -1375,24 +1375,13 @@
         }
     },
     {
-        "identifier": "Virtual_Worldwide",
-        "properties": {
-            "name": "Virtual : WorldWide",
-            "base_chance": 87500000,
-            "biome_amplifier": [
-                "None",
-                1
-            ]
-        }
-    },
-    {
         "identifier": "Virtual_WorldWide",
         "properties": {
             "name": "Virtual : WorldWide",
             "base_chance": 87500000,
             "biome_amplifier": [
-                "None",
-                1
+                "CYBERSPACE",
+                2
             ]
         }
     },
@@ -1724,8 +1713,8 @@
             "name": "Matrix : Overdrive",
             "base_chance": 503000000,
             "biome_amplifier": [
-                "None",
-                1
+                "CYBERSPACE",
+                2
             ]
         }
     },
@@ -1757,8 +1746,8 @@
             "name": "Matrix : Reality",
             "base_chance": 601020102,
             "biome_amplifier": [
-                "None",
-                1
+                "CYBERSPACE",
+                2
             ]
         }
     },
@@ -1801,8 +1790,8 @@
             "name": "Aegis",
             "base_chance": 825000000,
             "biome_amplifier": [
-                "None",
-                1
+                "CYBERSPACE",
+                2
             ]
         }
     },
@@ -1848,8 +1837,8 @@
             "name": "Pixelation",
             "base_chance": 1073741824,
             "biome_amplifier": [
-                "None",
-                1
+                "CYBERSPACE",
+                2
             ]
         }
     },
@@ -2110,8 +2099,8 @@
             "base_chance": 400000000,
             "unobtainable": true,
             "biome_amplifier": [
-                "None",
-                1
+                "CORRUPTION",
+                5
             ],
             "event_override": "April Fools 2024",
             "rank": "unobtainable"
@@ -2265,7 +2254,7 @@
             "base_chance": 200000,
             "unobtainable": true,
             "biome_amplifier": [
-                "None",
+                "PUMPKIN MOON",
                 1
             ],
             "event_override": "Halloween 2024",
@@ -2279,7 +2268,11 @@
             "base_chance": 3000000,
             "unobtainable": true,
             "biome_amplifier": [
-                "None",
+                "NIGHT",
+                1
+            ],
+            "biome_amplifier2": [
+                "GRAVEYARD",
                 1
             ],
             "event_override": "Halloween 2024",
@@ -2293,7 +2286,7 @@
             "base_chance": 6000000,
             "unobtainable": true,
             "biome_amplifier": [
-                "None",
+                "PUMPKIN MOON",
                 1
             ],
             "event_override": "Halloween 2024",
@@ -2307,7 +2300,7 @@
             "base_chance": 10000000,
             "unobtainable": true,
             "biome_amplifier": [
-                "None",
+                "PUMPKIN MOON",
                 1
             ],
             "event_override": "Halloween 2024",
@@ -2321,7 +2314,7 @@
             "base_chance": 21000000,
             "unobtainable": true,
             "biome_amplifier": [
-                "None",
+                "GRAVEYARD",
                 1
             ],
             "event_override": "Halloween 2024",
@@ -2335,7 +2328,7 @@
             "base_chance": 40000000,
             "unobtainable": true,
             "biome_amplifier": [
-                "None",
+                "GRAVEYARD",
                 1
             ],
             "event_override": "Halloween 2024",
@@ -2349,7 +2342,7 @@
             "base_chance": 72000000,
             "unobtainable": true,
             "biome_amplifier": [
-                "None",
+                "GRAVEYARD",
                 1
             ],
             "event_override": "Halloween 2024",
@@ -2363,7 +2356,7 @@
             "base_chance": 190000000,
             "unobtainable": true,
             "biome_amplifier": [
-                "None",
+                "PUMPKIN MOON",
                 1
             ],
             "event_override": "Halloween 2024",
@@ -2377,7 +2370,7 @@
             "base_chance": 666000000,
             "unobtainable": true,
             "biome_amplifier": [
-                "None",
+                "GRAVEYARD",
                 1
             ],
             "event_override": "Halloween 2024",
@@ -2391,7 +2384,7 @@
             "base_chance": 800000000,
             "unobtainable": true,
             "biome_amplifier": [
-                "None",
+                "GRAVEYARD",
                 1
             ],
             "event_override": "Halloween 2024",
@@ -2747,7 +2740,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -2759,8 +2752,12 @@
                 "NIGHT",
                 1
             ],
+            "biome_amplifier2": [
+                "GRAVEYARD",
+                1
+            ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -2773,7 +2770,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -2786,7 +2783,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -2799,7 +2796,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -2812,7 +2809,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -2825,7 +2822,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -2838,7 +2835,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -2851,7 +2848,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -2864,7 +2861,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -2877,7 +2874,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -2890,7 +2887,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -2903,7 +2900,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -2916,7 +2913,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -2929,7 +2926,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -2942,7 +2939,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -2955,7 +2952,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -2968,7 +2965,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -2981,7 +2978,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -2994,7 +2991,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -3007,7 +3004,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -3020,7 +3017,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -3033,7 +3030,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -3046,7 +3043,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -3059,7 +3056,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -3072,7 +3069,7 @@
                 1
             ],
             "event_override": "Halloween 2025",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -3087,7 +3084,7 @@
             "event_override": "Halloween 2025",
             "rarity_override": "25k Bounty Medals at Jack's Shop",
             "rank": "unobtainable",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -3102,7 +3099,7 @@
             "event_override": "Halloween 2025",
             "rarity_override": "4k Bounty Medals at Jack's Shop",
             "rank": "unobtainable",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -3117,7 +3114,7 @@
             "event_override": "Halloween 2025",
             "rarity_override": "6k Bounty Medals at Jack's Shop",
             "rank": "unobtainable",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -3132,7 +3129,7 @@
             "event_override": "Halloween 2025",
             "rarity_override": "8k Bounty Medals at Jack's Shop",
             "rank": "unobtainable",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -3147,7 +3144,7 @@
             "event_override": "Halloween 2025",
             "rarity_override": "22k Bounty Medals at Jack's Shop",
             "rank": "unobtainable",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {
@@ -3162,7 +3159,7 @@
             "event_override": "Halloween 2025",
             "rarity_override": "Season 3 Pass Reward (Tier 50)",
             "rank": "unobtainable",
-            "unobtainable": false
+            "unobtainable": true
         }
     },
     {

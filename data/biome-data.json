@@ -108,7 +108,7 @@
         "always_send": false,
         "ping_everyone": false,
         "current_event": false,
-        "rpc_compatible": false
+        "rpc_compatible": true
     },
     {
         "name": "GRAVEYARD",
@@ -116,10 +116,10 @@
             "primary_hex": "0x4f4f4f",
             "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/graveyard.png"
         },
-        "unobtainable": false,
+        "unobtainable": true,
         "always_send": false,
         "ping_everyone": false,
-        "current_event": true,
+        "current_event": false,
         "rpc_compatible": true
     },
     {
@@ -128,10 +128,10 @@
             "primary_hex": "0xad4815",
             "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/pumpkin%20moon.png"
         },
-        "unobtainable": false,
+        "unobtainable": true,
         "always_send": false,
         "ping_everyone": false,
-        "current_event": true,
+        "current_event": false,
         "rpc_compatible": true
     },
     {
@@ -140,10 +140,10 @@
             "primary_hex": "0x590f0f",
             "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/blood%20rain.png"
         },
-        "unobtainable": false,
+        "unobtainable": true,
         "always_send": false,
         "ping_everyone": false,
-        "current_event": true,
+        "current_event": false,
         "rpc_compatible": true
     },
     {
