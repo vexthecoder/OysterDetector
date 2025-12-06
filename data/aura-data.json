@@ -71,8 +71,8 @@
             "name": "Divinus",
             "base_chance": 32,
             "biome_amplifier": [
-                "None",
-                1
+                "HEAVEN",
+                5
             ]
         }
     },
@@ -654,8 +654,8 @@
             "name": "Divinus : Angel",
             "base_chance": 120000,
             "biome_amplifier": [
-                "None",
-                1
+                "HEAVEN",
+                5
             ]
         }
     },
@@ -733,6 +733,17 @@
             "biome_amplifier": [
                 "None",
                 1
+            ]
+        }
+    },
+    {
+        "identifier": "Hope",
+        "properties": {
+            "name": "Hope",
+            "base_chance": 488725,
+            "biome_amplifier": [
+                "HEAVEN",
+                5
             ]
         }
     },
@@ -1045,6 +1056,17 @@
         }
     },
     {
+        "identifier": "Faith",
+        "properties": {
+            "name": "Faith",
+            "base_chance": 7250000,
+            "biome_amplifier": [
+                "HEAVEN",
+                5
+            ]
+        }
+    },
+    {
         "identifier": "Hyper-Volt",
         "properties": {
             "name": "Hyper-Volt",
@@ -1074,6 +1096,17 @@
             "biome_amplifier": [
                 "None",
                 1
+            ]
+        }
+    },
+    {
+        "identifier": "Divinus_Guardian",
+        "properties": {
+            "name": "Divinus : Guardian",
+            "base_chance": 7777777,
+            "biome_amplifier": [
+                "HEAVEN",
+                5
             ]
         }
     },
@@ -1177,6 +1210,17 @@
         }
     },
     {
+        "identifier": "Icarus",
+        "properties": {
+            "name": "Icarus",
+            "base_chance": 15660000,
+            "biome_amplifier": [
+                "HEAVEN",
+                5
+            ]
+        }
+    },
+    {
         "identifier": "Lullaby",
         "properties": {
             "name": "Lullaby",
@@ -1248,8 +1292,8 @@
             "name": "Virutal : Fatal Error",
             "base_chance": 40413000,
             "biome_amplifier": [
-                "None",
-                1
+                "CYBERSPACE",
+                2
             ]
         }
     },
@@ -1485,17 +1529,6 @@
         }
     },
     {
-        "identifier": "Archangel",
-        "properties": {
-            "name": "Archangel",
-            "base_chance": 250000000,
-            "biome_amplifier": [
-                "None",
-                1
-            ]
-        }
-    },
-    {
         "identifier": "Astral_Legendarium",
         "properties": {
             "name": "Astral : Legendarium",
@@ -1594,6 +1627,17 @@
             "biome_amplifier": [
                 "None",
                 1
+            ]
+        }
+    },
+    {
+        "identifier": "Archangel",
+        "properties": {
+            "name": "Archangel",
+            "base_chance": 350000000,
+            "biome_amplifier": [
+                "HEAVEN",
+                5
             ]
         }
     },

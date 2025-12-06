@@ -77,6 +77,17 @@
         "rpc_compatible": true
     },
     {
+        "name": "HEAVEN",
+        "visuals": {
+            "primary_hex": "0xD6A22D",
+            "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/unknown_biome.png"
+        },
+        "unobtainable": false,
+        "always_send": false,
+        "ping_everyone": false,
+        "rpc_compatible": true
+    },
+    {
         "name": "CORRUPTION",
         "visuals": {
             "primary_hex": "0x9143FF",
