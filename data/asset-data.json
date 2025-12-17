@@ -34,6 +34,13 @@
     "door.png": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/door.png",
     "clock.png": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/clock.png",
 
+    "start.svg": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/start.svg",
+    "stop.svg": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/stop.svg",
+    "private-server.svg": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/private-server.svg",
+    "public-server.svg": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/public-server.svg",
+    "open.svg": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/open.svg",
+    "exit.svg": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/exit.svg",
+
     "requiredstorage.jpg": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/requiredstorage.jpg",
     "scope_development.webp": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/scope_development.webp",
     "sols_sniper.webp": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/sols_sniper.webp",
