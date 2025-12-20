@@ -2206,8 +2206,8 @@
                 1
             ],
             "event_override": "Winter 2025",
-            "rank": "exalted",
-            "rarity_override": "0.2% Chance from the Roulette Wheel"
+            "rank": "glorious",
+            "rarity_override": "0.1% Chance from the Roulette Wheel"
         }
     },
     {
@@ -2221,8 +2221,8 @@
                 1
             ],
             "event_override": "Winter 2025",
-            "rank": "glorious",
-            "rarity_override": "0.1% Chance from the Roulette Wheel"
+            "rank": "exalted",
+            "rarity_override": "0.2% Chance from the Roulette Wheel"
         }
     },
     {
