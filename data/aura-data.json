@@ -3379,6 +3379,19 @@
         }
     },
     {
+        "identifier": "Clockwork",
+        "properties": {
+            "name": "Clockwork",
+            "base_chance": 530000,
+            "biome_amplifier": [
+                "UNKNOWN",
+                1
+            ],
+            "rarity_override": "1 in 530,000 (In [ MASTERMIND ] Biome)",
+            "rank": "unobtainable"
+        }
+    },
+    {
         "identifier": "Prowler",
         "properties": {
             "name": "Prowler",
@@ -3387,7 +3400,7 @@
                 "UNKNOWN",
                 1
             ],
-            "rarity_override": "1 in 540,000 (In XYZ Biome)",
+            "rarity_override": "1 in 540,000 (In [ Another Realm ] Biome)",
             "rank": "unobtainable"
         }
     },
