@@ -2226,6 +2226,20 @@
         }
     },
     {
+        "identifier": "Reina",
+        "properties": {
+            "name": "Reina",
+            "base_chance": 0,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Winter 2025",
+            "rarity_override": "Season 4 Pass Reward (Tier 50)",
+            "rank": "unobtainable"
+        }
+    },
+    {
         "identifier": "Divinus_Love",
         "properties": {
             "name": "Divinus : Love",
