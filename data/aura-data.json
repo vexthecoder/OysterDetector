@@ -2038,6 +2038,194 @@
         }
     },
     {
+        "identifier": "StarRider_Snowflake",
+        "properties": {
+            "name": "StarRider : Snowflake",
+            "base_chance": 240000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "AURORA",
+                2
+            ],
+            "event_override": "Winter 2025"
+        }
+    },
+    {
+        "identifier": "Gingerbread",
+        "properties": {
+            "name": "Gingerbread",
+            "base_chance": 3750000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "AURORA",
+                2
+            ],
+            "event_override": "Winter 2025"
+        }
+    },
+    {
+        "identifier": "Jackfrost",
+        "properties": {
+            "name": "Jack Frost",
+            "base_chance": 4700000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "AURORA",
+                2
+            ],
+            "event_override": "Winter 2025"
+        }
+    },
+    {
+        "identifier": "Lost Soul_Wander",
+        "properties": {
+            "name": "Lost Soul : Wander",
+            "base_chance": 9400000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "AURORA",
+                2
+            ],
+            "event_override": "Winter 2025"
+        }
+    },
+    {
+        "identifier": "Frostwood",
+        "properties": {
+            "name": "Frostwood",
+            "base_chance": 24500000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "AURORA",
+                2
+            ],
+            "event_override": "Winter 2025"
+        }
+    },
+    {
+        "identifier": "Northpole",
+        "properties": {
+            "name": "North Pole",
+            "base_chance": 45000000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "AURORA",
+                2
+            ],
+            "event_override": "Winter 2025"
+        }
+    },
+    {
+        "identifier": "Skyburst",
+        "properties": {
+            "name": "Sky Burst",
+            "base_chance": 60000000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "AURORA",
+                2
+            ],
+            "event_override": "Winter 2025"
+        }
+    },
+    {
+        "identifier": "Encase",
+        "properties": {
+            "name": "Encase",
+            "base_chance": 230000000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "AURORA",
+                2
+            ],
+            "event_override": "Winter 2025"
+        }
+    },
+    {
+        "identifier": "Cryofang",
+        "properties": {
+            "name": "Cryofang",
+            "base_chance": 380000000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "AURORA",
+                2
+            ],
+            "event_override": "Winter 2025"
+        }
+    },
+    {
+        "identifier": "Northern",
+        "properties": {
+            "name": "Northern",
+            "base_chance": 405000000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "AURORA",
+                2
+            ],
+            "event_override": "Winter 2025"
+        }
+    },
+    {
+        "identifier": "Sovereign_Frostveil",
+        "properties": {
+            "name": "Sovereign : Frostveil",
+            "base_chance": 1000000000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "AURORA",
+                2
+            ],
+            "event_override": "Winter 2025"
+        }
+    },
+    {
+        "identifier": "Present",
+        "properties": {
+            "name": "Present",
+            "base_chance": 0,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Winter 2025",
+            "rank": "mythic",
+            "rarity_override": "1% Chance from the Roulette Wheel"
+        }
+    },
+    {
+        "identifier": "Christmastide",
+        "properties": {
+            "name": "Christmastide",
+            "base_chance": 0,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Winter 2025",
+            "rank": "exalted",
+            "rarity_override": "0.2% Chance from the Roulette Wheel"
+        }
+    },
+    {
+        "identifier": "Skyforge",
+        "properties": {
+            "name": "Skyforge",
+            "base_chance": 0,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Winter 2025",
+            "rank": "glorious",
+            "rarity_override": "0.1% Chance from the Roulette Wheel"
+        }
+    },
+    {
         "identifier": "Divinus_Love",
         "properties": {
             "name": "Divinus : Love",

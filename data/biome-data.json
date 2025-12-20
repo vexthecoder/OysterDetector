@@ -158,6 +158,18 @@
         "rpc_compatible": true
     },
     {
+        "name": "AURORA",
+        "visuals": {
+            "primary_hex": "0x6764ac",
+            "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/aurora.png"
+        },
+        "unobtainable": false,
+        "always_send": false,
+        "ping_everyone": false,
+        "current_event": true,
+        "rpc_compatible": true
+    },
+    {
         "name": "GLITCHED",
         "visuals": {
             "primary_hex": "0xBFFF00",
