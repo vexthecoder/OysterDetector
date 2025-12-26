@@ -2206,8 +2206,8 @@
                 1
             ],
             "event_override": "Winter 2025",
-            "rank": "exalted",
-            "rarity_override": "0.2% Chance from the Roulette Wheel"
+            "rank": "glorious",
+            "rarity_override": "0.1% Chance from the Roulette Wheel"
         }
     },
     {
@@ -2221,8 +2221,8 @@
                 1
             ],
             "event_override": "Winter 2025",
-            "rank": "glorious",
-            "rarity_override": "0.1% Chance from the Roulette Wheel"
+            "rank": "exalted",
+            "rarity_override": "0.2% Chance from the Roulette Wheel"
         }
     },
     {
@@ -2701,7 +2701,7 @@
                 "None",
                 1
             ],
-            "rarity_override": "Unobtainable since Era 1",
+            "rarity_override": "1 in 40,000\nUnobtainable since Era 1",
             "rank": "unobtainable"
         }
     },
@@ -2724,7 +2724,6 @@
         "properties": {
             "name": "Alchemist",
             "base_chance": 0,
-            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -2738,7 +2737,6 @@
         "properties": {
             "name": "Content Creator",
             "base_chance": 0,
-            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -2752,7 +2750,6 @@
         "properties": {
             "name": "Content Creator : Platinum",
             "base_chance": 0,
-            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
