@@ -3,7 +3,7 @@
         "name": "NORMAL",
         "visuals": {
             "primary_hex": "0xC8DED7",
-            "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/normal.png"
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/normal.png"
         },
         "unobtainable": false,
         "always_send": false,
@@ -14,7 +14,7 @@
         "name": "WINDY",
         "visuals": {
             "primary_hex": "0x90F6FF",
-            "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/windy.png"
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/windy.png"
         },
         "unobtainable": false,
         "always_send": false,
@@ -25,7 +25,7 @@
         "name": "RAINY",
         "visuals": {
             "primary_hex": "0x4284FF",
-            "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/rainy.png"
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/rainy.png"
         },
         "unobtainable": false,
         "always_send": false,
@@ -36,7 +36,7 @@
         "name": "SNOWY",
         "visuals": {
             "primary_hex": "0xA6FFFF",
-            "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/snowy.png"
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/snowy.png"
         },
         "unobtainable": false,
         "always_send": false,
@@ -47,7 +47,7 @@
         "name": "SAND STORM",
         "visuals": {
             "primary_hex": "0xFFCB81",
-            "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/sand%20storm.png"
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/sand%20storm.png"
         },
         "unobtainable": false,
         "always_send": false,
@@ -58,7 +58,7 @@
         "name": "HELL",
         "visuals": {
             "primary_hex": "0x7E1617",
-            "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/hell.png"
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/hell.png"
         },
         "unobtainable": false,
         "always_send": false,
@@ -69,7 +69,7 @@
         "name": "STARFALL",
         "visuals": {
             "primary_hex": "0x6085FF",
-            "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/starfall.png"
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/starfall.png"
         },
         "unobtainable": false,
         "always_send": false,
@@ -80,7 +80,7 @@
         "name": "HEAVEN",
         "visuals": {
             "primary_hex": "0xD6A22D",
-            "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/heaven.png"
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/heaven.png"
         },
         "unobtainable": false,
         "always_send": false,
@@ -91,7 +91,7 @@
         "name": "CORRUPTION",
         "visuals": {
             "primary_hex": "0x9143FF",
-            "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/corruption.png"
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/corruption.png"
         },
         "unobtainable": false,
         "always_send": false,
@@ -102,7 +102,7 @@
         "name": "NULL",
         "visuals": {
             "primary_hex": "0x3B3B3B",
-            "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/null.png"
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/null.png"
         },
         "unobtainable": false,
         "always_send": false,
@@ -113,7 +113,7 @@
         "name": "BLAZING SUN",
         "visuals": {
             "primary_hex": "0xFFFA5C",
-            "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/blazing%20sun.png"
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/blazing%20sun.png"
         },
         "unobtainable": true,
         "always_send": false,
@@ -125,7 +125,7 @@
         "name": "GRAVEYARD",
         "visuals": {
             "primary_hex": "0x4f4f4f",
-            "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/graveyard.png"
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/graveyard.png"
         },
         "unobtainable": true,
         "always_send": false,
@@ -137,7 +137,7 @@
         "name": "PUMPKIN MOON",
         "visuals": {
             "primary_hex": "0xad4815",
-            "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/pumpkin%20moon.png"
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/pumpkin%20moon.png"
         },
         "unobtainable": true,
         "always_send": false,
@@ -149,7 +149,7 @@
         "name": "BLOOD RAIN",
         "visuals": {
             "primary_hex": "0x590f0f",
-            "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/blood%20rain.png"
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/blood%20rain.png"
         },
         "unobtainable": true,
         "always_send": false,
@@ -161,7 +161,7 @@
         "name": "AURORA",
         "visuals": {
             "primary_hex": "0x6764ac",
-            "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/aurora.png"
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/aurora.png"
         },
         "unobtainable": false,
         "always_send": false,
@@ -173,7 +173,7 @@
         "name": "GLITCHED",
         "visuals": {
             "primary_hex": "0xBFFF00",
-            "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/glitched.png"
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/glitched.png"
         },
         "unobtainable": false,
         "always_send": true,
@@ -185,7 +185,7 @@
         "name": "DREAMSPACE",
         "visuals": {
             "primary_hex": "0xEA9DDA",
-            "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/dreamspace.png"
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/dreamspace.png"
         },
         "unobtainable": false,
         "always_send": true,
@@ -197,7 +197,7 @@
         "name": "CYBERSPACE",
         "visuals": {
             "primary_hex": "0x1C3266",
-            "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/cyberspace.png"
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/cyberspace.png"
         },
         "unobtainable": false,
         "always_send": true,
@@ -210,7 +210,7 @@
         "name_override": "UNKNOWN (Dev Exclusive)",
         "visuals": {
             "primary_hex": "0x6B6B6B",
-            "preview_image": "https://raw.githubusercontent.com/vexthecoder/OysterDetector/main/assets/unknown_biome.png"
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/unknown_biome.png"
         },
         "unobtainable": false,
         "always_send": true,

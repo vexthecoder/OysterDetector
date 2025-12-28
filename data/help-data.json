@@ -195,14 +195,14 @@
     "Credits": {
         "Acknowledgements": [
             ["title", "Acknowledgements & Gratitude"],
-            ["bullet1", "Made by vexthecoder - Creator and developer"],
+            ["bullet1", "Made by vexsyx - Creator and developer"],
             ["subtitle", "Special Thanks To:"],
             ["bullet1", "The Sol's RNG community for feedback"],
             ["bullet1", "Testers and bug reporters"],
             ["bullet1", "Inspired by Noteab Macro and Maxstellar's Biome Macro"],
             ["bullet1", "Scope Development and Universal Macros communities"],
             ["bullet1", "@RequiredStorage for testing and support"],
-            ["link", ["GitHub Repository", "https://github.com/vexthecoder/OysterDetector"]],
+            ["link", ["GitHub Repository", "https://github.com/vexsyx/OysterDetector"]],
             ["divider", ""]
         ],
         "Closed Source": [
@@ -221,7 +221,7 @@
             ["bullet1", "Not affiliated with Roblox Corporation"],
             ["bullet1", "By using, you agree to these terms"],
             ["subtitle", "Expanded Legal Details"],
-            ["step", ["Copyright: © vexthecoder - Unauthorized redistribution prohibited", "Reverse Engineering: Decompiling not permitted", "Third-Party Services: Not responsible for their changes", "User Data: All data stored locally only", "Updates: No guarantee of continued support", "Liability: Not liable for damages or losses", "Acceptance: Using software constitutes agreement"]],
+            ["step", ["Copyright: © vexsyx - Unauthorized redistribution prohibited", "Reverse Engineering: Decompiling not permitted", "Third-Party Services: Not responsible for their changes", "User Data: All data stored locally only", "Updates: No guarantee of continued support", "Liability: Not liable for damages or losses", "Acceptance: Using software constitutes agreement"]],
             ["divider", ""]
         ]
     }
