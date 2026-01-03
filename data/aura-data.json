@@ -2038,6 +2038,19 @@
         }
     },
     {
+        "identifier": "Snowball",
+        "properties": {
+            "name": "Snowball",
+            "base_chance": 10000,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "AURORA",
+                2
+            ],
+            "event_override": "Winter 2025"
+        }
+    },
+    {
         "identifier": "StarRider_Snowflake",
         "properties": {
             "name": "StarRider : Snowflake",
