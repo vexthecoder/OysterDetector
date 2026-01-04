@@ -1,0 +1,130 @@
+{
+    "rank_configs": {
+        "challenged": {
+            "color": "0x636363",
+            "display_name": "Challenged",
+            "order": 1,
+            "asset_name": "challenged.png"
+        },
+        "challenged_plus": {
+            "color": "0x636363",
+            "display_name": "Challenged+",
+            "order": 2,
+            "asset_name": "challenged_plus.png"
+        },
+        "unobtainable": {
+            "color": "0x5fcf3a",
+            "display_name": "Unobtainable",
+            "order": 3,
+            "asset_name": "unobtainable.png"
+        },
+        "basic": {
+            "color": "0xededed",
+            "display_name": "Basic",
+            "order": 4,
+            "asset_name": "basic.png"
+        },
+        "epic": {
+            "color": "0xe8acb6",
+            "display_name": "Epic",
+            "order": 5,
+            "asset_name": "epic.png"
+        },
+        "unique": {
+            "color": "0xde7600",
+            "display_name": "Unique",
+            "order": 6,
+            "asset_name": "unique.png"
+        },
+        "legendary": {
+            "color": "0xdede09",
+            "display_name": "Legendary",
+            "order": 7,
+            "asset_name": "legendary.png"
+        },
+        "mythic": {
+            "color": "0xc23883",
+            "display_name": "Mythic",
+            "order": 8,
+            "asset_name": "mythic.png"
+        },
+        "exalted": {
+            "color": "0x3a3ab0",
+            "display_name": "Exalted",
+            "order": 9,
+            "asset_name": "exalted.png"
+        },
+        "glorious": {
+            "color": "0x7D0F0F",
+            "display_name": "Glorious",
+            "order": 10,
+            "asset_name": "glorious.png"
+        },
+        "transcendent": {
+            "color": "0x4EADAD",
+            "display_name": "Transcendent",
+            "order": 11,
+            "asset_name": "transcendent.png"
+        }
+    },
+    "rarity_ranges": {
+        "unobtainable": {
+            "max_rarity": 0,
+            "description": "Unobtainable",
+            "default_rank": "unobtainable"
+        },
+        "basic": {
+            "min_rarity": 1,
+            "max_rarity": 999,
+            "description": "Basic",
+            "default_rank": "basic"
+        },
+        "epic": {
+            "min_rarity": 1000,
+            "max_rarity": 9999,
+            "description": "Epic",
+            "default_rank": "epic"
+        },
+        "unique": {
+            "min_rarity": 10000,
+            "max_rarity": 99998,
+            "description": "Unique",
+            "default_rank": "unique"
+        },
+        "legendary": {
+            "min_rarity": 99999,
+            "max_rarity": 999999,
+            "description": "Legendary",
+            "default_rank": "legendary"
+        },
+        "mythic": {
+            "min_rarity": 1000000,
+            "max_rarity": 9999999,
+            "description": "Mythic",
+            "default_rank": "mythic"
+        },
+        "exalted": {
+            "min_rarity": 10000000,
+            "max_rarity": 99999998,
+            "description": "Exalted",
+            "default_rank": "exalted"
+        },
+        "glorious": {
+            "min_rarity": 99999999,
+            "max_rarity": 999999999,
+            "description": "Glorious",
+            "default_rank": "glorious"
+        },
+        "transcendent": {
+            "min_rarity": 1000000000,
+            "max_rarity": 7499999999,
+            "description": "Transcendent",
+            "default_rank": "transcendent"
+        },
+        "unknown": {
+            "min_rarity": 7500000000,
+            "description": "Unknown",
+            "default_rank": "basic"
+        }
+    }
+}
