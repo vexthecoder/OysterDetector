@@ -187,7 +187,7 @@
     {
         "name": "GLITCHED",
         "visuals": {
-            "primary_hex": "0xBFFF00",
+            "primary_hex": "0x209e2a",
             "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/main/assets/glitched.png"
         },
         "unobtainable": false,
