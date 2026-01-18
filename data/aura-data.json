@@ -348,6 +348,17 @@
         }
     },
     {
+        "identifier": "Flutter",
+        "properties": {
+            "name": "Flutter",
+            "base_chance": 5000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": ":Flushed:",
         "properties": {
             "name": ":Flushed:",
@@ -736,6 +747,17 @@
         }
     },
     {
+        "identifier": "Lantern",
+        "properties": {
+            "name": "Lantern",
+            "base_chance": 333333,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Celestial",
         "properties": {
             "name": "Celestial",
@@ -856,6 +878,18 @@
             "biome_amplifier": [
                 "None",
                 1
+            ]
+        }
+    },
+    {
+        "identifier": "Player_Respawn",
+        "properties": {
+            "name": "Player : Respawn",
+            "base_chance": 19999992,
+            "native_biome": "CYBERSPACE",
+            "biome_amplifier": [
+                "CYBERSPACE",
+                2
             ]
         }
     },
@@ -1205,6 +1239,29 @@
         }
     },
     {
+        "identifier": "Sharkyn",
+        "properties": {
+            "name": "Sharkyn",
+            "base_chance": 10000000,
+            "native_biome": "RAINY",
+            "biome_amplifier": [
+                "RAINY",
+                4
+            ]
+        }
+    },
+    {
+        "identifier": "Melodic",
+        "properties": {
+            "name": "Melodic",
+            "base_chance": 11300000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Sailor",
         "properties": {
             "name": "Sailor",
@@ -1299,6 +1356,17 @@
         }
     },
     {
+        "identifier": "Apotheosis",
+        "properties": {
+            "name": "Apotheosis",
+            "base_chance": 24691356,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Blizzard",
         "properties": {
             "name": "Blizzard",
@@ -1315,6 +1383,17 @@
         "properties": {
             "name": "Arcane : Dark",
             "base_chance": 30000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Flora_Florest",
+        "properties": {
+            "name": "Flora : Florest",
+            "base_chance": 32800000,
             "biome_amplifier": [
                 "None",
                 1
@@ -1610,6 +1689,18 @@
         }
     },
     {
+        "identifier": "Prophecy",
+        "properties": {
+            "name": "Prophecy",
+            "base_chance": 275649430,
+            "native_biome": "HEAVEN",
+            "biome_amplifier": [
+                "HEAVEN",
+                5
+            ]
+        }
+    },
+    {
         "identifier": "Exotic_Void",
         "properties": {
             "name": "Exotic : Void",
@@ -1865,6 +1956,18 @@
         }
     },
     {
+        "identifier": "Pythios",
+        "properties": {
+            "name": "Pythios",
+            "base_chance": 666666666,
+            "native_biome": "HELL",
+            "biome_amplifier": [
+                "HELL",
+                6
+            ]
+        }
+    },
+    {
         "identifier": "Sovereign",
         "properties": {
             "name": "Sovereign",
@@ -1925,6 +2028,18 @@
         }
     },
     {
+        "identifier": "Ascendent",
+        "properties": {
+            "name": "Ascendent",
+            "base_chance": 935000000,
+            "native_biome": "HEAVEN",
+            "biome_amplifier": [
+                "HEAVEN",
+                5
+            ]
+        }
+    },
+    {
         "identifier": "NYCTOPHOBIA",
         "properties": {
             "name": "Nyctophobia",
@@ -1952,6 +2067,36 @@
         "properties": {
             "name": "Luminosity",
             "base_chance": 1200000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Leviathan",
+        "properties": {
+            "name": "Leviathan",
+            "base_chance": 1730400000,
+            "fixed_rarity": true,
+            "native_biome": "RAINY",
+            "biome_exclusive": true,
+            "biome_amplifier": [
+                "RAINY",
+                1
+            ],
+            "rank": "challenged"
+        }
+    },
+    {
+        "identifier": "BREAKTHROUGH",
+        "properties": {
+            "name": "Breakthrough",
+            "base_chance": 1999999999,
+            "biome_blacklist": [
+                "GLITCHED",
+                "NULL"
+            ],
             "biome_amplifier": [
                 "None",
                 1
@@ -3564,6 +3709,7 @@
             "name": "Fault",
             "base_chance": 3000,
             "native_biome": "GLITCHED",
+            "biome_exclusive": true,
             "biome_amplifier": [
                 "GLITCHED",
                 1
@@ -3577,6 +3723,7 @@
             "name": "Glitch",
             "base_chance": 12210110,
             "native_biome": "GLITCHED",
+            "biome_exclusive": true,
             "biome_amplifier": [
                 "GLITCHED",
                 1
@@ -3589,7 +3736,10 @@
         "properties": {
             "name": "Illusionary",
             "base_chance": 10000000,
+            "ping_rarity": 99999998,
+            "fixed_rarity": true,
             "native_biome": "CYBERSPACE",
+            "biome_exclusive": true,
             "biome_amplifier": [
                 "CYBERSPACE",
                 1
@@ -3603,6 +3753,7 @@
             "name": "Oppression",
             "base_chance": 220000000,
             "native_biome": "GLITCHED",
+            "biome_exclusive": true,
             "biome_amplifier": [
                 "GLITCHED",
                 1
@@ -3650,11 +3801,26 @@
         }
     },
     {
+        "identifier": "Borealis",
+        "properties": {
+            "name": "Borealis",
+            "base_chance": 13333333,
+            "native_biome": "DREAMSPACE",
+            "biome_exclusive": true,
+            "biome_amplifier": [
+                "DREAMSPACE",
+                1
+            ],
+            "rank": "challenged"
+        }
+    },
+    {
         "identifier": "Dreammetric",
         "properties": {
             "name": "Dreammetric",
             "base_chance": 520000000,
             "native_biome": "DREAMSPACE",
+            "biome_exclusive": true,
             "biome_amplifier": [
                 "DREAMSPACE",
                 1
@@ -3680,6 +3846,8 @@
         "properties": {
             "name": "Memory",
             "base_chance": 100,
+            "ping_rarity": 99999998,
+            "fixed_rarity": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -3693,6 +3861,8 @@
         "properties": {
             "name": "Oblivion",
             "base_chance": 2000,
+            "ping_rarity": 999999998,
+            "fixed_rarity": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -3706,6 +3876,8 @@
         "properties": {
             "name": "Neferkhaf",
             "base_chance": 1000,
+            "ping_rarity": 99999998,
+            "fixed_rarity": true,
             "biome_amplifier": [
                 "None",
                 1

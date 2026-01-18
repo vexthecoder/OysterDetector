@@ -9,7 +9,7 @@
         "always_send": false,
         "ping_everyone": false,
         "rpc_compatible": true,
-        "multiplier": 0
+        "multiplier": 1
     },
     {
         "name": "WINDY",
@@ -130,7 +130,7 @@
         "ping_everyone": false,
         "current_event": false,
         "rpc_compatible": true,
-        "multiplier": 0
+        "multiplier": 1
     },
     {
         "name": "GRAVEYARD",
@@ -143,7 +143,7 @@
         "ping_everyone": false,
         "current_event": false,
         "rpc_compatible": true,
-        "multiplier": 0
+        "multiplier": 1
     },
     {
         "name": "PUMPKIN MOON",
@@ -156,7 +156,7 @@
         "ping_everyone": false,
         "current_event": false,
         "rpc_compatible": true,
-        "multiplier": 0
+        "multiplier": 1
     },
     {
         "name": "BLOOD RAIN",
@@ -169,7 +169,7 @@
         "ping_everyone": false,
         "current_event": false,
         "rpc_compatible": true,
-        "multiplier": 0
+        "multiplier": 1
     },
     {
         "name": "AURORA",
@@ -195,7 +195,7 @@
         "ping_everyone": true,
         "snipe_protection": true,
         "rpc_compatible": true,
-        "multiplier": 0
+        "multiplier": 1
     },
     {
         "name": "DREAMSPACE",
@@ -208,7 +208,7 @@
         "ping_everyone": true,
         "snipe_protection": true,
         "rpc_compatible": true,
-        "multiplier": 0
+        "multiplier": 1
     },
     {
         "name": "CYBERSPACE",
