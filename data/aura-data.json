@@ -916,6 +916,18 @@
         }
     },
     {
+        "identifier": "FLOWED",
+        "properties": {
+            "name": "Flowed",
+            "base_chance": 2121121,
+            "native_biome": "NULL",
+            "biome_amplifier": [
+                "NULL",
+                1000
+            ]
+        }
+    },
+    {
         "identifier": "Virtual",
         "properties": {
             "name": "Virtual",
